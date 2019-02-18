@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Factorisation
+Série @ Série 2
+Consigne 1 @ Une forme factorisée de $3x^2+5x$ est …
+Proposition 1 @ $x(3x+5)$
+Proposition 2 @ $3x(x+5)$
+Proposition 3 @ $5x(x+1)$
+Proposition 4 @ $15x(x+1)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Dans l’égalité $7x^2-9x=\cdots(7x-9)$, le terme manquant est …
+Proposition 1 @ $x$
+Proposition 2 @ $7$
+Proposition 3 @ $7x$
+Proposition 4 @ $-x$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $-2x^2+6x$ est égal à …
+Proposition 1 @ $2x(-x+3)$
+Proposition 2 @ $2x(x+3)$
+Proposition 3 @ $-2x(x+3)$
+Proposition 4 @ $-2(x^2-6x)$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Une forme factorisée de $-9t^2-36t$ est …
+Proposition 1 @ $-9t(t+4)$
+Proposition 2 @ $-9t(t-4)$
+Proposition 3 @ $9t(-t+4)$
+Proposition 4 @ $-3t(3t+13)$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Dans l’égalité $12x^2-144x=12x(x-\cdots)$, le nombre manquant est …
+Proposition 1 @ $12$
+Proposition 2 @ $144$
+Proposition 3 @ $-12$
+Proposition 4 @ $132$
+Reponse 5 @ 1
+
+Image 5 @

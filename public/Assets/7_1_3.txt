@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Valeur d’une expression (1)
+Série @ Série 3
+Consigne 1 @ Pour $x=2$, la valeur prise par l'expression $\frac{3x+4}{2}$ est …
+Proposition 1 @ $5$
+Proposition 2 @ $7$
+Proposition 3 @ $9$
+Proposition 4 @ $\frac{9}{2}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @  $\textrm{B}=\frac{2t+3}{9}$. Pour $t=6$, … 
+Proposition 1 @ $\textrm{B}=\frac{5}{3}$
+Proposition 2 @ $\textrm{B}=1,67$
+Proposition 3 @ $\textrm{B}=\frac{30}{9}$
+Proposition 4 @ $\textrm{B}=\frac{11}{9}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{C}=\frac{3y-4}{2}$. Pour $y=-2$, $\textrm{C}$ est égal à …
+Proposition 1 @ $-5$
+Proposition 2 @ $-8$
+Proposition 3 @ $1$
+Proposition 4 @ $-10$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Pour $a=3$, la valeur prise par l'expression $\frac{a+5}{a-1}$ est …
+Proposition 1 @ $4$
+Proposition 2 @ $2$
+Proposition 3 @ $-5$
+Proposition 4 @ $8$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{E}=\frac{2+x}{12-x}$. L'affirmation vraie est …
+Proposition 1 @ pour $x=2$, $\textrm{E}=0,4$
+Proposition 2 @ pour $x=10$, $\textrm{E}=0,5$
+Proposition 3 @ pour $x=0$, $\textrm{E}=-6$
+Proposition 4 @ pour $x=-2$, $\textrm{E}=\frac{1}{14}$
+Reponse 5 @ 1
+
+Image 5 @

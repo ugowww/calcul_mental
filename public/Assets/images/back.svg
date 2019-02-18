@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 28" style="enable-background:new 0 0 56 28;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{clip-path:url(#SVGID_4_);fill:#00A1DE;}
+	
+		.st3{clip-path:url(#SVGID_6_);fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{clip-path:url(#SVGID_8_);}
+	.st5{clip-path:url(#SVGID_10_);fill:#80C7DD;}
+	
+		.st6{clip-path:url(#SVGID_12_);fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Grid" class="st0">
+</g>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="28" width="28" height="28"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<g>
+					<defs>
+						<rect id="SVGID_3_" x="28" width="28" height="28"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<path class="st2" d="M56,14c0,7.7-6.3,14-14,14s-14-6.3-14-14S34.3,0,42,0S56,6.3,56,14"/>
+				</g>
+				<g>
+					<defs>
+						<rect id="SVGID_5_" x="28" width="28" height="28"/>
+					</defs>
+					<clipPath id="SVGID_6_">
+						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+					</clipPath>
+					<polyline class="st3" points="43.5,8.3 37.9,14 43.5,19.7 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_7_" width="28" height="28"/>
+			</defs>
+			<clipPath id="SVGID_8_">
+				<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st4">
+				<g>
+					<defs>
+						<rect id="SVGID_9_" width="28" height="28"/>
+					</defs>
+					<clipPath id="SVGID_10_">
+						<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+					</clipPath>
+					<path class="st5" d="M28,14c0,7.7-6.3,14-14,14S0,21.7,0,14S6.3,0,14,0S28,6.3,28,14"/>
+				</g>
+				<g>
+					<defs>
+						<rect id="SVGID_11_" width="28" height="28"/>
+					</defs>
+					<clipPath id="SVGID_12_">
+						<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+					</clipPath>
+					<polyline class="st6" points="15.5,8.3 9.9,14 15.5,19.7 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

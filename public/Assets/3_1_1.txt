@@ -1,0 +1,47 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Nombres décimaux
+Série @ Série 1
+Consigne 1 @ La fraction ayant $70,4$ pour écriture décimale est …
+Proposition 1 @ $\frac{704}{10}$
+Proposition 2 @ $\frac{70}{4}$
+Proposition 3 @ $\frac{704}{100}$
+Proposition 4 @ $\frac{74}{10}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La fraction qui ne représente pas un nombre décimal est …
+Proposition 1 @ $\frac{5}{7}$
+Proposition 2 @ $\frac{21}{7}$
+Proposition 3 @ $\frac{17}{25}$
+Proposition 4 @ $\frac{8}{10}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Un baril de pétrole correspond à $158,97\ \textrm{L}$. Le nombre de centièmes de litres d’un baril est …
+Proposition 1 @ $15\,897$
+Proposition 2 @ $97$
+Proposition 3 @ $7$
+Proposition 4 @ $58$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le nombre qui a le plus grand nombre de centièmes est …
+Proposition 1 @ $6+\frac{4}{100}$
+Proposition 2 @ $4,78$
+Proposition 3 @ $39,7$
+Proposition 4 @ $\frac{2\,345}{1\,000}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Jules a pris $\frac{5}{4}\ \textrm{L}$ de lait d’une bouteille de contenance $1,5\ \textrm{L}$. La quantité restante est …
+Proposition 1 @ $0,25\ \textrm{L}$
+Proposition 2 @ $1,25\ \textrm{L}$
+Proposition 3 @ $0,75\ \textrm{L}$
+Proposition 4 @ $0,7\ \textrm{L}$
+Reponse 5 @ 1
+
+Image 5 @

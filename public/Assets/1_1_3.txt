@@ -1,0 +1,48 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Produit de deux nombres
+Série @ Série 3
+Consigne 1 @ Le produit $18×99$ est égal à …
+Proposition 1 @ $18×100−18×1$
+Proposition 2 @ $18×100−1$
+Proposition 3 @ $1792$
+Proposition 4 @ $18×100+18×1$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $42×101$ est égal à …
+Proposition 1 @ $4242$
+Proposition 2 @ $4201$
+Proposition 3 @ $42420$
+Proposition 4 @ $42101$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit $65×199$ est égal à …
+Proposition 1 @ $65×200−65$
+Proposition 2 @ $65×200−1$
+Proposition 3 @ $13065$
+Proposition 4 @ $6435$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Le nombre manquant dans l’égalité $37×\cdots=3737$ est …
+Proposition 1 @ $101$
+Proposition 2 @ $99$
+Proposition 3 @ $11$
+Proposition 4 @ $111$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le produit d’un nombre entier naturel par $99$ est égal à $2772$. Alors ce nombre entier est …
+Proposition 1 @ $28$
+Proposition 2 @ $27$
+Proposition 3 @ $29$
+Proposition 4 @ $38$
+Reponse 5 @ 1
+
+Image 5 @

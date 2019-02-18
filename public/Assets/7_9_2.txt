@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Relations entre variables
+Série @ Série 2
+
+Consigne 1 @ L’aire $\textrm{A}$ d’un carré de côté $c$ est $\textrm{A}=c^2$. Alors l’expression du côté en fonction de l’aire est …
+Proposition 1 @ $c=\sqrt{\textrm{A}}$
+Proposition 2 @ $c=\frac{\textrm{A}}{2}$
+Proposition 3 @ $c=\textrm{A}^2$
+Proposition 4 @ $c=\textrm{A}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le périmètre $\textrm{P}$ d’un triangle de base $b$ et de hauteur associée $h$ est $\textrm{P}=\frac{b\times h}{2}$. Par conséquent …
+Proposition 1 @ $h=\frac{2\textrm{P}}{b}$
+Proposition 2 @ $2h=\textrm{P}\times b$
+Proposition 3 @ $\frac{h}{2}=\frac{2\textrm{P}}{b}$
+Proposition 4 @ $h=2\textrm{P}-b$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $x$ et $y$ sont deux nombres réels positifs tels que $y=4x^2$. L’expression de $x$ en fonction de $y$ est …
+Proposition 1 @ $x=\frac{\sqrt{y}}{2}$
+Proposition 2 @ $x=2y$
+Proposition 3 @ $x=\sqrt{y-4}$
+Proposition 4 @ $x=\frac{\sqrt{y}}{4}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’aire $\textrm{A}$ d’un disque de rayon $r$ est $\textrm{A}=\pi\times r^2$. Alors le rayon $r$ d’un disque d’aire $\textrm{A}$ est …
+Proposition 1 @ $r=\sqrt{\frac{\textrm{A}}{\pi}}$
+Proposition 2 @ $r=\frac{\textrm{A}}{\pi}$
+Proposition 3 @ $r=\sqrt{\textrm{A}-\pi}$
+Proposition 4 @ $r=\pi\sqrt{\textrm{A}}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le volume $\textrm{V}$ d’un cylindre de rayon $r$ et de hauteur $h$ est $\textrm{V}=\pi\times r^2\times h$. Par conséquent …
+Proposition 1 @ $r=\sqrt{\frac{\textrm{V}}{\pi h}}$
+Proposition 2 @ $r=\frac{\sqrt{\textrm{V}}}{\pi h}$
+Proposition 3 @ $r=\frac{\textrm{V}}{\pi h}$
+Proposition 4 @ $r=\sqrt{\textrm{V}\times\pi h}$
+Reponse 5 @ 1
+
+Image 5 @

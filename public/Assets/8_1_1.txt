@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Développement
+Série @ Série 1
+Consigne 1 @ Pour tout nombre réel $x$, $(x+1)^2$ est égal à …
+Proposition 1 @ $x^2+2x+1$
+Proposition 2 @ $x^2+2x+2$
+Proposition 3 @ $x^2+1$
+Proposition 4 @ $3x+1$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour tout nombre réel $x$, $(x+4)^2$ est égal à …
+Proposition 1 @ $x^2+8x+16$
+Proposition 2 @ $x^2+8x+8$
+Proposition 3 @ $x^2+8$
+Proposition 4 @ $x^2+16$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ En développant $(x-3)^2$, on obtient $x^2-\cdots+9$. Le terme manquant est …
+Proposition 1 @ $6x$
+Proposition 2 @ $3x$
+Proposition 3 @ $2x$
+Proposition 4 @ $12x$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour tout nombre réel $x$, l'affirmation vraie est …
+Proposition 1 @ $(x-1)^2=x^2-2x+1$
+Proposition 2 @ $(x-5)^2=x^2+10x-25$
+Proposition 3 @ $(x+2)^2=x^2+4$
+Proposition 4 @ $(10+x)^2=x^2+20x+20$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La forme développée et réduite de $(7-x)^2$ est …
+Proposition 1 @ $49-14x+x^2$
+Proposition 2 @ $49-14x-x^2$
+Proposition 3 @ $14-x^2$
+Proposition 4 @ $49-x^2$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,49 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Production d'une expression littérale
+Série @ Série 3
+
+Consigne 1 @ Le périmètre d’un rectangle de largeur $l$ et de longueur $\textrm{L}$ est …
+Proposition 1 @ $2l+2\textrm{L}$
+Proposition 2 @ $l\textrm{L}$
+Proposition 3 @ $2l+\textrm{L}$
+Proposition 4 @ $l^2+\textrm{L}^2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Amélie économise $20\ €$ par mois. Au bout de $n$ mois, elle aura économisé …
+Proposition 1 @ $20n\ €$
+Proposition 2 @ $20+n\ €$
+Proposition 3 @ $20\ €$
+Proposition 4 @ $240\ €$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Un train se déplace à la vitesse constante de $200\ \textrm{km}\cdot\textrm{h}^{-1}$. En $n$ heures, il aura parcouru …
+Proposition 1 @ $200n\ \textrm{km}$
+Proposition 2 @ $200\ \textrm{km}$
+Proposition 3 @ $200+n\ \textrm{km}$
+Proposition 4 @ $\frac{200}{n}\ \textrm{km}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ L’aire d’un carré de côté $c$ est …
+Proposition 1 @ $c^2$
+Proposition 2 @ $4$
+Proposition 3 @ $10+x$
+Proposition 4 @ $11+x$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Une population de $1000$ bactéries double chaque heure. Au bout de $n$ heures, il y aura …
+Proposition 1 @ $1000\times2^n$ bactéries
+Proposition 2 @ $2000$ bactéries
+Proposition 3 @ $1000\times2\times n$ bactéries
+Proposition 4 @ $1000+2\times n$ bactéries
+Reponse 5 @ 1
+
+Image 5 @

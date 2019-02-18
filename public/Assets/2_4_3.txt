@@ -1,0 +1,47 @@
+Thème @ Nombres entiers relatifs
+Sous-Thème @ Priorités opératoires
+Série @ Série 3
+Consigne 1 @ On choisit le nombre $-3$, on l'élève au carré, puis on double le résultat et on retranche $5$. Alors …
+Proposition 1 @ le résultat est $13$
+Proposition 2 @ le résultat est $-23$
+Proposition 3 @ le résultat est $23$
+Proposition 4 @ le résultat est $45$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Choisir un nombre, lui ajouter $-2$, élever le résultat au cube. Si le nombre choisi est …
+Proposition 1 @ $4$, alors le résultat est $8$
+Proposition 2 @ $5$, alors le résultat est $62$
+Proposition 3 @ $-2$, alors le résultat est $216$
+Proposition 4 @ $-1$, alors le résultat est $4$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Choisir un nombre $x$, prendre le double de la somme de ce nombre et du carré de $5$. Alors …
+Proposition 1 @ si $x=-1$, le résultat est $48$
+Proposition 2 @ si $x=-3$, le résultat est $19$
+Proposition 3 @ si $x=-2$, le résultat est $23$
+Proposition 4 @ si $x=-4$, le résultat est $17$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Alex choisit un nombre, lui ajoute $-3$ et double le résultat. Il obtient $16$. Il avait choisi …
+Proposition 1 @ le nombre $11$
+Proposition 2 @ le nombre $7$
+Proposition 3 @ le nombre $-6$
+Proposition 4 @ le nombre $26$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ On choisit un nombre, on lui retranche $2$, on élève au carré, on double le résultat. Si l'on obtient …
+Proposition 1 @ $50$, le nombre choisi est $-3$
+Proposition 2 @ $10$, le nombre choisi est $-4$
+Proposition 3 @ $12$, le nombre choisi est $-10$
+Proposition 4 @ $-20$, le nombre choisi est $3$
+Reponse 5 @ 1
+
+Image 5 @

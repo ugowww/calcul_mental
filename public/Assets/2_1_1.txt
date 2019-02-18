@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Comparaison, addition - soustraction
+Série @ Série 1
+Consigne 1 @ L'affirmation correcte est …
+Proposition 1 @ $-17<8$
+Proposition 2 @ $-23$ est supérieur à $-22$
+Proposition 3 @ $-27\geq18$
+Proposition 4 @ $14<-14$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le rangement par ordre croissant des nombres $14\ ;\,-12\ ;\,7\ ;\,-63$ est …
+Proposition 1 @ $-63\ ;\,-12\ ;\,7\ ;\,14$
+Proposition 2 @ $-63\ ;\,7\ ;\,-12\ ;\,14$
+Proposition 3 @ $14\ ;\,7\ ;\,-12\ ;\,-63$
+Proposition 4 @ $14\ ;\,7\ ;\,-63\ ;\,-12$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le rangement par ordre décroissant des nombres $-25\ ;\,10\ ;\,0\ ;\,-24$ est …
+Proposition 1 @ $10\ ;\,0\ ;\,-24\ ;\,-25$
+Proposition 2 @ $10\ ;\,0\ ;\,-25\ ;\,-24$
+Proposition 3 @ $-25\ ;\,-24\ ;\,0\ ;\,10$
+Proposition 4 @ $-24\ ;\,-25\ ;\,0\ ;\,10$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Les deux inégalités vraies sont …
+Proposition 1 @ $-295<56$ et $-132<-123$
+Proposition 2 @ $-45<-34$ et $-56<-65$
+Proposition 3 @ $45<-12$ et $57<68$
+Proposition 4 @ $-251<-250$ et $-153<-164$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Les quatre nombres ci-dessous sont classés par ordre croissant …
+Proposition 1 @ $-652\ ;\,-562\ ;\,-265\ ;\,-256$
+Proposition 2 @ $-785\ ;\,-587\ ;\,-857\ ;\,758$
+Proposition 3 @ $643\ ;\,463\ ;\,364\ ;\,-364$
+Proposition 4 @ $-591\ ;\,-195\ ;\,-159\ ;\,-591$
+Reponse 5 @ 1
+
+Image 5 @

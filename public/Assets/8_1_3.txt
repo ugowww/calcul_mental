@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Développement
+Série @ Série 3
+Consigne 1 @ $\textrm{A}=(x+4)(x-4)$. L’expression développée et réduite de $A$ est …
+Proposition 1 @ $x^2-16$
+Proposition 2 @ $x^2-8x+16$
+Proposition 3 @ $x^2-8$
+Proposition 4 @ $x^2-8x-16$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour tout nombre réel $x$,le produit $(5-x)(5+x)$ est égal à …
+Proposition 1 @ $25-x^2$
+Proposition 2 @ $25-10x+x^2$
+Proposition 3 @ $10-x^2$
+Proposition 4 @ $25-10x-x^2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Pour tout nombre réel $x$, $(5x-3)(5x+3)$ est égal à …
+Proposition 1 @ $25x^2-9$
+Proposition 2 @ $25x^2-30x+9$
+Proposition 3 @ $5x^2-9$
+Proposition 4 @ $5x^2-30x+9$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour tout nombre réel $x$, $(10+0,6x)(10-0,6x)$ peut s'écrire …
+Proposition 1 @ $100-0,36x^2$
+Proposition 2 @ $100-12x+0,36x^2$
+Proposition 3 @ $0,36x^2-100$
+Proposition 4 @ $100-0,6x^2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour tout nombre réel $x$, l’affirmation vraie est …
+Proposition 1 @ $(1-2x)(1+2x)=1-4x^2$
+Proposition 2 @ $(3x+2)(3x-2)=9x^2+4$
+Proposition 3 @ $(x-0,3)(x+0,3)=x^2-0,9$
+Proposition 4 @ $(4x-7)(4x+7)=16x^2-48$
+Reponse 5 @ 1
+
+Image 5 @

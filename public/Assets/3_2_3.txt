@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Puissances de 10 (exposant entier relatif)
+Série @ Série3
+Consigne 1 @ L’écriture décimale du nombre $2\times10^{-4}\times5$ est …
+Proposition 1 @ $0,001$
+Proposition 2 @ $100 000$
+Proposition 3 @ $0,000 01$
+Proposition 4 @ $0,01$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’écriture décimale du nombre $2,5\times10^{-3}\times4\times10^2$ est …
+Proposition 1 @ $1$
+Proposition 2 @ $0,000 01$
+Proposition 3 @ $100$
+Proposition 4 @ $0,1$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’épaisseur d’une feuille de journal est $70\times10^{−3} \textrm{mm}$. La hauteur d’une pile de $2 000$ feuilles est …
+Proposition 1 @ $14 \textrm{cm}$
+Proposition 2 @ $140 \textrm{cm}$
+Proposition 3 @ $14 \textrm{mm}$
+Proposition 4 @ $72 \textrm{cm}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ La longueur d’un acarien est environ $125\times10^{−6} \textrm{m}$. Une file de $8 000$ acariens a pour longueur …
+Proposition 1 @ $1 \textrm{m}$
+Proposition 2 @ $1 \textrm{km}$
+Proposition 3 @ $0,9 \textrm{m}$
+Proposition 4 @ $1 \textrm{cm}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’écriture décimale du nombre $\frac{5\times10^{-11}\times12\times10^4}{2\times10^{-3}}$ est …
+Proposition 1 @ $0,003$
+Proposition 2 @ $0,000 000 003$
+Proposition 3 @ $300$
+Proposition 4 @ $3$
+Reponse 5 @ 1
+
+Image 5 @

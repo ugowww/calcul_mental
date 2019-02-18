@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Factorisation
+Série @ Série 1
+Consigne 1 @ Une forme factorisée de $6x+2$ est …
+Proposition 1 @ $2(3x+1)$
+Proposition 2 @ $2(3x+2)$
+Proposition 3 @ $3(2x+1)$
+Proposition 4 @ $6(x+1)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Une forme factorisée de $(3x-12)$ est …
+Proposition 1 @ $3(x-4)$
+Proposition 2 @ $3(x-12)$
+Proposition 3 @ $4(x-3)$
+Proposition 4 @ $3(3x-4)$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $14t-21$ est égal à …
+Proposition 1 @ $7(2t-3)$
+Proposition 2 @ $7(2t-21)$
+Proposition 3 @ $2(7t-3)$
+Proposition 4 @ $14(t-2)$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Dans l’égalité $10-5x=5(2-\cdots)$, le terme manquant est …
+Proposition 1 @ $x$
+Proposition 2 @ $5x$
+Proposition 3 @ $-x$
+Proposition 4 @ $-1$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Dans l’égalité $-8x+12=\cdots(2x-3)$, le nombre manquant est …
+Proposition 1 @ $-4$
+Proposition 2 @ $4$
+Proposition 3 @ $8$
+Proposition 4 @ $6$
+Reponse 5 @ 1
+
+Image 5 @

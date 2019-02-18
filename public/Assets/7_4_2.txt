@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Transformation d’écriture
+Série @ Série 2
+Consigne 1 @ Pour $x\neq0$, $x+\frac{3}{x}$ est égal à …
+Proposition 1 @ $\frac{x^2+3}{x}$
+Proposition 2 @ $\frac{x+3}{x}$
+Proposition 3 @ $3x$
+Proposition 4 @ $3$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Dans l'égalité $3a-\frac{2}{a}=\frac{\cdots}{a}$, avec $a\neq0$, le terme manquant est …
+Proposition 1 @ $3a^2-2$
+Proposition 2 @ $5a$
+Proposition 3 @ $3a-2$
+Proposition 4 @ $6$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Dans $\mathbb{R}^*$, une égalité vraie est …
+Proposition 1 @ $\frac{-x^2+5}{x}=-x+\frac{5}{x}$
+Proposition 2 @ $\frac{-x^2+5}{x}=-x+5$
+Proposition 3 @ $\frac{-x^2+5}{x}=-x^2+\frac{5}{x}$
+Proposition 4 @ $\frac{-x^2+5}{x}=-5x$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour $x\neq0$, une écriture de $\frac{2}{x}+\frac{1}{x^2}$ est …
+Proposition 1 @ $\frac{2x+1}{x^2}$
+Proposition 2 @ $\frac{3}{x^2}$
+Proposition 3 @ $\frac{3}{x}$
+Proposition 4 @ $\frac{2}{x^2}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Dans $\mathbb{R}^*$, $\frac{3-4x}{x^2}$ est égal à …
+Proposition 1 @ $\frac{3}{x^2}-\frac{4}{x}$
+Proposition 2 @ $\frac{3}{x^2}-4$
+Proposition 3 @ $\frac{-1}{x}$
+Proposition 4 @ $\frac{3}{x}-4$
+Reponse 5 @ 1
+
+Image 5 @

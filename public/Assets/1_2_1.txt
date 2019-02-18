@@ -1,0 +1,48 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Calculs avec les nombres 25, 50, 75 …
+Série @ Série 1
+Consigne 1 @ $25+75$ est égal à …
+Proposition 1 @ $100$
+Proposition 2 @ $90$
+Proposition 3 @ $110$
+Proposition 4 @ $95$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $200-175$ est égal à …
+Proposition 1 @ $25$
+Proposition 2 @ $125$
+Proposition 3 @ $15$
+Proposition 4 @ $115$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le nombre manquant dans l’égalité $225+\cdots=300$ est …
+Proposition 1 @ $75$
+Proposition 2 @ $175$
+Proposition 3 @ $125$
+Proposition 4 @ $50$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ L’égalité correcte est …
+Proposition 1 @ $225-50=125+50$
+Proposition 2 @ $150+25=200-75$
+Proposition 3 @ $125+75=250-25$
+Proposition 4 @ $75+50=175-25$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $325-150$ est égal à …
+Proposition 1 @ $175$
+Proposition 2 @ $125$
+Proposition 3 @ $275$
+Proposition 4 @ $225$
+Reponse 5 @ 1
+
+Image 5 @

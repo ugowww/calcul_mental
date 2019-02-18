@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Inégalités 1
+Série @ Série 2
+Consigne 1 @ Si $x$ désigne un nombre réel tel que $x<5$, alors …
+Proposition 1 @ $x-3<2$
+Proposition 2 @ $x-2>3$
+Proposition 3 @ $x-3>2$
+Proposition 4 @ $x-5>0$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Si $a$ désigne un nombre réel tel que $a>5$, alors …
+Proposition 1 @ $a+1>6$
+Proposition 2 @ $a+5<10$
+Proposition 3 @ $a+1<6$
+Proposition 4 @ $a+3<8$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Si $y$ désigne un nombre réel tel que $y\leq-12$, alors …
+Proposition 1 @ $y+3\leq-9$
+Proposition 2 @ $y+3\geq-8$
+Proposition 3 @ $y+8\geq0$
+Proposition 4 @ $y+1\leq-13$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Si $b$ désigne un nombre réel tel que $b<1$, alors …
+Proposition 1 @ $b-1<0$
+Proposition 2 @ $b-1>0$
+Proposition 3 @ $b-3>-2$
+Proposition 4 @ $b-5>-5$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Si $x$ désigne un nombre réel tel que $x\geq0$, alors …
+Proposition 1 @ $x-2\geq-2$
+Proposition 2 @ $x-2\geq4$
+Proposition 3 @ $x-2\leq-5$
+Proposition 4 @ $x-2\leq0$
+Reponse 5 @ 1
+
+Image 5 @

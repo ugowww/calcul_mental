@@ -56,7 +56,7 @@ class index extends Component {
      
       return (
     <Col key= {"col-"+index} xs = {{span: 24}} md = {{span: 12}} lg = {{span: 8}} ><div style={{  padding: '10px' }}>
-    <Card ref={index} key= {"card-"+index} title={value.theme} onClick={(e,key)=>this._onClick(e,index)} bodyStyle={{display:'none'}}  headStyle={{cursor:'pointer',background: hexToRGB(value.color,0.2),borderBottom:'1px solid #000000',color:"#000000",textAlign:'center',fontWeight:600,fontSize: '0.975rem'}} bordered={true} style={{ width: 'auto',border:'1px solid #000000' }}>
+    <Card ref={index} key= {"card-"+index} title={value.theme} onClick={(e,key)=>this._onClick(e,index)} bodyStyle={{display:'none'}}  headStyle={{cursor:'pointer',background: hexToRGB(value.color,0.2),border:'1px solid'+value.color,color:"#000000",textAlign:'center',fontWeight:600,fontSize: '0.975rem'}} bordered={true} style={{ width: 'auto',border:'0px solid' }}>
     {  value.soustheme.map((item,index) => {
       let _option = item.option;
     return  ( <Collapse  key={"collapse-"+index} accordion bordered={false}  >

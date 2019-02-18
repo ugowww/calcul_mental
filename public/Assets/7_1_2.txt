@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Valeur d’une expression (1)
+Série @ Série 2
+Consigne 1 @ Pour $x=\frac{1}{3}$, la valeur prise par l'expression $3x+5$ est …
+Proposition 1 @ $6$
+Proposition 2 @ $16$
+Proposition 3 @ $\frac{48}{9}$
+Proposition 4 @ $\frac{25}{3}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=4a-2$. Pour $a=-\frac{3}{2}$, …
+Proposition 1 @ $\textrm{A}=-8$
+Proposition 2 @ $\textrm{A}=4$
+Proposition 3 @ $\textrm{A}=-14$
+Proposition 4 @ $\textrm{A}=-7$
+Reponse 2 @ 1
+
+Image 2 @
+
+
+Consigne 3 @ $f$ est la fonction définie sur $\mathbb{R}$ par $f(t)=1+8t$. L’image de $\frac{3}{4}$ par $f$ est …
+Proposition 1 @ $7$
+Proposition 2 @ $\frac{27}{4}$
+Proposition 3 @ $6$
+Proposition 4 @ $\frac{25}{4}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour $a=\sqrt{2}$, la valeur prise par l'expression $2-3a$ est égale à …
+Proposition 1 @ $2-3\sqrt{2}$
+Proposition 2 @ $-2,243$
+Proposition 3 @ $2-\sqrt{6}$
+Proposition 4 @ $-\sqrt{2}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $g$ est la fonction définie sur $\mathbb{R}$ par $g(x)=5-4x$. $g(\sqrt{3})$ est égal à …
+Proposition 1 @ $5-4\sqrt{3}$
+Proposition 2 @ $\sqrt{3}$
+Proposition 3 @ $-1,93$
+Proposition 4 @ $5-\sqrt{12}$
+Reponse 5 @ 1
+
+Image 5 @

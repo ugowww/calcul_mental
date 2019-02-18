@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Factorisation
+Série @ Série 1
+Consigne 1 @ Pour tout nombre réel $x$, la forme  factorisée de $x^2+10x+25$ est …
+Proposition 1 @ $(x+5)^2$
+Proposition 2 @ $(x+12,5)^2$
+Proposition 3 @ $(x+5)(x-5)$
+Proposition 4 @ $x(x+10)+25$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour tout nombre réel $x$, l’expression factorisée de $4x^2+4x+1$ est …
+Proposition 1 @ $(2x+1)^2$
+Proposition 2 @ $(4x+1)^2$
+Proposition 3 @ $(2x+1)(2x-1)$
+Proposition 4 @ $(2x+0,5)^2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La forme factorisée de $x^2-6x+9$ est …
+Proposition 1 @ $(x-3)^2$
+Proposition 2 @ $(x-4,5)^2$
+Proposition 3 @ $(x + 3)(x - 3)$
+Proposition 4 @ $(x+3)^2$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour tout nombre réel $x$, l’affirmation vraie est …
+Proposition 1 @ $16x^2-8x+1=(4x-1)^2$
+Proposition 2 @ $9-24x+16x^2=(3+4x)^2$
+Proposition 3 @ $9x^2-6x+1=(3x+1)(3x-1)$
+Proposition 4 @ $4x^2+8x+1(2x+0,5)^2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La forme factorisée de $49x^2-28x+4$ est …
+Proposition 1 @ $(7x-2)^2$
+Proposition 2 @ $(49x-2)^2$
+Proposition 3 @ $(7x+2)(7x-2)$
+Proposition 4 @ $(7x+2)^2$
+Reponse 5 @ 1
+
+Image 5 @

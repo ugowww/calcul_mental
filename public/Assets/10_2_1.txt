@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Inégalités 2
+Série @ Série 1
+Consigne 1 @ Si $a$ et $b$ désignent des nombres réels tels que $a\leq b$, alors …
+Proposition 1 @ $2a\leq2b$
+Proposition 2 @ $17a\geq17b$
+Proposition 3 @ $-3a\leq-3b$
+Proposition 4 @ $\frac{a}{3}\geq\frac{b}{3}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Si $a$ et $b$ désignent des nombres réels tels que $a>b$, alors …
+Proposition 1 @ $-2a<-2b$
+Proposition 2 @ $-7a>-7b$
+Proposition 3 @ $3a<3b$
+Proposition 4 @ $\frac{a}{2}<\frac{b}{2}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Si $x$ désigne un nombre réel tel que $2x\leq8$, alors …
+Proposition 1 @ $x\leq4$
+Proposition 2 @ $x\geq4$
+Proposition 3 @ $x\leq-4$
+Proposition 4 @ $x\leq\frac{1}{4}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Si $x$ désigne un nombre réel tel que $-3x\leq18$, alors …
+Proposition 1 @ $x\geq-6$
+Proposition 2 @ $x\geq6$
+Proposition 3 @ $x\leq-6$
+Proposition 4 @ $x\leq21$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Si $x$ désigne un nombre réel tel que $7x>8$, alors …
+Proposition 1 @ $x>\frac{8}{7}$
+Proposition 2 @ $x<\frac{7}{8}$
+Proposition 3 @ $x<\frac{8}{7}$
+Proposition 4 @ $x>-\frac{8}{7}$
+Reponse 5 @ 1
+
+Image 5 @
