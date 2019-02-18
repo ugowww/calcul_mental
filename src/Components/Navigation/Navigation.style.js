@@ -47,6 +47,13 @@ const NavigationStyle = styled.div `
     right : 0;
 }
 
+.btnvalider {
+    margin-top : 30px;
+    height : 40px;
+    width : 100px;
+    line-height : 40px;
+}
+
 .module-maths-next {
     position: absolute;
     bottom: 8px;

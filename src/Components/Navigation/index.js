@@ -42,7 +42,7 @@ class index extends Component {
            
           {(this.props.try===2 && this.props.level===4) || this.props.mode ? <div className="module-maths-validate"></div> :
            <div className="module-maths-validate">
-           <Button type="primary"  size={"small"} onClick={(e) => this._onClick(e)} disabled={this.props.try===2|| !this.props.select }>VALIDER</Button>
+           <Button className="btnvalider" type="primary"  size={"small"} onClick={(e) => this._onClick(e)} disabled={this.props.try===2|| !this.props.select }>VALIDER</Button>
            </div>
             }
 

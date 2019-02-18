@@ -6,6 +6,7 @@ max-height: 65px;
 
 
 .quiz-answer {
+    cursor:pointer;
     position: relative;
     display: flex;
     flex-flow: row nowrap;
