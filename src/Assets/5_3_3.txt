@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Règles de calcul (2)
+Série @ Série 3
+Consigne 1 @ $\sqrt{20}+\sqrt5$ est égal à …
+Proposition 1 @ $3\sqrt5$
+Proposition 2 @ $5\sqrt5$
+Proposition 3 @ $2\sqrt5$
+Proposition 4 @ $5$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\sqrt8-\sqrt2$ est égal à …
+Proposition 1 @ $\sqrt2$
+Proposition 2 @ $\sqrt6$
+Proposition 3 @ $3\sqrt2$
+Proposition 4 @ $2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\sqrt2+\sqrt4+\sqrt8$ est égal à …
+Proposition 1 @ $3\sqrt2+2$
+Proposition 2 @ $\sqrt{14}$
+Proposition 3 @ $6+\sqrt2$
+Proposition 4 @ $2+\sqrt{10}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $5\sqrt3$ n’est pas égal à …
+Proposition 1 @ $\sqrt{12}+\sqrt3$
+Proposition 2 @ $\sqrt{15}\times\sqrt5$
+Proposition 3 @ $\sqrt{75}$
+Proposition 4 @ $5(\sqrt{12}-\sqrt3)$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $4\sqrt{3}$ est strictement supérieur à …
+Proposition 1 @ $\sqrt{300}-7\sqrt3$
+Proposition 2 @ $1+5\sqrt3-\sqrt3$
+Proposition 3 @ $\sqrt3+2\sqrt{12}$
+Proposition 4 @ $3\sqrt3+\sqrt{27}$
+Reponse 5 @ 1
+
+Image 5 @

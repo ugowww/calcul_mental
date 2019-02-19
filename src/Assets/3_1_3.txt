@@ -1,0 +1,47 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Repérage, comparaison
+Série @ Série 3
+Consigne 1 @ Le plus petit nombre décimal supérieur à $12$, ayant trois chiffres différents après la virgule, est …
+Proposition 1 @ $12,012$
+Proposition 2 @ $12,001$
+Proposition 3 @ $12,034$
+Proposition 4 @ $12,120$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=11,22$, $\textrm{B}=11+\frac{201}{1\,000}$, $\textrm{C}=\frac{112}{10}$, et $\textrm{D}=\frac{1\,102}{100}$. Alors …
+Proposition 1 @ $\textrm{D}<\textrm{C}<\textrm{B}<\textrm{A}$
+Proposition 2 @ $\textrm{C}<\textrm{A}<\textrm{B}<\textrm{D}$
+Proposition 3 @ $\textrm{D}<\textrm{A}<\textrm{B}<\textrm{C}$
+Proposition 4 @ $\textrm{D}<\textrm{C}<\textrm{A}<\textrm{B}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La liste des nombres décimaux rangée par ordre croissant est …
+Proposition 1 @ $-1,320\ ;\,-1,302\ ;\,-1,243\ ;\,-1,234$
+Proposition 2 @ $-1,302\ ;\,-1,320\ ;\,-1,234\ ;\,-1,243$
+Proposition 3 @ $-1,234\ ;\,-1,243;\,-1,302\ ;\,-1,320$
+Proposition 4 @ $-1,243\ ;\,-1,234;\,-1,320\ ;\,-1,302$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le nombre $6,37$ est supérieur ou égal à …
+Proposition 1 @ $6,36$
+Proposition 2 @ $6,4$
+Proposition 3 @ $6+\frac{3}{100}+\frac{7}{10}$
+Proposition 4 @ $\frac{6\,375}{1\,000}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $-2,1\ ;\,-2,11\ ;\,-2-\frac{3}{100}\ ;\,-2-\frac{3}{25}$. Dans cette liste, le plus petit nombre est …
+Proposition 1 @ $-2-\frac{3}{25}$
+Proposition 2 @ $-2-\frac{3}{100}$
+Proposition 3 @ $-2,1$
+Proposition 4 @ $-2,11$
+Reponse 5 @ 1
+
+Image 5 @

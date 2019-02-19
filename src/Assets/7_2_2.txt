@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Valeur d’une expression (2)
+Série @ Série 2
+Consigne 1 @ Pour $x=4$, la valeur prise par l'expression $x^2+3x+2$ est …
+Proposition 1 @ $30$
+Proposition 2 @ $22$
+Proposition 3 @ $34$
+Proposition 4 @ $17$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{F}=2a^2+a+4$. L'affirmation vraie est …
+Proposition 1 @ pour $a=-2$, $\textrm{F}=10$
+Proposition 2 @ pour $a=0$, $\textrm{F}=8$
+Proposition 3 @ pour $a=1$, $\textrm{F}=9$
+Proposition 4 @ pour $a=-1$, $\textrm{F}=1$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $f(t)=2t^2-t+1$. L'image de $5$ par la fonction $f$ est …
+Proposition 1 @ $46$
+Proposition 2 @ $44$
+Proposition 3 @ $96$
+Proposition 4 @ $16$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $\textrm{A}=x^2-9x+9$. Pour $x=9$, $\textrm{A}$ est égal à …
+Proposition 1 @ $9$
+Proposition 2 @ $-54$
+Proposition 3 @ $91$
+Proposition 4 @ $81$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour $t=-1$, la valeur prise par l'expression $-t^2-t+5$ est …
+Proposition 1 @ $5$
+Proposition 2 @ $7$
+Proposition 3 @ $4$
+Proposition 4 @ $8$
+Reponse 5 @ 1
+
+Image 5 @

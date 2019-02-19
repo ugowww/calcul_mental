@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Ordre de grandeur
+Série @ Série 1
+Consigne 1 @ $\textrm{A}=32\,657\,000$. Un encadrement du nombre entier $\textrm{A}$ par deux puissances de $10$ est …
+Proposition 1 @ $10^7<\textrm{A}<10^8$
+Proposition 2 @ $10^8<\textrm{A}<10^9$
+Proposition 3 @ $10^6<\textrm{A}<10^7$
+Proposition 4 @ $10^9<\textrm{A}<10^{10}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ On estime le volume total $\textrm{V}$ des océans sur Terre à $1,370$ milliard de $\textrm{km}^3$. Ainsi, en $\textrm{km}^3$, …
+Proposition 1 @ $10^9<\textrm{V}<10^{10}$
+Proposition 2 @ $10^8<\textrm{V}<10^9$
+Proposition 3 @ $10^{12}<\textrm{V}<10^{13}$
+Proposition 4 @ $10^6<\textrm{V}<10^7$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La masse de la planète Mars est $M=639\times10^{21}\,\textrm{kg}$. Un ordre de grandeur est …
+Proposition 1 @ $10^{24}\,\textrm{kg}$
+Proposition 2 @ $10^{23}\,\textrm{kg}$
+Proposition 3 @ $10^{21}\,\textrm{kg}$
+Proposition 4 @ $10^{22}\,\textrm{kg}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Une année-lumière vaut environ $9\,461$ milliards de kilomètres. Un ordre de grandeur est …
+Proposition 1 @ $10^{13}\,\textrm{km}$
+Proposition 2 @ $10^9\,\textrm{km}$
+Proposition 3 @ $10^{10}\,\textrm{km}$
+Proposition 4 @ $10^{12}\,\textrm{km}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La distance Terre-Lune est, en moyenne, $384\,000\,\textrm{km}$. Un ordre de grandeur est …
+Proposition 1 @ $10^8\,\textrm{m}$
+Proposition 2 @ $10^9\,\textrm{m}$
+Proposition 3 @ $10^7\,\textrm{m}$
+Proposition 4 @ $10^{10}\,\textrm{m}$
+Reponse 5 @ 1
+
+Image 5 @

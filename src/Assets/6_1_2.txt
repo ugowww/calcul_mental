@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Identification
+Série @ Série 2
+Consigne 1 @ Le nombre $\frac{5}{1,2}$ appartient à …
+Proposition 1 @ $\mathbb{Q}$
+Proposition 2 @ $\mathbb{N}$
+Proposition 3 @ $\mathbb{Z}$
+Proposition 4 @ $\mathbb{D}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $-\frac{6}{8}$ n'appartient pas à …
+Proposition 1 @ $\mathbb{Z}$
+Proposition 2 @ $\mathbb{Q}$
+Proposition 3 @ $\mathbb{D}$
+Proposition 4 @ $\mathbb{R}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $a=\frac{2}{7}-\frac{11}{14}$. Le nombre $a$ est un nombre …
+Proposition 1 @ décimal
+Proposition 2 @ entier naturel
+Proposition 3 @ entier relatif
+Proposition 4 @ rationnel non décimal
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\frac{3}{11}\approx0,2727273$. La période de $\frac{3}{11}$ est …
+Proposition 1 @ $27$
+Proposition 2 @ $2727273$
+Proposition 3 @ $72$
+Proposition 4 @ $727$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\frac{12}{7}=1,714285714\ldots$. Le treizième chiffre situé après la virgule est …
+Proposition 1 @ $7$
+Proposition 2 @ $1$
+Proposition 3 @ $4$
+Proposition 4 @ $5$
+Reponse 5 @ 1
+
+Image 5 @

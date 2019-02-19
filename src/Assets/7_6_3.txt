@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Factorisation
+Série @ Série 3
+Consigne 1 @ $x(x-2)+3(x-2)$ est égal à …
+Proposition 1 @ $(x+3)(x-2)$
+Proposition 2 @ $x(x-2)+3$
+Proposition 3 @ $(x+3)(x+2)$
+Proposition 4 @ $x+3(x-2)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Une forme factorisée de $2x(x+5)-3(x+5)$ est …
+Proposition 1 @ $(x+5)(2x-3)$
+Proposition 2 @ $2x(x-1)$
+Proposition 3 @ $6x(x+5)$
+Proposition 4 @ $(x-3)(x+5)$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Dans l’égalité $x(x+4)+3x+12=(x+\cdots)(x+4)$, le nombre manquant est …
+Proposition 1 @ $3$
+Proposition 2 @ $12$
+Proposition 3 @ $-3$
+Proposition 4 @ $1$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Dans l’égalité $t^2+3t-5(t+3)=(t+3)(\cdots)$, l’expression manquante est …
+Proposition 1 @ $t-5$
+Proposition 2 @ $t^2-5$
+Proposition 3 @ $-t-5$
+Proposition 4 @ $t+3$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Une forme factorisée de $6(x-7)+x-7$ est …
+Proposition 1 @ $7(x-7)$
+Proposition 2 @ $(x-7)(6-x)$
+Proposition 3 @ $6(x-7)$
+Proposition 4 @ $x(-x+7)$
+Reponse 5 @ 1
+
+Image 5 @

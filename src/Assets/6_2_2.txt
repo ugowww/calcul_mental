@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Intervalles
+Série @ Série 2
+Consigne 1 @ L’ensemble représenté en rouge sur la figure est l’intervalle …
+Proposition 1 @ $[−1\,;3[$
+Proposition 2 @ $]−1\,;3]$
+Proposition 3 @ $]−1\,;3[$
+Proposition 4 @ $[−1\,;3]$
+Reponse 1 @ 1
+
+Image 1 @ image1.png
+
+Consigne 2 @ L’ensemble représenté en rouge sur la figure est l’intervalle …
+Proposition 1 @ $]-\infty\,;2]$
+Proposition 2 @ $]-\infty\,;2[$
+Proposition 3 @ $]-2,5\,;2]$
+Proposition 4 @ $]2\,;+\infty[$
+Reponse 2 @ 1
+
+Image 2 @ image2.png
+
+Consigne 3 @ 𝑥L’intervalle représenté en rouge sur la figure est …
+Proposition 1 @ $]−\frac{1}{3}\,;+\infty[$
+Proposition 2 @ $]−1\,;+\infty[$
+Proposition 3 @ $]−0,5\,;+\infty[$
+Proposition 4 @ $]−\frac{1}{4}\,;+\infty[$
+Reponse 3 @ 1
+
+Image 3 @ image3.png
+
+Consigne 4 @ L’intervalle représenté en rouge sur la figure est …
+Proposition 1 @ $]0,25\,;0,875[$
+Proposition 2 @ $]\frac{1}{3}\,;\frac{2}{3}[$
+Proposition 3 @ $]0,2\,;0,9[$
+Proposition 4 @ $]0,25\,;0,75[$
+Reponse 4 @ 1
+
+Image 4 @ image4.png
+
+Consigne 5 @ L’intervalle représenté en rouge sur la figure est …
+Proposition 1 @ $]0,6\,;1,6[$
+Proposition 2 @ $]0,8\,;1,8]$
+Proposition 3 @ $]0,5\,;1,6]$
+Proposition 4 @ $]0,5\,;1]$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

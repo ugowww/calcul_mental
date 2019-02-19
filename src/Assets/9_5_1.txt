@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Équations à deux inconnues
+Série @ Série 1
+Consigne 1 @ Un couple solution de l’équation $3x+2y=22$ est …
+Proposition 1 @ $(4\ ;\,5)$
+Proposition 2 @ $(11\ ;\,0)$
+Proposition 3 @ $(7\ ;\,1)$
+Proposition 4 @ $(6\ ;\,1)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Un couple solution de l’équation $x+3y-23=0$ est …
+Proposition 1 @ $(-7\ ;\,10)$
+Proposition 2 @ $(1\ ;\,20)$
+Proposition 3 @ $(-5\ ;\,9)$
+Proposition 4 @ $(0\ ;\,8)$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le couple $(5\ ;\,-4)$ est solution de l'équation …
+Proposition 1 @ $x-y=9$
+Proposition 2 @ $x-y-1=0$
+Proposition 3 @ $y=2x-6$
+Proposition 4 @ $4x+5y+10=0$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le couple $(1\ ;\,-5)$ n'est pas solution de l'équation …
+Proposition 1 @ $4x-2y=-22$
+Proposition 2 @ $5x+y=0$
+Proposition 3 @ $x+2y+9=0$
+Proposition 4 @ $3x-2y-13=0$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Noé : « $(-5\ ;\,-5)$ est solution de l’équation $2x-7y-25=0$ ». Kim : « $(2\ ;\,-3)$ aussi ». Alors …
+Proposition 1 @ Noé et Kim ont raison
+Proposition 2 @ Noé se trompe et Kim a raison
+Proposition 3 @ Noé et Kim se trompent
+Proposition 4 @ Noé a raison et Kim se trompe
+Reponse 5 @ 1
+
+Image 5 @

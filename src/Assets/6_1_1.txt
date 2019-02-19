@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Identification
+Série @ Série 1
+Consigne 1 @ Le plus petit nombre entier naturel vérifiant l’inégalité $n>2$ est …
+Proposition 1 @ $3$
+Proposition 2 @ $2$
+Proposition 3 @ $2,1$
+Proposition 4 @ $1$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’un de ces nombres rationnels est aussi un nombre décimal. Il s’agit de …
+Proposition 1 @ $\frac{3}{50}$
+Proposition 2 @ $-\frac{37}{6}$
+Proposition 3 @ $\frac{\pi}{3\pi}$
+Proposition 4 @ $\frac{5,4}{0,7}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\frac{72}{50}$ est un nombre décimal qui admet comme écriture sous forme irréductible …
+Proposition 1 @ $\frac{36}{25}$
+Proposition 2 @ $1,44$
+Proposition 3 @ $\frac{144}{100}$
+Proposition 4 @ $\frac{7,2}{5}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’une des écritures proposées n’est pas une écriture du nombre $\frac{1}{5}$. Il s’agit de …
+Proposition 1 @ $0,5$
+Proposition 2 @ $20\%$
+Proposition 3 @ $0,2$
+Proposition 4 @ $\frac{4}{20}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le nombre qui n’est pas un nombre entier relatif est …
+Proposition 1 @ $\frac{50}{4}$
+Proposition 2 @ $\frac{27}{3}$
+Proposition 3 @ $\frac{6\pi}{0,5\pi}$
+Proposition 4 @ $-6,75\times10^3$
+Reponse 5 @ 1
+
+Image 5 @

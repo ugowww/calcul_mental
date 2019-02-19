@@ -1,0 +1,44 @@
+Thème @ Nombres entiers naturels
+Sous-Thème @ Produit de deux nombres
+Série @ Série 1
+Consigne 1 @ Compléter $6×6=$ …
+Proposition 1 @ $36$
+Proposition 2 @ $12$
+Proposition 3 @ $42$
+Proposition 4 @ $30$
+Reponse 1 @ 1
+Image 1 @
+
+Consigne 2 @ Compléter $8×7=$ …
+Proposition 1 @ $56$
+Proposition 2 @ $15$
+Proposition 3 @ $63$
+Proposition 4 @ $54$
+Reponse 2 @ 1
+Image 2 @
+
+Consigne 3 @ L’égalité correcte est …
+Proposition 1 @ $9×9=81$
+Proposition 2 @ $9×8=81$
+Proposition 3 @ $9×9=72$
+Proposition 4 @ $8×8=72$
+Reponse 3 @ 1
+Image 3 @
+
+
+Consigne 4 @ $42$ est le produit …
+Proposition 1 @ $7×6$
+Proposition 2 @ $4×8$
+Proposition 3 @ $8×5$
+Proposition 4 @ $9×4$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité incorrecte est …
+Proposition 1 @ $5×9=40$
+Proposition 2 @ $8×5=40$
+Proposition 3 @ $4×10=40$
+Proposition 4 @ $5×9=45$
+Reponse 5 @ 1
+Image 5 @

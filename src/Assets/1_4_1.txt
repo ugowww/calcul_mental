@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 1
+Consigne 1 @ L'égalité correcte est …
+Proposition 1 @ $2^{-3}=\frac{1}{2^3}$
+Proposition 2 @ $2^{-3}=-2\times2\times2$
+Proposition 3 @ $2^{-3}=(-2)\times(-2)\times(-2)$
+Proposition 4 @ $2^{-3}=0,002$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Compléter $5{-1}=$ …
+Proposition 1 @ $\frac{1}{5}$
+Proposition 2 @ $-5$
+Proposition 3 @ $0,5$
+Proposition 4 @ $-\frac{1}{5}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’égalité incorrecte est …
+Proposition 1 @ $10^{-3}=\frac{1}{10\times(-3)}$
+Proposition 2 @ $10^{-3}=0,001$
+Proposition 3 @ $10^{-3}=\frac{1}{10^3}$
+Proposition 4 @ $10^{-3}=\frac{1}{1000}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Compléter $\frac{1}{5\times5\times5}=$ …
+Proposition 1 @ $5^{-3}$
+Proposition 2 @ $3^{-5}$
+Proposition 3 @ $(-5)^3$
+Proposition 4 @ $3\times5^{-1}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L'égalité incorrecte est …
+Proposition 1 @ $2^{-3}=0,002$
+Proposition 2 @ $2^{-3}=0,125$
+Proposition 3 @ $2^{-3}=\frac{1}{2^3}$
+Proposition 4 @ $2^{-3}=\frac{1}{8}$
+Reponse 5 @ 1
+
+Image 5 @

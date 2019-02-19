@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Puissances de 10 (exposant entier relatif)
+Série @ Série 2
+Consigne 1 @ $10^5\times10^{-2}\times10^6$ est égal à …
+Proposition 1 @ un milliard
+Proposition 2 @ un million
+Proposition 3 @ mille
+Proposition 4 @ dix millions
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $(10^{-2})^6$ est égal à …
+Proposition 1 @ $10^{-12}$
+Proposition 2 @ $10^4$
+Proposition 3 @ $10^{12}$
+Proposition 4 @ $10^{-4}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’égalité correcte est …
+Proposition 1 @ $10^3\times10^{-2}=\frac{10^{-5}}{10^{-6}}$
+Proposition 2 @ $10^{-3}\times10^{-1}=\frac{1}{10^{-4}}$
+Proposition 3 @ $(10^3)^{-2}=10^{-3}\times10^{-2}$
+Proposition 4 @ $\frac{10^{-2}}{10^{-5}}=\frac{10}{10^{-4}}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $(10^2)^5\times10^{-3}$ est égal à …
+Proposition 1 @ $10^7$
+Proposition 2 @ $10^4$
+Proposition 3 @ $10^{-21}$
+Proposition 4 @ $10^{-13}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le nombre $\frac{10^{12}}{10^5\times10^{-7}}$ est égal à …
+Proposition 1 @ $10^{14}$
+Proposition 2 @ $1$
+Proposition 3 @ $10^{24}$
+Proposition 4 @ $10^{10}$
+Reponse 5 @ 1
+
+Image 5 @

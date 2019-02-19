@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 3
+Consigne 1 @ $2^2+2^{-2}=$ …
+Proposition 1 @ $4,25$
+Proposition 2 @ $0$
+Proposition 3 @ $1$
+Proposition 4 @ $4,04$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’égalité incorrecte est …
+Proposition 1 @ $3^2+3^{-1}=\frac{3\times3}{3}$
+Proposition 2 @ $3^2+3^{-1}=9+\frac{1}{3}$
+Proposition 3 @ $3^2+3^{-1}=3\times3+\frac{1}{3}$
+Proposition 4 @ $3^2+3^{-1}=\frac{28}{3}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $3^3-2^{-1}=$ …
+Proposition 1 @ $26,5$
+Proposition 2 @ $8,5$
+Proposition 3 @ $7$
+Proposition 4 @ $8$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’égalité incorrecte est …
+Proposition 1 @ $10^3\times2^{-2}=\frac{10^3}{2^{-2}}$
+Proposition 2 @ $10^3\times2^{-2}=\frac{1\,000}{4}$
+Proposition 3 @ $10^3\times2^{-2}=\frac{10^3}{2^2}$
+Proposition 4 @ $10^3\times2^{-2}=250$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $2^3+10^4=$ …
+Proposition 1 @ $10\,008$
+Proposition 2 @ $80\,000$
+Proposition 3 @ $10\,006$
+Proposition 4 @ $0,000\,8$
+Reponse 5 @ 1
+
+Image 5 @

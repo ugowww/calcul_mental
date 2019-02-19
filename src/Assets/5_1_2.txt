@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Racine carrée d’un nombre positif
+Série @ Série 2
+Consigne 1 @ Le nombre $\sqrt{3}$ est compris entre …
+Proposition 1 @ $1$ et $2$
+Proposition 2 @ $2$ et $3$
+Proposition 3 @ $3$ et $4$
+Proposition 4 @ $0$ et $1$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $\sqrt{0,10}$ est compris entre …
+Proposition 1 @ $0,3$ et $0,4$
+Proposition 2 @ $0,4$ et $0,5$
+Proposition 3 @ $0$ et $0,1$
+Proposition 4 @ $1$ et $2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Un nombre compris entre $7$ et $8$ est …
+Proposition 1 @ $\sqrt{50}$
+Proposition 2 @ $\sqrt{15}$
+Proposition 3 @ $\sqrt{40}$
+Proposition 4 @ $\sqrt{7,5}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Un nombre compris entre $0,5$ et $0,6$ est …
+Proposition 1 @ $\sqrt{0,3}$
+Proposition 2 @ $\sqrt{0,55}$
+Proposition 3 @ $\sqrt{0,51}$
+Proposition 4 @ $\sqrt{3,1}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Un seul de ces nombres n’appartient pas à l’intervalle $[2\ ;\,3]$. Il s’agit de …
+Proposition 1 @ $\sqrt{2,5}$
+Proposition 2 @ $\sqrt{8}$
+Proposition 3 @ $\sqrt{4}$
+Proposition 4 @ $\sqrt{7,77}$
+Reponse 5 @ 1
+
+Image 5 @

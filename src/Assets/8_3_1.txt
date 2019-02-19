@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (1)
+Série @ Série 1
+Consigne 1 @ Le nombre $21^2$ est égal à …
+Proposition 1 @ $441$
+Proposition 2 @ $401$
+Proposition 3 @ $42$
+Proposition 4 @ $361$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ En élevant $51$ au carré, on obtient …
+Proposition 1 @ $2\,601$
+Proposition 2 @ $2\,501$
+Proposition 3 @ $102$
+Proposition 4 @ $351$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le carré du nombre $19$ est égal à …
+Proposition 1 @ $361$
+Proposition 2 @ $399$
+Proposition 3 @ $441$
+Proposition 4 @ $38$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le carré du nombre $39$ est égal à …
+Proposition 1 @ $1\,521$
+Proposition 2 @ $1\,599$
+Proposition 3 @ $78$
+Proposition 4 @ $981$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité correcte est …
+Proposition 1 @ $62^2=3\,844$
+Proposition 2 @ $99^2=9\,901$
+Proposition 3 @ $101^2=10\,001$
+Proposition 4 @ $18^2=364$
+Reponse 5 @ 1
+
+Image 5 @

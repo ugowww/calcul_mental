@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 3
+Consigne 1 @ La seule égalité vraie est …
+Proposition 1 @ $\frac{(-10)^{-5}}{(-10)^8}=(-10)^{-13}$
+Proposition 2 @ $40\times\frac{1}{40^3}=40^2$
+Proposition 3 @ $(-5)^{-6}\times(-11)^{-6}=(-55)^{-6}$
+Proposition 4 @ $(2^{-4})^3=2^{-1}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La seule phrase fausse est …
+Proposition 1 @ $(-4)^{-3}$ et $(-7)^5\times{(-1)^3}$ sont positifs
+Proposition 2 @ $(-2)^{-1}\times(-2)^3$ et $(-10)^{-10}$ sont positifs
+Proposition 3 @ $\frac{5^4}{5^7}$ et $\frac{(-5)^3}{(-5)^5}$ sont positifs
+Proposition 4 @ $((-1)^3)^{-5}$ et $(-9)^{-1}$ sont négatifs
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Affirmation 1 : $\frac{(-8)^5}{(-8)^{-4}}=(-8)^9$ ; Affirmation 2 : $5^2\times5^{-3}=5^{-6}$ ; Affirmation 3 : $((-4)^{-1})^{-2}=-16$
+Proposition 1 @ l'affirmation 1 est vraie
+Proposition 2 @ l'affirmation 2 est vraie
+Proposition 3 @ l'affirmation 3 est vraie
+Proposition 4 @ deux affirmations sont vraies
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le produit du carré de $(-5)$ et l'inverse du cube de $(-2)$ …
+Proposition 1 @ est égal à $25\times\frac{1}{(-2)^3}$
+Proposition 2 @ est positif
+Proposition 3 @ est égal à $5^2\times(-2)^3$
+Proposition 4 @ est égal à $\frac{-5}{(-2)\times3}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L'affirmation correcte est …
+Proposition 1 @ $6^5\times6^{-8}=6^{-3}$
+Proposition 2 @ $(-11)^{-1}\times(-11)^1=-11$
+Proposition 3 @ $\frac{(-4)^5}{(-4)^{-8}}=(-4)^{-15}$
+Proposition 4 @ $(-10)^{-5}\times7^{-5}=\frac{1}{70^5}$
+Reponse 5 @ 1
+
+Image 5 @

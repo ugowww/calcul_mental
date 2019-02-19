@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Modélisation d’un problème
+Série @ Série 2
+Consigne 1 @ Les dimensions (en $\textrm{m}$) $x$ et $y$ d’un rectangle de $50\ \textrm{m}$ de périmètre vérifient l’équation …
+Proposition 1 @ $x+y=25$
+Proposition 2 @ $x+y=50$
+Proposition 3 @ $xy=50$
+Proposition 4 @ $4x+4y=50$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $5$ stylos et $4$ cahiers coûtent $15\ \textrm{€}$. Le prix $x$𝑥 d’un stylo et le prix $y$𝑦 d’un cahier vérifient l’équation …
+Proposition 1 @ $5x+4y=15$
+Proposition 2 @ $5y+4x=15$
+Proposition 3 @ $x+y=15$
+Proposition 4 @ $9(x+y)=15$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Lors d’un concert, on a vendu 𝑥$x$ billets à $20\ \textrm{€}$ et $y$𝑦 billets à $30\ \textrm{€}$. Il y a eu $500$ spectateurs. Alors …
+Proposition 1 @ $x+y=500$
+Proposition 2 @ $20x+30y=500$
+Proposition 3 @ $20x+30(500-y)=500$
+Proposition 4 @ $20x-30y=500$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Lors d’un spectacle, on a vendu $x$ billets à $30\ \textrm{€}$ et $y$ billets à $40\ \textrm{€}$. La recette était de $6\,000\ \textrm{€}$. Alors …
+Proposition 1 @ $30x+40y=6\,000$
+Proposition 2 @ $x+y=6\,000$
+Proposition 3 @ $40x+30y=6\,000$
+Proposition 4 @ $(30+40)(x+y)=6\,000$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $a$ et $b$ désignent les mesures, en degré, des deux angles aigus d’un triangle rectangle. Alors $a$ et $b$ …
+Proposition 1 @ vérifient l’équation $a+b=90$
+Proposition 2 @ vérifient l’équation $a-b=90$
+Proposition 3 @ vérifient l’équation $a+b=180$
+Proposition 4 @ vérifient l’équation $a=b$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Règles de calcul (2)
+Série @ Série 2
+Consigne 1 @ $\textrm{A}=5\sqrt2+3+4\sqrt2$. $\textrm{A}$ est égal à …
+Proposition 1 @ $3+9\sqrt2$
+Proposition 2 @ $12+\sqrt2$
+Proposition 3 @ $12\sqrt2$
+Proposition 4 @ $3+9\sqrt4$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=5-7\sqrt3+2$. $\textrm{B}$ est égal à …
+Proposition 1 @ $7-7\sqrt3$
+Proposition 2 @ $-2\sqrt3+2$
+Proposition 3 @ $-\sqrt3$
+Proposition 4 @ $5-7\sqrt5$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Eva : « $5\sqrt2−\sqrt2=4\sqrt2$ ». Ugo : « $2\sqrt5+\sqrt5=3\sqrt5$ ». On peut affirmer …
+Proposition 1 @ Eva et Ugo ont raison
+Proposition 2 @ Eva a raison et Ugo se trompe
+Proposition 3 @ Eva se trompe et Ugo a raison
+Proposition 4 @ Eva et Ugo se trompent
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $7−6\sqrt2$ n’est pas égal à …
+Proposition 1 @ $\sqrt2$
+Proposition 2 @ $9-(2+6\sqrt2)$
+Proposition 3 @ $7(1-\sqrt2)+\sqrt2$
+Proposition 4 @ $13-4\sqrt2-6-2\sqrt2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le périmètre du triangle $\textrm{ABC}$ est …
+Proposition 1 @ $12\sqrt2$
+Proposition 2 @ $7\sqrt2$
+Proposition 3 @ $5+7\sqrt2$
+Proposition 4 @ $10+7\sqrt2$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

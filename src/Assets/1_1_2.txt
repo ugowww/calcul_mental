@@ -1,0 +1,48 @@
+Thème @ Nombres entiers naturels
+Sous-Thème @ Produit de deux nombres
+Série @ Série 2
+Consigne 1 @ Le produit $23\times4$ est égal à …
+Proposition 1 @ $20\times4+3\times4$
+Proposition 2 @ $20\times4+3$
+Proposition 3 @ $2\times4+3\times4$
+Proposition 4 @ $2\times4+3$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Compléter $17\times3=$ …
+Proposition 1 @ $51$
+Proposition 2 @ $37$
+Proposition 3 @ $34$
+Proposition 4 @ $41$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit $68\times7$ est égal à …
+Proposition 1 @ $70\times7-2\times7$
+Proposition 2 @ $60\times7+8$
+Proposition 3 @ $6\times7+8\times7$
+Proposition 4 @ $68\times10-3$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Le nombre manquant dans l’égalité $6\times\cdots=174$ est …
+Proposition 1 @ $29$
+Proposition 2 @ $19$
+Proposition 3 @ $34$
+Proposition 4 @ $24$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité incorrecte est …
+Proposition 1 @ $43\times9=4\times9+3\times9$
+Proposition 2 @ $43\times9=40\times9+3\times9$
+Proposition 3 @ $43\times9=43\times10-43\times1$
+Proposition 4 @ $43\times9=360+27$
+Reponse 5 @ 1
+
+Image 5 @

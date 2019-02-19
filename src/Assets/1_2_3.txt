@@ -1,0 +1,48 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Calculs avec les nombres 25, 50, 75 …
+Série @ Série 3
+Consigne 1 @ $75+50+25+50=$ …
+Proposition 1 @ $200$
+Proposition 2 @ $175$
+Proposition 3 @ $225$
+Proposition 4 @ $250$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $75×3+3×25=$ …
+Proposition 1 @ $300$
+Proposition 2 @ $275$
+Proposition 3 @ $350$
+Proposition 4 @ $600$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $75+150-25-50=$ …
+Proposition 1 @ $150$
+Proposition 2 @ $125$
+Proposition 3 @ $175$
+Proposition 4 @ $200$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $125-50+150-25=$ …
+Proposition 1 @ $200$
+Proposition 2 @ $150$
+Proposition 3 @ $300$
+Proposition 4 @ $350$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $125×4-4×25=$ …
+Proposition 1 @ $400$
+Proposition 2 @ $500$
+Proposition 3 @ $450$
+Proposition 4 @ $550$
+Reponse 5 @ 1
+
+Image 5 @

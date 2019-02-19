@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Règles de calcul (1)
+Série @ Série 2
+Consigne 1 @ $\sqrt{20}\times\sqrt{5}$ est égal à …
+Proposition 1 @ $10$
+Proposition 2 @ $25$
+Proposition 3 @ $100$
+Proposition 4 @ $5$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $30$ est égal à …
+Proposition 1 @ $\sqrt{90}\times\sqrt{10}$
+Proposition 2 @ $\sqrt{3}\times\sqrt{5}$
+Proposition 3 @ $\sqrt{4}\times\sqrt{30}$
+Proposition 4 @ $\sqrt{800}\times\sqrt{100}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Un nombre compris entre $7$ et $8$ est …
+Proposition 1 @ $\sqrt{5}\times\sqrt{10}$
+Proposition 2 @ $\sqrt{40}\times\sqrt{2}$
+Proposition 3 @ $\sqrt{4}\times\sqrt{7,5}$
+Proposition 4 @ $\sqrt{56}\times\sqrt{56}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le plus petit des quatre nombres suivants est …
+Proposition 1 @ $\sqrt{7}\times\sqrt{2}$
+Proposition 2 @ $\sqrt{6}\times\sqrt{3}$
+Proposition 3 @ $\sqrt{4}\times\sqrt{4}$
+Proposition 4 @ $\sqrt{17}\times\sqrt{1}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’aire du triangle rectangle $\textrm{ABC}$ est …
+Proposition 1 @ $4$
+Proposition 2 @ $\sqrt{2}+\sqrt{32}+\sqrt{34}$
+Proposition 3 @ $8$
+Proposition 4 @ $\frac{\sqrt{34}}{2}$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

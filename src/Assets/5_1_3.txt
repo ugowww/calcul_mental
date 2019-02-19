@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Racine carrée d’un nombre positif
+Série @ Série 3
+Consigne 1 @ Le nombre $(\sqrt{10})^2$ est égal à …
+Proposition 1 @ $10$
+Proposition 2 @ $100$
+Proposition 3 @ $25$
+Proposition 4 @ $\sqrt{20}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $\sqrt{(-10)^2}$ est égal à …
+Proposition 1 @ $10$
+Proposition 2 @ $-10$
+Proposition 3 @ $100$
+Proposition 4 @ $-100$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ On sait que $2,4^2=5,76$. Alors le nombre $-2,4$ est égal à …
+Proposition 1 @ $-\sqrt{5,76}$
+Proposition 2 @ $\sqrt{5,76}$
+Proposition 3 @ $\sqrt{(-2,4)^2}$
+Proposition 4 @ $-\sqrt{5,76^2}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Un seul de ces nombres est égal à $0$. Il s’agit de …
+Proposition 1 @ $\sqrt{(-9)^2}-(\sqrt{9})^2$
+Proposition 2 @ $\sqrt{9^2}-3$
+Proposition 3 @ $\sqrt{(-9)^2}-(-9)$
+Proposition 4 @ $9-(\sqrt{3})^2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L'égalité $\sqrt{a^2}=-a$ est vraie pour …
+Proposition 1 @ $a=-6$
+Proposition 2 @ $a=1$
+Proposition 3 @ $a=2$
+Proposition 4 @ $a=3$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Choix de la forme la plus adaptée d’une expression
+Série @ Série 3
+Consigne 1 @ $\textrm{A}=(x−1)^2−1$. Pour résoudre l’équation $\textrm{A}=0$, on utilise la forme de $\textrm{A}$ …
+Proposition 1 @ factorisée : $x(x−2)=0$
+Proposition 2 @ développée : $x^2−2x=0$
+Proposition 3 @ initiale : $(x-1)^2-1=0$
+Proposition 4 @ je ne sais pas
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=(2x+9)^2−4x^2$. Pour résoudre l’équation $\textrm{B}=0$, on utilise plutôt la forme de $\textrm{B}$ …
+Proposition 1 @ factorisée : $9(4x+9)=0$
+Proposition 2 @ développée : $36x+81=0$
+Proposition 3 @ initiale : $(2x+9)^2−4x^2=0$
+Proposition 4 @ je ne sais pas
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{C}=(x-2)^2+3(x-2)$. Pour résoudre l’équation $\textrm{C}=0$, on utilise plutôt la forme de $\textrm{C}$ …
+Proposition 1 @ factorisée : $(x-2)(x+1)=0$
+Proposition 2 @ développée : $x^2-x-2=0$
+Proposition 3 @ initiale
+Proposition 4 @ je ne sais pas
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour résoudre l’équation $(x+6)^2=x^2−5x$,on …
+Proposition 1 @ développe le premier membre
+Proposition 2 @ se ramène à un produit nul
+Proposition 3 @ factorise le second membre
+Proposition 4 @ je ne sais pas
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour résoudre l’équation $(x+1)^2=9$, on …
+Proposition 1 @ se ramène à un produit nul
+Proposition 2 @ développe le premier membre
+Proposition 3 @ soustrait $x^2$ aux deux membres
+Proposition 4 @ je ne sais pas
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Priorités opératoires
+Série @ Série 2
+Consigne 1 @ $\textrm{A}=(5-3^2)\times4$. $\textrm{A}$ est égal à …
+Proposition 1 @ $-4\times4$
+Proposition 2 @ $2^2\times4$
+Proposition 3 @ $5-9\times4$
+Proposition 4 @ $5\times4-9$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=(-1)^3-8\times5+2$. $\textrm{B}=(-3)^2+4\times5-1$. L'affirmation correcte est …
+Proposition 1 @ $\textrm{A}=-39$ et $\textrm{B}=28$
+Proposition 2 @ $\textrm{A}=-37$ et $\textrm{B}=-12$
+Proposition 3 @ $\textrm{A}=-37$ et $\textrm{B}=28$
+Proposition 4 @ $\textrm{A}=-39$ et $\textrm{B}=-12$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{N}=-5+2\times4$. L'affirmation correcte est …
+Proposition 1 @ le carré de $\textrm{N}$ est égal à $9$
+Proposition 2 @ le cube de $\textrm{N}$ est égal à $-9$
+Proposition 3 @ l'opposé de $\textrm{N}$ est égal à $\frac{1}{3}$
+Proposition 4 @ l'inverse de $\textrm{N}$ est égal à $-3$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ La seule égalité vraie est …
+Proposition 1 @ $3^2-2\times4+1=2$
+Proposition 2 @ $2^3-2\times5+1=26$
+Proposition 3 @ $(5^2-4)\times2=17$
+Proposition 4 @ $14+(2\times4^2-1)=44$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La seule égalité fausse est …
+Proposition 1 @ $4-2^3+3\times5=-5$
+Proposition 2 @ $3-(5^2+2)\times2=-51$
+Proposition 3 @ $220-(10^2+10)\times2=0$
+Proposition 4 @ $3\times(-3)^2+4\times(-5)^2=127$
+Reponse 5 @ 1
+
+Image 5 @

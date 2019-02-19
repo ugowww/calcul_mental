@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Résolution d’une inéquation du 1er degré
+Série @ Série 1
+Consigne 1 @ L’ensemble des solutions de l’inéquation $3x\leq9$ est …
+Proposition 1 @ $]-\infty\ ;\,3]$
+Proposition 2 @ $[3\ ;\,+\infty[$
+Proposition 3 @ $[-3\ ;\,+\infty[$
+Proposition 4 @ $]-\infty\ ;\,3[$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’ensemble des solutions de l’inéquation $-4x<8$ est …
+Proposition 1 @ $]-2\ ;\,+\infty[$
+Proposition 2 @ $[-2\ ;\,+\infty[$
+Proposition 3 @ $]-\infty\ ;\,-2[$
+Proposition 4 @ $]-\infty\ ;\,2[$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’ensemble des solutions de l’inéquation $3x+7\geq19$ est …
+Proposition 1 @ $[4\ ;\,+\infty[$
+Proposition 2 @ $]4\ ;\,+\infty[$
+Proposition 3 @ $[\frac{26}{3}\ ;\,+\infty[$
+Proposition 4 @ $]-4\ ;\,+\infty[$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’ensemble des solutions de l’inéquation $-x-1\leq1$ est …
+Proposition 1 @ $[-2\ ;\,+\infty[$
+Proposition 2 @ $[0\ ;\,+\infty[$
+Proposition 3 @ $]-\infty\ ;\,-2]$
+Proposition 4 @ $]-\infty\ ;\,0]$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’ensemble des solutions de l’inéquation $7x+7<-28$ est …
+Proposition 1 @ $]-\infty\ ;\,-5[$
+Proposition 2 @ $]-3\ ;\,+\infty[$
+Proposition 3 @ $]-\infty\ ;\,-5]$
+Proposition 4 @ $]-\infty\ ;\,3[$
+Reponse 5 @ 1
+
+Image 5 @

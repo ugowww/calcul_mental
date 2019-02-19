@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Intervalles
+Série @ Série 1
+Consigne 1 @ $\textrm{I}=[−5\,;6[$. Un nombre réel qui appartient à $\textrm{I}$ est …
+Proposition 1 @ $\pi$
+Proposition 2 @ $6$
+Proposition 3 @ $-5\sqrt2$
+Proposition 4 @ $-2\pi$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’ensemble des nombres réels strictement inférieurs à $−8$ est …
+Proposition 1 @ $]−\infty\,;−8[$
+Proposition 2 @ $]−8\,;+\infty[$
+Proposition 3 @ $]−\infty\,;−8]$
+Proposition 4 @ $[−8\,;+\infty[$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ 𝑥$x\in[−4\,;0[$ peut aussi s’écrire …
+Proposition 1 @ $−4\leq{x}<0$
+Proposition 2 @ $−4<x<0$
+Proposition 3 @ $−4< x\leq0$
+Proposition 4 @ $−4\leq{x}\leq0$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’affirmation vraie est …
+Proposition 1 @ $−5\in]−\infty\,;0]$
+Proposition 2 @ $\frac{2}{3}\in]1\,;+\infty$
+Proposition 3 @ $-2\in]-\infty\,;-2[$
+Proposition 4 @ $0\in]0\,;+\infty[$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $x$ est un nombre réel qui vérifie $x\in]−2\,;3]$ et $x\in\mathbb{N}$. Le nombre $x$ peut être …
+Proposition 1 @ $2$
+Proposition 2 @ $-1$
+Proposition 3 @ $\frac{1}{3}$
+Proposition 4 @ $\sqrt5$
+Reponse 5 @ 1
+
+Image 5 @

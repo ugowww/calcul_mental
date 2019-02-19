@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Racine carrée d’un nombre positif
+Série @ Série 1
+Consigne 1 @ $\sqrt{36}$ est égal à …
+Proposition 1 @ $6$
+Proposition 2 @ $18$
+Proposition 3 @ $-6$
+Proposition 4 @ $1\,296$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $9$ est égal à …
+Proposition 1 @ $\sqrt{81}$
+Proposition 2 @ $\sqrt{18}$
+Proposition 3 @ $\sqrt{3}$
+Proposition 4 @ $-\sqrt{18}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Nam : « $\sqrt{0,9}=0,3\ ;\,\sqrt{0,16}=0,4$ ». Téo : « $\sqrt{0,04}=0,2\ ;\,\sqrt{0,25}=0,5$ ». Alors …
+Proposition 1 @ Nam se trompe et Téo a raison
+Proposition 2 @ Nam et Téo se trompent
+Proposition 3 @ Nam et Téo ont raison
+Proposition 4 @ Nam a raison et Téo se trompe
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{A}=\sqrt{25}$, $\textrm{B}=\sqrt{10\,000}$, $\textrm{C}=\sqrt{49}$ et $\textrm{D}=\sqrt{0,01}$. Alors …
+Proposition 1 @ $\textrm{D}<\textrm{A}<\textrm{C}<\textrm{B}$
+Proposition 2 @ $\textrm{B}<\textrm{C}<\textrm{A}<\textrm{D}$
+Proposition 3 @ $\textrm{D}<\textrm{B}<\textrm{C}<\textrm{A}$
+Proposition 4 @ $\textrm{D}<\textrm{A}<\textrm{B}<\textrm{C}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{A}=\sqrt{0,25}$, $\textrm{B}=\sqrt{0,010\,0}$, $\textrm{C}=\sqrt{0,006\,4}$ et $\textrm{D}=\sqrt{0,16}$. Le plus grand de ces nombres est …
+Proposition 1 @ $A$
+Proposition 2 @ $B$
+Proposition 3 @ $C$
+Proposition 4 @ $D$
+Reponse 5 @ 1
+
+Image 5 @

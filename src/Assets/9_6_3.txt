@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Modélisation d’un problème
+Série @ Série 3
+Consigne 1 @ $\bullet+\bullet+\lozenge=8$ et $\bullet+\lozenge+\lozenge+\lozenge=9$. La valeur $x$ de $\bullet$ et la valeur $y$ de $\lozenge$ vérifient le système d'équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}2x+y-8=0\\x+3y-9=0\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}2x+y=8\\x+2y=9\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}2x+y+8=0\\x+3y+9=0\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x^2+y=8\\x+y^3=9\end{split}\right.\end{equation}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $3$ cafés et un thé coûtent $7\ \textrm{€}$, mais $2$ cafés et $2$ thés coûtent $8\ \textrm{€}$. Les prix $x$ d’un café et $y$ d’un thé …
+Proposition 1 @ vérifient $\begin{equation}\left\{\begin{split}3x+y-7=0\\2x+2y-8=0\end{split}\right.\end{equation}$
+Proposition 2 @ vérifient $\begin{equation}\left\{\begin{split}x+3y=7\\2x+2y=8\end{split}\right.\end{equation}$
+Proposition 3 @ vérifient $\begin{equation}\left\{\begin{split}3x+y+7=0\\2x+2y+8=0\end{split}\right.\end{equation}$
+Proposition 4 @ vérifient $\begin{equation}\left\{\begin{split}3(x+y)=7\\2x+2y=8\end{split}\right.\end{equation}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ J’ai $120\ \textrm{€}$ en $20$ billets de $5$ ou $10\ \textrm{€}$. On note $x$ (resp. $y$) le nombre de billets de $5\ \textrm{€}$ (resp. $10\ \textrm{€}$). Alors …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}x+y-20=0\\5x+10y-120=0\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}10x+5y-20=0\\x+y-120=0\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}x+y+20=0\\5x+10y+120=0\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+y=20\\5(x+y)+y=120\end{split}\right.\end{equation}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Ben est $3$ fois plus âgé qu’Ali. Ils ont $60\ \textrm{ans}$ à eux deux. On note $x$ l’âge d’Ali et $y$ l’âge de Ben. Alors …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}3x-y=0\\x+y-60=0\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}x-3y=0\\x+y-60=0\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}x+y=60\\y=3+x\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+y=60\\y=2x\end{split}\right.\end{equation}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le périmètre d’un rectangle est $28\ \textrm{cm}$. La largeur $l$ mesure $5\ \textrm{cm}$ de moins que la longueur $L$. Alors …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}2l+2L=28\\-l+L=5\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}2l+2L=28\\L=l-5\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}l+L=14\\l-L=5\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}l+L=28\\L-l=5\end{split}\right.\end{equation}$
+Reponse 5 @ 1
+
+Image 5 @

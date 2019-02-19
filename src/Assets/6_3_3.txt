@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Réunion et intersection d’intervalles
+Série @ Série 3
+Consigne 1 @ $x$ désigne un nombre réel tel que $x\leq−2$ ou $x\geq1$. On peut écrire …
+Proposition 1 @ $x\in]−\infty\,;−2]\cup[1\,;+\infty[$
+Proposition 2 @ $x\in]−\infty\,;−2]\cap[1\,;+\infty[$
+Proposition 3 @ $x\in[−2\,;1]$
+Proposition 4 @ $x\in]−\infty\,;1]\cup[-2\,;+\infty[$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{I}=]−\infty\,;2]$ et $\textrm{J}=]−5\,;3[$. Il est exact d’écrire …
+Proposition 1 @ $\textrm{I}\cap\textrm{J}=]-5\,;2]$
+Proposition 2 @ $\textrm{I}\cup\textrm{J}=]-\infty\,;3[$
+Proposition 3 @ $\textrm{I}\cap\textrm{J}=]-5\;+\infty[$
+Proposition 4 @ $\textrm{I}\cup\textrm{J}=]-5\,;2]$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ 𝑥$x$ désigne un nombre réel tel que $|x|>5$. On peut alors dire que $x$ appartient à …
+Proposition 1 @ $]−\infty\,;−5[\cup]5\,;+\infty[$
+Proposition 2 @ $]−5\,;5[$
+Proposition 3 @ $]5\,;+\infty[$
+Proposition 4 @ $]−\infty\,;−5]\cup[5\,;+\infty[$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $x$ désigne un nombre réel tel que $x\in]-\infty\,;-4]\cup[1\,;+\infty[$. On peut aussi écrire …
+Proposition 1 @ $|x+1,5|\geq2,5$
+Proposition 2 @ $|x|\geq1$
+Proposition 3 @ $|x|\geq4$
+Proposition 4 @ $|x+1,5|\leq2,5$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ « $x$ est un nombre réel positif où $x$ appartient à l’intervalle $[−20\,;−10[ » peut s’écrire …
+Proposition 1 @ $x\in[0\,;+\infty[\cup[−20\,;−10[$
+Proposition 2 @ $x\in[0\,;+\infty[\cap[−20\,;−10[$
+Proposition 3 @ $x\in[0\,;+\infty[$
+Proposition 4 @ $x\in[−20\,;−10[$
+Reponse 5 @ 1
+
+Image 5 @

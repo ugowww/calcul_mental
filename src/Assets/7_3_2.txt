@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Simplification d’écriture - Réduction
+Série @ Série 2
+Consigne 1 @ $\textrm{A}=5x\times3y$. On peut écrire …
+Proposition 1 @ $\textrm{A}=15xy$
+Proposition 2 @ $\textrm{A}=8xy$
+Proposition 3 @ $\textrm{A}=125x^3y$
+Proposition 4 @ $\textrm{A}=15x+15y$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La forme réduite de l’expression $\frac{5a\times8b}{20}$ est …
+Proposition 1 @ $2ab$
+Proposition 2 @ $(ab)^2$
+Proposition 3 @ $\frac{ab}{2}$
+Proposition 4 @ $\frac{13ab}{20}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{B}=\frac{-3x\times4x}{12}$. L'affirmation vraie est …
+Proposition 1 @ $\textrm{B}=-x^2$
+Proposition 2 @ $\textrm{B}=\frac{-7x}{12}$
+Proposition 3 @ $\textrm{B}=\frac{-7x}{6}$
+Proposition 4 @ $\textrm{B}=\frac{x}{12}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{C}=(-5x)\times(-2x)$. $\textrm{C}$ est égal à …
+Proposition 1 @ $10x^2$
+Proposition 2 @ $-7x$
+Proposition 3 @ $-10x^2$
+Proposition 4 @ $7x$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La forme réduite de l’expression $\frac{2u\times3t}{12}$ est …
+Proposition 1 @ $\frac{ut}{2}$
+Proposition 2 @ $\frac{5ut}{12}$
+Proposition 3 @ $2ut$
+Proposition 4 @ $\frac{ut}{6}$
+Reponse 5 @ 1
+
+Image 5 @

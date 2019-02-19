@@ -1,0 +1,49 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Production d'une expression littérale
+Série @ Série 2
+
+Consigne 1 @ On ajoute $2$ au triple d’un nombre réel $x$. Le nombre obtenu est …
+Proposition 1 @ $3x+2$
+Proposition 2 @ $3x+6$
+Proposition 3 @ $3(x+2)$
+Proposition 4 @ $2x+2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $x$ désigne un nombre réel. On lui ajoute $7$, puis on soustrait $1$ au résultat. On obtient le nombre …
+Proposition 1 @ $x+6$
+Proposition 2 @ $6$
+Proposition 3 @ $x+7$
+Proposition 4 @ $7$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ On soustrait $6$ à un nombre réel $x$, puis on divise le résultat par $2$. Le nombre obtenu est …
+Proposition 1 @ $\frac{x}{2}-3$
+Proposition 2 @ $x-3$
+Proposition 3 @ $\frac{6-x}{2}$
+Proposition 4 @ $\frac{x-3}{2}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ On choisit un nombre réel $x$. On le multiplie par $10$ puis on ajoute le nombre choisi. On obtient …
+Proposition 1 @ $11x$
+Proposition 2 @ $10x+1$
+Proposition 3 @ $10+x$
+Proposition 4 @ $11+x$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ On additionne un nombre réel $x$, son triple et son carré. On obtient ainsi le nombre …
+Proposition 1 @ $4x+x^2$
+Proposition 2 @ $(x+3x)^2$
+Proposition 3 @ $x+(3x)^2$
+Proposition 4 @ $1+3x^2$
+Reponse 5 @ 1
+
+Image 5 @

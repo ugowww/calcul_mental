@@ -1,0 +1,47 @@
+Thème @ Nombres rationnels
+Sous-Thème @ Comparaison, fractions irréductibles
+Série @ Série 3
+Consigne 1 @ Pablo a voulu rendre irréductibles des fractions. Sa seule réponse correcte est …
+Proposition 1 @ $\frac{42}{63}=\frac{6\times7}{9\times7}=\frac{6}{9}=\frac{2}{3}$
+Proposition 2 @ $\frac{40}{60}=\frac{4\times10}{6\times10}=\frac{4}{6}$
+Proposition 3 @ $\frac{8}{4}=\frac{4\times2}{4}=\frac{1}{2}$
+Proposition 4 @ $\frac{5}{30}=\frac{5}{5\times6}=\frac{0}{6}=0$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La forme irréductible du rationnel $\frac{250}{200}$ est …
+Proposition 1 @ $\frac{5}{4}$
+Proposition 2 @ $\frac{2,5}{2}$
+Proposition 3 @ $\frac{125}{100}$
+Proposition 4 @ $\frac{25}{20}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La fraction irréductible égale à $\frac{2^2\times5^3\times11}{5^2\times11^2}$ est …
+Proposition 1 @ $\frac{20}{11}$
+Proposition 2 @ $\frac{4}{11}$
+Proposition 3 @ $4$
+Proposition 4 @ $\frac{5}{11}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $520=2^3\times5\times13$. $390=2\times3\times5\times13$. L’affirmation correcte est …
+Proposition 1 @ $\frac{520}{390}=\frac{4}{3}$
+Proposition 2 @ $\frac{390}{520}=\frac{3}{8}$
+Proposition 3 @ $\frac{1\,040}{780}=\frac{8}{3}$
+Proposition 4 @ $\frac{39}{52}=\frac{4}{3}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Hélène a voulu donner la forme irréductible de quatre fractions. Elle s’est trompée une fois, c’est …
+Proposition 1 @ $\frac{25}{20}=\frac{4}{5}$
+Proposition 2 @ $\frac{49}{14}=\frac{7}{2}$
+Proposition 3 @ $\frac{15}{24}=\frac{5}{8}$
+Proposition 4 @ $\frac{72}{32}=\frac{9}{4}$
+Reponse 5 @ 1
+
+Image 5 @

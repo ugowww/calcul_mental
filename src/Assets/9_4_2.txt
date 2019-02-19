@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Choix de la forme la plus adaptée d’une expression
+Série @ Série 2
+Consigne 1 @ $\textrm{A}=(x−2)(x−7)+3(x−7)$. Pour calculer la valeur de $\textrm{A}$ pour $x=7$, on utilise plutôt la forme …
+Proposition 1 @ factorisée $\textrm{A}=(x−7)(x+1)$
+Proposition 2 @ développée $\textrm{A}=x^2−6x−7$
+Proposition 3 @ initiale de $\textrm{A}$
+Proposition 4 @ autre
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=(x−2)(x−7)+3(x−7)$. Pour calculer la valeur de $\textrm{A}$ pour $x=0$, on utilise plutôt la forme …
+Proposition 1 @ développée $\textrm{A}=x^2-6x-7$
+Proposition 2 @ factorisée $\textrm{A}=(x−7)(x+1)$
+Proposition 3 @ initiale de $\textrm{A}$
+Proposition 4 @ autre
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{B}=2(x−5)+(x−5)^2$. Pour calculer la valeur de $\textrm{B}$ pour $x=0$, on utilise plutôt la forme …
+Proposition 1 @ développée $\textrm{B}=x^2−8x+15$
+Proposition 2 @ factorisée $\textrm{B}=(x-5)(x-3)$
+Proposition 3 @ initiale de $\textrm{B}$
+Proposition 4 @ autre
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{B}=2(x−5)+(x−5)^2$. Pour calculer la valeur de $\textrm{B}$ pour $x=3$, on utilise plutôt la forme …
+Proposition 1 @ factorisée $\textrm{B}=(x−5)(x−3)$
+Proposition 2 @ développée $\textrm{B}=x^2−8x+15$
+Proposition 3 @ initiale de $\textrm{B}$
+Proposition 4 @ autre
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{C}=(2x−1)^2−4$. Pour calculer la valeur de $\textrm{C}$ pour $x=\frac{3}{2}$, on utilise plutôt la forme …
+Proposition 1 @ factorisée $\textrm{C}=(2x+1)(2x-3)$
+Proposition 2 @ développée $\textrm{C}=4x^2-4x-3$
+Proposition 3 @ initiale de $\textrm{C}$
+Proposition 4 @ autre
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Multiplication - division
+Série @ Série 1
+Consigne 1 @ $14\times(-1)$ est égal à …
+Proposition 1 @ $-14$
+Proposition 2 @ $14$
+Proposition 3 @ $14\times1$
+Proposition 4 @ $(-14)\times(-1)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le produit de $-23$ et de $-100$ est égal à …
+Proposition 1 @ $23\times100$
+Proposition 2 @ $-2\,300$
+Proposition 3 @ $(-23)\times100$
+Proposition 4 @ $23\times(-100)$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L'affirmation correcte est …
+Proposition 1 @ $(-12)\times(-5)=60$
+Proposition 2 @ $(-7)\times(-11)=-77$
+Proposition 3 @ $16\times(-5)=80$
+Proposition 4 @ $(-14)\times(-2)=-28$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L'égalité correcte est …
+Proposition 1 @ $(-1)\times(-1)=1$
+Proposition 2 @ $(-1)\times0=-1$
+Proposition 3 @ $0\times(-1)=1$
+Proposition 4 @ $(-1)\times1=1$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La seule égalité qui est fausse est …
+Proposition 1 @ $(-100)\times(-14)=140$
+Proposition 2 @ $(-25)\times1\,000=-25\,000$
+Proposition 3 @ $(-100)\times(-14)=1\,400$
+Proposition 4 @ $(-230)\times(-10)=2\,300$
+Reponse 5 @ 1
+
+Image 5 @

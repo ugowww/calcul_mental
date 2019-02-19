@@ -1,0 +1,47 @@
+Thème @ Nombres réels
+Sous-Thème @ Réunion et intersection d’intervalles
+Série @ Série 2
+Consigne 1 @ L’intersection des intervalles $[−1\,;+\infty[$ et $[−2\,;1[$ est l’intervalle …
+Proposition 1 @ $[−1\,;1[$
+Proposition 2 @ $[−2\,;+\infty[$
+Proposition 3 @ $[−2\,;1[$
+Proposition 4 @ $[−2\,;-1[$
+Reponse 1 @ 1
+
+Image 1 @ image1.png
+
+Consigne 2 @ L’intersection des intervalles $[−3\,;0[$ et $]−2\,;2]$ est l’intervalle …
+Proposition 1 @ $]-2\,;0[$
+Proposition 2 @ $[-3\,;2]$
+Proposition 3 @ $[-3\,;-2]$
+Proposition 4 @ $[0\,;2]$
+Reponse 2 @ 1
+
+Image 2 @ image2.png
+
+Consigne 3 @ 𝑥$\textrm{I}_1=]-\infty\,;0,5[$ et $\textrm{I}_2=]0,5\,;+\infty[$. On peut simplifier l’ensemble $\textrm{I}_1\cap\textrm{I}_2$ sous la forme …
+Proposition 1 @ l’ensemble vide $\varnothing$
+Proposition 2 @ $\left\{0,5\right\}$
+Proposition 3 @ $\mathbb{R}$
+Proposition 4 @ $\mathbb{R}-\left\{0,5\right\}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’ensemble $]−1\,;1]\cap[1;+\infty[$ s’écrit aussi …
+Proposition 1 @ $\left\{1\right\}$
+Proposition 2 @ $]−1\,;+\infty[$
+Proposition 3 @ $]−1\,;1[$
+Proposition 4 @ $\varnothing$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{E}=]−4\,;2]\cap[0\,;10]$. Un nombre réel $x$ qui appartient à l’ensemble $\textrm{E}$ vérifie …
+Proposition 1 @ $0\leq{x}\leq2$
+Proposition 2 @ $-4< x\leq10$
+Proposition 3 @ $0< x< 2$
+Proposition 4 @ $-4< x\leq0$
+Reponse 5 @ 1
+
+Image 5 @

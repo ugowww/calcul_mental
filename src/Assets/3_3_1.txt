@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Écriture sous la forme $a\times10^n$
+Série @ Série 1
+Consigne 1 @ Le nombre $0,000\,123$ s’écrit aussi …
+Proposition 1 @ $123\times10^{-6}$
+Proposition 2 @ $123\times10^{-4}$
+Proposition 3 @ $123\times10^6$
+Proposition 4 @ $123\times10^{-3}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’écriture décimale du nombre $23,45\times10^{-3}$ est …
+Proposition 1 @ $0,023\,45$
+Proposition 2 @ $23\,450$
+Proposition 3 @ $234,5$
+Proposition 4 @ $2,345$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Il y a environ $\textbf{14 millions}$ d’espèces d’animaux vivant sur la planète. Ce nombre s’écrit aussi …
+Proposition 1 @ $14\times10^6$
+Proposition 2 @ $14\times10^{-6}$
+Proposition 3 @ $14\times10^9$
+Proposition 4 @ $14^6$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Une éolienne produit une puissance électrique de $2$ mégawatts $\textrm{(MW)}$, c’est-à-dire …
+Proposition 1 @ $2\,000\,000\,\textrm{W}$
+Proposition 2 @ $2\,000\,\textrm{W}$
+Proposition 3 @ $2\,000\,000\,000\,\textrm{W}$
+Proposition 4 @ $2\,000\,000\,000\,000\,\textrm{W}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le diamètre du système solaire est $\textbf{20 000 milliards de km}$, ce qui peut s’écrire …
+Proposition 1 @ $2\times10^{13}\,\textrm{km}$
+Proposition 2 @ $2\times10^9\,\textrm{km}$
+Proposition 3 @ $2\times10^{16}\,\textrm{km}$
+Proposition 4 @ $2\times10^{12}\,\textrm{km}$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Choix de la forme la plus adaptée d’une expression
+Série @ Série 1
+Consigne 1 @ $\textrm{A}=(3x+2)(x+4)$. L’écriture $\textrm{A}=3x^2+12x+2x+8$ est la forme …
+Proposition 1 @ développée non réduite de $\textrm{A}$
+Proposition 2 @ développée et réduite de $\textrm{A}$
+Proposition 3 @ factorisée de $\textrm{A}$
+Proposition 4 @ autre
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=4x^2−5x$. L’écriture $\textrm{A}=x(4x−5)$ est la forme …
+Proposition 1 @ factorisée de $\textrm{B}$
+Proposition 2 @ développée et réduite de $\textrm{B}$
+Proposition 3 @ développée non réduite de $\textrm{B}$
+Proposition 4 @ autre
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{C}=3x+2x(x+1)$. L’écriture $\textrm{B}=2x^2+5x$ est la forme …
+Proposition 1 @ développée et réduite de $\textrm{C}$
+Proposition 2 @ factorisée de $\textrm{C}$
+Proposition 3 @ développée non réduite de $\textrm{C}$
+Proposition 4 @ autre
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{D}=x(x−5)−2(x+4)$. L’écriture $\textrm{D}=x^2−5x−2x−8$ est la forme …
+Proposition 1 @ développée non réduite de $\textrm{D}$
+Proposition 2 @ factorisée de $\textrm{D}$
+Proposition 3 @ développée et réduite de $\textrm{D}$
+Proposition 4 @ autre
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{E}=9x^2−16$. L’écriture $\textrm{E}=(3x−4)(3x+4)$ est la forme …
+Proposition 1 @ factorisée de $\textrm{E}$
+Proposition 2 @ développée non réduite de $\textrm{E}$
+Proposition 3 @ développée et réduite de $\textrm{E}$
+Proposition 4 @ autre
+Reponse 5 @ 1
+
+Image 5 @

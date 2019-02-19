@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Modélisation d’un problème
+Série @ Série 1
+Consigne 1 @ Dans $18\ \textrm{ans}$, Anne aura le triple de son âge actuel $x$. Pour connaître cet âge $x$, on peut résoudre …
+Proposition 1 @ l'équation $x+18=3x$
+Proposition 2 @ l'équation $x=3x+18$
+Proposition 3 @ l'équation $x=3(x-18)$
+Proposition 4 @ l'équation $x=3(x+18)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Si j’ajoute $50$ à un nombre $n$, j’obtiens la différence du triple de ce nombre et de $20$. Alors $n$ …
+Proposition 1 @ vérifie $n+50=3n-20$
+Proposition 2 @ vérifie $3n+50=n-20$
+Proposition 3 @ vérifie $3(n-20)=n+50$
+Proposition 4 @ vérifie $20-3n=n+50$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La longueur 𝑥$x$ (en $\textrm{m}$) d’un rectangle de largeur $7\ \textrm{m}$ et de périmètre $32\ \textrm{m}$ vérifie l’équation …
+Proposition 1 @ $2x+14=32$
+Proposition 2 @ $2x+7=32$
+Proposition 3 @ $7x=32$
+Proposition 4 @ $x+7=32$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $n$ désigne le plus petit de trois nombres entiers consécutifs dont la somme est $462$. Alors …
+Proposition 1 @ $n+n+1+n+2=462$
+Proposition 2 @ $n-1+n+n+1=462$
+Proposition 3 @ $n+2n+3n=462$
+Proposition 4 @ $n+n-1+n-2=462$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Les mesures, en degré, des angles d’un triangle sont $x$, $3x$ et $5x$. Alors $x$ vérifie l′équation …
+Proposition 1 @ $x+3x+5x=180$
+Proposition 2 @ $x+3x+5x=360$
+Proposition 3 @ $x+3x+5x=90$
+Proposition 4 @ $x+3x+5x=200$
+Reponse 5 @ 1
+
+Image 5 @

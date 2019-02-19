@@ -1,0 +1,49 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Suppression de parenthèses et réduction
+Série @ Série 2
+
+Consigne 1 @ $\textrm{A}=(3x-2)+(3-7x)$. L’écriture de $\textrm{A}$ sans parenthèses est …
+Proposition 1 @ $\textrm{A}=1-4x$
+Proposition 2 @ $\textrm{A}=6x-9$
+Proposition 3 @ $\textrm{A}=-3x$
+Proposition 4 @ $\textrm{A}=21x-6$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=(-x+5)+(x+8)$. En ôtant les parenthèses et en réduisant, on obtient …
+Proposition 1 @ $\textrm{B}=13$
+Proposition 2 @ $\textrm{B}=3$
+Proposition 3 @ $\textrm{B}=2x+13$
+Proposition 4 @ $\textrm{B}=2x+3$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’égalité vraie pour tout nombre réel $x$ est …
+Proposition 1 @ $(6x+2)-(3x+1)=3x+1$
+Proposition 2 @ $(6x+2)-(3x+1)=3x+3$
+Proposition 3 @ $(6x+2)-(3x+1)=9x+1$
+Proposition 4 @ $(6x+2)-(3x+1)=9x+3$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $\textrm{C}=(-2x-5)-(-7x+8)$. L’expression simplifiée et réduite de $\textrm{C}$ est …
+Proposition 1 @ $\textrm{C}=5x-13$
+Proposition 2 @ $\textrm{C}=5x+3$
+Proposition 3 @ $\textrm{C}=-9x-13$
+Proposition 4 @ $\textrm{C}=-9x+3$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{D}=6x-(1-x)-(8x-7)$. On peut écrire $\textrm{D}$ sous la forme réduite …
+Proposition 1 @ $\textrm{D}=6-x$
+Proposition 2 @ $\textrm{D}=-13x+6$
+Proposition 3 @ $\textrm{D}=-13x-8$
+Proposition 4 @ $\textrm{D}=-2x+6$
+Reponse 5 @ 1
+
+Image 5 @

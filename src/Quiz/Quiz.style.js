@@ -55,7 +55,7 @@ const QuizStyle = styled.div `
         background-repeat: no-repeat;
         background-position: center;
         max-width: 500px;
-       margin: 0 auto;
+        margin: 0 auto;
     
 
     &.no-image {

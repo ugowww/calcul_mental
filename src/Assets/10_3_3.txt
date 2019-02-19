@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Résolution d’une inéquation du 1er degré
+Série @ Série 3
+Consigne 1 @ $1\ \textrm{Go}$ coûte $0,05\ $1\ \textrm{€}$. Il y a $5\ \textrm{€}$ de frais de dossier. Pour payer moins de $15\ \textrm{€}$, le nombre $x$ de $\textrm{Go}$ à acheter …
+Proposition 1 @ vérifie $0,05x+5\leq15$
+Proposition 2 @ vérifie $5x+0,05\leq15$
+Proposition 3 @ vérifie $0,05x-5\leq15$
+Proposition 4 @ vérifie $15x+0,05\leq5$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour faire un toit, on paie $40\ \textrm{€}$ par $\textrm{m}^2$ et $900\ \textrm{€}$ de pose. Pour moins de $5\,000\ \textrm{€}$, la surface $x$ (en $\textrm{m}^2$) …
+Proposition 1 @ vérifie $40x+900\leq5000$
+Proposition 2 @ vérifie $40x+900\geq5000$
+Proposition 3 @ vérifie $900x-40\leq5000$
+Proposition 4 @ vérifie $940x\leq5000$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Unité de longueur : le centimètre. L’aire de la surface verte est supérieure ou égale à $2\ \textrm{cm}^2$ …
+Proposition 1 @ lorsque $x$ vérifie $18-2x\geq2$
+Proposition 2 @ lorsque $x$ vérifie $18+2x\geq2$
+Proposition 3 @ lorsque $x$ vérifie $18-2x\leq2$
+Proposition 4 @ lorsque $x$ vérifie $18\geq2x$
+Reponse 3 @ 1
+
+Image 3 @ image3.png
+
+Consigne 4 @ Si on retranche $4$ au triple d’un nombre $x$, le nombre obtenu est inférieur ou égal au double de $x$ …
+Proposition 1 @ lorsque $x$ vérifie $3x-4\leq2x$
+Proposition 2 @ lorsque $x$ vérifie $-12x\leq2x$
+Proposition 3 @ lorsque $x$ vérifie $3x-12\leq2x$
+Proposition 4 @ lorsque $x$ vérifie $3x\leq4$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le périmètre du triangle est inférieur ou égal à celui du carré …
+Proposition 1 @ lorsque $x$ vérifie $3x\leq20-4x$
+Proposition 2 @ lorsque $x$ vérifie $3x\leq25$
+Proposition 3 @ lorsque $x$ vérifie $3x\leq(5-x)^2$
+Proposition 4 @ lorsque $x$ vérifie $x\leq5-x$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

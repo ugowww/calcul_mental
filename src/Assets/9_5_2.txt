@@ -1,0 +1,47 @@
+Thème @ Équations
+Sous-Thème @ Équations à deux inconnues
+Série @ Série 2
+Consigne 1 @ Le couple $(2\ ;\,-1)$ est solution du système d’équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}x+2y=0\\y=2x-5\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}3x-5y-11=0\\2x+y+3=0\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}x+2y=4\\2x+y=3\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+2y=0\\y=4x-7\end{split}\right.\end{equation}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le couple $(3\ ;\,5)$ est solution du système d’équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}x+2y=13\\4x+y=17\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}x+2y=13\\4x-6y=-17\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}3x+y=13\\4x+y=17\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+2y=11\\4x+y=23\end{split}\right.\end{equation}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le couple $(6\ ;\,-4)$ est solution du système d’équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}x+y=2\\3x+2y=10\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}x-y=2\\3x+2y=26\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}x-y=10\\x+3y=-6\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+y=2\\2x-2y=4\end{split}\right.\end{equation}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le couple $(2\ ;\,6)$ n'est pas solution du système d’équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}3x-y=0\\2x-y=2\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}0,5x-y=-3\\2x+3y=22\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}y=x+4\\x+y=8\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x-y=-4\\y=2x+2\end{split}\right.\end{equation}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le couple $(5\ ;\,-3)$ n'est pas solution du système d’équations …
+Proposition 1 @ $\begin{equation}\left\{\begin{split}x+2y=1\\2x+y=7\end{split}\right.\end{equation}$
+Proposition 2 @ $\begin{equation}\left\{\begin{split}2x+y-7=0\\x+y-2=0\end{split}\right.\end{equation}$
+Proposition 3 @ $\begin{equation}\left\{\begin{split}y=2-x\\3x+5y=0\end{split}\right.\end{equation}$
+Proposition 4 @ $\begin{equation}\left\{\begin{split}x+3y=-4\\2x+y=7\end{split}\right.\end{equation}$
+Reponse 5 @ 1
+
+Image 5 @

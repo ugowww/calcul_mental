@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Puissances de 10 (exposant entier relatif)
+Série @ Série 1
+Consigne 1 @ $\textbf{Un millionième}$ peut s’écrire …
+Proposition 1 @ $10^{-6}$
+Proposition 2 @ $10^6$
+Proposition 3 @ $10^{-9}$
+Proposition 4 @ $10^9$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textbf{10 millions}$ peut s’écrire …
+Proposition 1 @ $10^7$
+Proposition 2 @ $10^5$
+Proposition 3 @ $10^{10}$
+Proposition 4 @ $10^4$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le préfixe $\textbf{méga}$ multiplie une unité par …
+Proposition 1 @ $10^6$
+Proposition 2 @ $10^{-6}$
+Proposition 3 @ $10^9$
+Proposition 4 @ $10^{12}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Le diamètre d’un atome est voisin d’$\textbf{un milliardième de micromètre}$, ce qui est égal à …
+Proposition 1 @ $10^{-9}\,\mu\textrm{m}$
+Proposition 2 @ $10^9\,\mu\textrm{m}$
+Proposition 3 @ $10^6\,\mu\textrm{m}$
+Proposition 4 @ $10^{-6}\,\mu\textrm{m}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textbf{Une nanoseconde}$ est égale à …
+Proposition 1 @ $0,001\,\mu\textrm{s}$
+Proposition 2 @ $0,1\,\mu\textrm{s}$
+Proposition 3 @ $1\,000\,000\,\textrm{ms}$
+Proposition 4 @ $100\,\textrm{ms}$
+Reponse 5 @ 1
+
+Image 5 @

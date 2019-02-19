@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Règles de calcul sur les puissances (exposant entier relatif)
+Série @ Série 1
+Consigne 1 @ L’égalité incorrecte est …
+Proposition 1 @ $2^3\times2^2=2^6$
+Proposition 2 @ $2^3\times2^2=32$
+Proposition 3 @ $2^3\times2^2=2^5$
+Proposition 4 @ $2^3\times2^2=2\times2\times2\times2\times2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le produit $3^3\times3^2\times3^2$ est égal à …
+Proposition 1 @ $3^7$
+Proposition 2 @ $3^{12}$
+Proposition 3 @ $27^7$
+Proposition 4 @ $9^{12}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Parmi ces quatre nombres, celui qui n’est pas égal aux autres est …
+Proposition 1 @ $2^9$
+Proposition 2 @ $2^3\times2^3$
+Proposition 3 @ $2^6$
+Proposition 4 @ $64$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Trois de ces quatre nombres sont égaux. Le nombre qui n’est pas égal aux autres est …
+Proposition 1 @ $3^{-3}\times3^{-1}$
+Proposition 2 @ $3^{-4}\times3^{-1}\times3^2$
+Proposition 3 @ $3^{-7}\times3^{4}$
+Proposition 4 @ $3^{-5}\times3^{2}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le produit $5^2\times5^{-5}\times5^3$ est égal à …
+Proposition 1 @ $1$
+Proposition 2 @ $0$
+Proposition 3 @ $5$
+Proposition 4 @ $5^{-6}$
+Reponse 5 @ 1
+
+Image 5 @

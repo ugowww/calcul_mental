@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (2)
+Série @ Série 3
+Consigne 1 @ Le carré du nombre $4+\sqrt{2}$ est égal à …
+Proposition 1 @ $18+8\sqrt{2}$
+Proposition 2 @ $18$
+Proposition 3 @ $18+2\sqrt{2}$
+Proposition 4 @ $18+4\sqrt{2}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $(10-\sqrt{10})^2$ est égal à …
+Proposition 1 @ $110-20\sqrt{10}$
+Proposition 2 @ $90$
+Proposition 3 @ $75$
+Proposition 4 @ $110-10\sqrt{10}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{A}=(x-1)(x+1)$. Pour $x=\sqrt{11}$, l'expression $\textrm{A}$ est égale à …
+Proposition 1 @ $10$
+Proposition 2 @ $\sqrt{99}$
+Proposition 3 @ $10-2\sqrt{11}$
+Proposition 4 @ $12$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{B}=(x-1)^2$. Pour $x=\sqrt{3}$, l'expression $\textrm{B}$ est égale à …
+Proposition 1 @ $4-2\sqrt{3}$
+Proposition 2 @ $2-2\sqrt{3}$
+Proposition 3 @ $4+2\sqrt{3}$
+Proposition 4 @ $2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le produit $(x+\sqrt{2})(x-\sqrt{2})$ est égal à $-1$ lorsque $x$ est égal à …
+Proposition 1 @ $1$
+Proposition 2 @ $-2$
+Proposition 3 @ $0$
+Proposition 4 @ $-1-\sqrt{2}$
+Reponse 5 @ 1
+
+Image 5 @

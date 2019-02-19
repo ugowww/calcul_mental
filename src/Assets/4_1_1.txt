@@ -1,0 +1,47 @@
+Thème @ Nombres rationnels
+Sous-Thème @ Comparaison, fractions irréductibles
+Série @ Série 1
+Consigne 1 @ Il y a $17$ filles et $16$ garçons dans une classe. La proportion de filles est égale à …
+Proposition 1 @ $\frac{17}{33}$
+Proposition 2 @ $51\ \%$
+Proposition 3 @ $\frac{17}{16}$
+Proposition 4 @ $\frac{16}{33}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Il est exact d’écrire …
+Proposition 1 @ $\frac{1}{4}=0,25\ ;\,\frac{1}{2}=0,5\ ;\,\frac{3}{4}=0,75$
+Proposition 2 @ $\frac{1}{4}=0,4\ ;\,\frac{1}{2}=0,5\ ;\,\frac{3}{4}=0,75$
+Proposition 3 @ $\frac{1}{4}=0,25\ ;\,\frac{1}{2}=0,5\ ;\,\frac{3}{4}=0,8$
+Proposition 4 @ $\frac{1}{4}=\frac{25}{100}\ ;\,\frac{1}{2}=\frac{5}{100}\ ;\,\frac{3}{4}=\frac{75}{100}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Zoé : « $\frac{1}{5}=0,2$ et $\frac{4}{5}=0,8$. » Max : « $\frac{2}{5}=0,4$ et $\frac{3}{5}=0,6$. »  On peut affirmer …
+Proposition 1 @ que Zoé et Max ont raison
+Proposition 2 @ que Zoé et Max se trompent
+Proposition 3 @ que Zoé a raison et que Max se trompe
+Proposition 4 @ que Zoé se trompe et que Max a raison
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ La seule affirmation vraie est …
+Proposition 1 @ $\frac{1}{3}\approx0,33$ et $\frac{2}{3}\approx0,67$
+Proposition 2 @ $\frac{1}{3}\approx0,33$ et $\frac{2}{3}=0,7$
+Proposition 3 @ $\frac{1}{3}=0,5$ et $\frac{2}{3}\approx0,67$
+Proposition 4 @ $\frac{1}{3}=0,5$ et $\frac{2}{3}=0,7$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’écriture correcte d’un quotient sous forme d’un nombre rationnel est …
+Proposition 1 @ $\frac{0,7}{6}=\frac{7}{60}$
+Proposition 2 @ $\frac{9}{0,4}=\frac{9}{4}$
+Proposition 3 @ $\frac{25}{0,03}=\frac{250}{3}$
+Proposition 4 @ $\frac{0,002}{0,05}=\frac{2}{5}$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Écriture sous la forme $a\times10^n$
+Série @ Série 3
+Consigne 1 @ L’écriture en notation scientifique du nombre $31\,200\times10^{-2}$ est …
+Proposition 1 @ $3,12\times10^2$
+Proposition 2 @ $3,12\times10^{-6}$
+Proposition 3 @ $3,12\times10^{-4}$
+Proposition 4 @ $3,12\times10^{-2}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La masse de la Terre est $5\,975$ milliards de milliards de tonnes soit, en notation scientifique, …
+Proposition 1 @ $5,975\times10^{21}\,\textrm{t}$
+Proposition 2 @ $5,975\times10^{18}\,\textrm{t}$
+Proposition 3 @ $5,975\times10^{12}\,\textrm{t}$
+Proposition 4 @ $5,975\times10^{15}\,\textrm{t}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La constante d’Avogadro est $6\,022,140\,76\times10^{20}\,\textrm{mol}^{−1}$, c’est-à-dire, en notation scientifique, …
+Proposition 1 @ $6,022\,140\,76\times10^{23}\,\textrm{mol}^{−1}$
+Proposition 2 @ $6,022\,140\,76\times10^{17}\,\textrm{mol}^{−1}$
+Proposition 3 @ $6,022\,140\,76\times10^3 \textrm{mol}^{−1}$
+Proposition 4 @ $6,022\,140\,76\times10^8 \textrm{mol}^{−1}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ Sur la Terre, la superficie des terres émergées est $1\,486,47\times10^5\,\textrm{km}^2$, c’est-à-dire …
+Proposition 1 @ $1,486\,47\times10^8\,\textrm{km}^2$
+Proposition 2 @ $1,486\,47\times10^2\,\textrm{km}^2$
+Proposition 3 @ $1,486\,47\times10^9\,\textrm{km}^2$
+Proposition 4 @ $1,486\,47\times10^7\,\textrm{km}^2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’écriture scientifique du nombre $6\times10^{25}\times5\times10^{−14}$ est …
+Proposition 1 @ $3\times10^{12}$
+Proposition 2 @ $3\times10^{40}$
+Proposition 3 @ $30\times10^{11}$
+Proposition 4 @ $30\times10^{39}$
+Reponse 5 @ 1
+
+Image 5 @

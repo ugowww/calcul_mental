@@ -1,0 +1,47 @@
+﻿Thème @ Probabilités
+Sous-Thème @ Calculs de probabilités (3)
+Série @ Série 2
+Consigne 1 @ Voici 95 caractères : f est la fonction définie sur R par f(t)= 5t+1. L’image de -4 par f est&nbsp;…
+Proposition 1 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 2 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 3 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 4 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Reponse 1 @ 1
+
+Image 1 @ image1.png
+
+Consigne 2 @ Voici 150 caractères : (hn) est la suite définie pour tout nombre n de N.  Calculer h20 et présenter la réponse sous forme de fraction irréductible&nbsp;…
+Proposition 1 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 2 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 3 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 4 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Reponse 2 @ 1
+
+Image 2 @ image2.png
+
+Consigne 3 @ Voici 225 caractères : ( hn) est la suite définie pour tout nombre n de N .  Calculer h20 et présenter la réponse sous forme de fraction irréductible. f est la fonction définie sur R par f(t)= 5t+1. L’image de -4 par f est&nbsp;…
+Proposition 1 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 2 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 3 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 4 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Reponse 3 @ 1
+
+Image 3 @ image3.png
+
+Consigne 4 @ Voici 350 caractères : ( hn) est la suite définie pour tout nombre n de N .  Calculer h20 et présenter la réponse sous forme de fraction irréductible. f est la fonction définie sur R par f(t)= 5t+1. L’image de -4 par f est… ( hn) est la suite définie pour tout nombre n de ℕ . Calculer h20 et présenter la réponse sous forme de fraction irréductible.&nbsp;…
+Proposition 1 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 2 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 3 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 4 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Reponse 4 @ 1
+
+Image 4 @ image4.png
+
+Consigne 5 @ Voici 425 caractères : ( hn) est la suite définie pour tout nombre n de N .  Calculer h20 et présenter la réponse sous forme de fraction irréductible. f est la fonction définie sur R par f(t)= 5t+1. L’image de -4 par f est… ( hn) est la suite définie pour tout nombre n de ℕ . Calculer h20 et présenter la réponse sous forme de fraction irréductible. f est la fonction définie sur R par f(t)= 5t+1. L’image de -4 par f est&nbsp;…
+Proposition 1 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 2 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 3 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Proposition 4 @ 100 caractères : L’écriture A = 3x^2+12x+2x+8  est la forme développée non réduite de A factorisée de A
+Reponse 5 @ 1
+
+Image 5 @ image5.png

@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 2
+Consigne 1 @ Compléter $2^{-5}=$ …
+Proposition 1 @ $\frac{1}{32}$
+Proposition 2 @ $0,00002$
+Proposition 3 @ $\frac{1}{10}$
+Proposition 4 @ $-32$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’égalité incorrecte est …
+Proposition 1 @ $3^{-4}=\frac{1}{4\times4\times4}$
+Proposition 2 @ $3^{-4}=\frac{1}{3^4}$
+Proposition 3 @ $3^{-4}=\frac{1}{81}$
+Proposition 4 @ $3^{-4}=\frac{1}{3\times3\times3\times3}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $10^{-6}$ se lit …
+Proposition 1 @ un millionième
+Proposition 2 @ un millième
+Proposition 3 @ un milliardième
+Proposition 4 @ un cent-millième
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Compléter $5^{-2}=$ …
+Proposition 1 @ $0,04$
+Proposition 2 @ $0,25$
+Proposition 3 @ $0,2$
+Proposition 4 @ $0,05$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Compléter $5^{-4}=$ …
+Proposition 1 @ $\frac{1}{625}$
+Proposition 2 @ $\frac{1}{20}$
+Proposition 3 @ $\frac{1}{4^5}$
+Proposition 4 @ $\frac{1}{125}$
+Reponse 5 @ 1
+
+Image 5 @

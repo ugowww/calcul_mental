@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Règles de calcul (1)
+Série @ Série 1
+Consigne 1 @ $\sqrt{16+9}$ est égal à …
+Proposition 1 @ $5$
+Proposition 2 @ $7$
+Proposition 3 @ $25$
+Proposition 4 @ $12,5$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\sqrt{16}+\sqrt{25}$ est égal à …
+Proposition 1 @ $9$
+Proposition 2 @ $\sqrt{41}$
+Proposition 3 @ $20,5$
+Proposition 4 @ $29$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\sqrt{36}-\sqrt{25}$ est égal à …
+Proposition 1 @ $1$
+Proposition 2 @ $\sqrt{11}$
+Proposition 3 @ $5,5$
+Proposition 4 @ $\sqrt{36}+\sqrt{25}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Un seul de ces nombres est égal à $10$. Il s’agit de …
+Proposition 1 @ $\sqrt{36}+\sqrt{64}$
+Proposition 2 @ $\sqrt{20}+\sqrt{80}$
+Proposition 3 @ $\sqrt{125}-\sqrt{25}$
+Proposition 4 @ $\sqrt{400-100}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La longueur $\textrm{AC}$ est égale à …
+Proposition 1 @ $\sqrt{19}$
+Proposition 2 @ $19$
+Proposition 3 @ $\sqrt{181}$
+Proposition 4 @ $1$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

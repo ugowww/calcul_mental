@@ -149,7 +149,7 @@ class index extends Component {
   }
 
   render() {
-    const {paddingLeft} = (this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ?    { paddingLeft: '0px'} : isMobileOnly ? { paddingLeft: '40px'}:{ paddingLeft: '50px'}
+    const {paddingLeft} = (this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ?    { paddingLeft: '20px'} : isMobileOnly ? { paddingLeft: '40px'}:{ paddingLeft: '50px'}
     const {windowHeight} = isMobileOnly ? {windowHeight:window.innerHeight-50} :{windowHeight:600}
     const {windowMinHeight} = isMobileOnly ? {windowMinHeight:window.innerHeight-100} :{windowMinHeight:600}
    

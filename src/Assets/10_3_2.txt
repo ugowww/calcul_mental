@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Résolution d’une inéquation du 1er degré
+Série @ Série 2
+Consigne 1 @ L’inéquation $3x+4<x+2$ est équivalente à …
+Proposition 1 @ $2x<-2$
+Proposition 2 @ $4x<6$
+Proposition 3 @ $3x<6$
+Proposition 4 @ $2x+6<0$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’inéquation $5x-9\geq8x-7$ est équivalente à …
+Proposition 1 @ $-2\geq3x$
+Proposition 2 @ $-3x\geq-16$
+Proposition 3 @ $13x\geq2$
+Proposition 4 @ $-3x\leq2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’ensemble des solutions de l’inéquation $3x-1\leq-x+3$ est …
+Proposition 1 @ $]-\infty\ ;\,1]$
+Proposition 2 @ $]-\infty\ ;\,2]$
+Proposition 3 @ $[1\ ;\,+\infty[$
+Proposition 4 @ $]-\infty\ ;\,\frac{1}{2}]$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L’ensemble des solutions de l’inéquation $5x+5>7x+1$ est …
+Proposition 1 @ $]-\infty\ ;\,2[$
+Proposition 2 @ $]2\ ;\,+\infty[$
+Proposition 3 @ $]-2\ ;\,+\infty[$
+Proposition 4 @ $]-\infty\ ;\,-2[$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’ensemble des solutions de l’inéquation $1-x\leq2-2x$ est …
+Proposition 1 @ $]-\infty\ ;\,1]$
+Proposition 2 @ $]-\infty\ ;\,\frac{1}{3}]$
+Proposition 3 @ $[1\ ;\,+\infty[$
+Proposition 4 @ $[\frac{1}{3}\ ;\,+\infty[$
+Reponse 5 @ 1
+
+Image 5 @

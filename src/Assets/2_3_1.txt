@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 1
+Consigne 1 @ Le produit $(-3)\times(-3)\times(-3)\times(-3)\times(-3)$ s'écrit aussi …
+Proposition 1 @ $(-3)^5$
+Proposition 2 @ $3\times3\times3\times3\times3$
+Proposition 3 @ $3^{-5}$
+Proposition 4 @ $5^3$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Un seul élève a raison …
+Proposition 1 @ Ali : « $(-14)^{11}$ est négatif »
+Proposition 2 @ Béa : « $(-20)^{14}$ est négatif »
+Proposition 3 @ Tom : « $(-5)^5$ est positif »
+Proposition 4 @ Noé : « $(-13)^{23}$ est positif »
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L'affirmation correcte est …
+Proposition 1 @ $4^5\times4^8=4^{13}$
+Proposition 2 @ $(-6)^3\times(-6)^4=(-6)^{12}$
+Proposition 3 @ $5^{10}\times5=5^{10}$
+Proposition 4 @ $(-2)^7\times(-2)^0=2^7$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $(-10)^3\times(-5)^3=50^n$ et $3^8\times(-20)^8=(-60)^p$ lorsque …
+Proposition 1 @ $n=3$ et $p=8$
+Proposition 2 @ $n=6$ et $p=16$
+Proposition 3 @ $n=p=0$
+Proposition 4 @ $n=9$ et $p=64$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{A}=((-5)^3)^6=(-5)^{18}$ et $\textrm{B}=(10^4)^5=10^9$. On peut dire …
+Proposition 1 @ $\textrm{A}$ est vrai, $\textrm{B}$ est faux
+Proposition 2 @ $\textrm{A}$ est faux, $\textrm{B}$ est vrai
+Proposition 3 @ $\textrm{A}$ et $\textrm{B}$ sont vrais
+Proposition 4 @ $\textrm{A}$ et $\textrm{B}$ sont faux
+Reponse 5 @ 1
+
+Image 5 @

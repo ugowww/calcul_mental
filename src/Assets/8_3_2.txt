@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (1)
+Série @ Série 2
+Consigne 1 @ Le produit $49\times51$ est égal à …
+Proposition 1 @ $2\,499$
+Proposition 2 @ $2\,401$
+Proposition 3 @ $2\,409$
+Proposition 4 @ $2\,509$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le produit $99\times101$ est égal à …
+Proposition 1 @ $9\,999$
+Proposition 2 @ $9\,919$
+Proposition 3 @ $9\,909$
+Proposition 4 @ $9\,989$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit $22\times18$ est égal à …
+Proposition 1 @ $396$
+Proposition 2 @ $406$
+Proposition 3 @ $386$
+Proposition 4 @ $416$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ En multipliant le nombre $102$ par le nombre $98$, on obtient …
+Proposition 1 @ $9\,996$
+Proposition 2 @ $9\,986$
+Proposition 3 @ $10\,016$
+Proposition 4 @ $9\,606$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le produit $61\times59$ est égal à …
+Proposition 1 @ $3\,599$
+Proposition 2 @ $2\,499$
+Proposition 3 @ $3\,699$
+Proposition 4 @ $3\,601$
+Reponse 5 @ 1
+
+Image 5 @

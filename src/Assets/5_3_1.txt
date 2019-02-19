@@ -1,0 +1,47 @@
+Thème @ Racines carrées
+Sous-Thème @ Règles de calcul (2)
+Série @ Série 1
+Consigne 1 @ $\sqrt{12}$ est égal à …
+Proposition 1 @ $2\sqrt3$
+Proposition 2 @ $3\sqrt2$
+Proposition 3 @ $2\sqrt6$
+Proposition 4 @ $6\sqrt2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $3\sqrt5$ est égal à …
+Proposition 1 @ $\sqrt{45}$
+Proposition 2 @ $\sqrt{75}$
+Proposition 3 @ $7,5$
+Proposition 4 @ $\sqrt{30}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ 𝑥$(5\sqrt2)^2$ est égal à …
+Proposition 1 @ $50$
+Proposition 2 @ $10$
+Proposition 3 @ $100$
+Proposition 4 @ $10\sqrt2$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $\textrm{A}=10\sqrt2$, $\textrm{B}=2\sqrt{10}$, $\textrm{C}=3\sqrt{10}$ et $\textrm{D}=10\sqrt3$. Alors …
+Proposition 1 @ $\textrm{D}>\textrm{A}>\textrm{C}>\textrm{B}$
+Proposition 2 @ $\textrm{C}>\textrm{B}>\textrm{D}>\textrm{A}$
+Proposition 3 @ $\textrm{D}>\textrm{C}>\textrm{A}>\textrm{B}$
+Proposition 4 @ $\textrm{C}>\textrm{D}>\textrm{B}>\textrm{A}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{V}$ est le volume de ce cube. Alors …
+Proposition 1 @ $\textrm{V}=40\sqrt5$
+Proposition 2 @ $\textrm{V}=20$
+Proposition 3 @ $\textrm{V}=8\sqrt5$
+Proposition 4 @ $\textrm{V}=40$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

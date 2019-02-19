@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Multiplication - division
+Série @ Série 2
+Consigne 1 @ $(-5)\times2\times(-10)\times3$ est égal à …
+Proposition 1 @ $300$
+Proposition 2 @ $-300$
+Proposition 3 @ $30$
+Proposition 4 @ $-30$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Lou : « $(-4)\times(-8)\times(-3)\times(-1)$ est négatif ». Evan : « $(-2)\times(-6)\times(-5)$ est positif ». Alors …
+Proposition 1 @ Lou et Evan se trompent
+Proposition 2 @ Lou a raison, Evan se trompe
+Proposition 3 @ Lou et Evan ont raison
+Proposition 4 @ Lou se trompe, Evan a raison
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit des nombres $-5\ ;\,50\ ;\,-20\ \textrm{et} -2$ est aussi égal à …
+Proposition 1 @ $-5\times50\times20\times2$
+Proposition 2 @ $-1\,000$
+Proposition 3 @ $(-100)\times(-100)$
+Proposition 4 @ $100\times100$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L'affirmation correcte est …
+Proposition 1 @ $(-3)\times(-14)=7\times6$
+Proposition 2 @ $(-5)\times6=3\times10$
+Proposition 3 @ $5\times(-12)=(-6)\times(-10)$
+Proposition 4 @ $(-1)\times(-1)\times(-1)\times(-1)=-1$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La seule égalité qui est fausse est …
+Proposition 1 @ $8\times2\times4=(-2)\times(-16)\times(-2)$
+Proposition 2 @ $(-5)\times(-7)=(-1)\times35\times(-1)$
+Proposition 3 @ $(-6)\times(-6)=3\times(-4)\times(-3)$
+Proposition 4 @ $4\times(-8)=(-2)\times(-16)\times(-1)$
+Reponse 5 @ 1
+
+Image 5 @
