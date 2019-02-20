@@ -68,8 +68,6 @@ const HeaderStyle = styled.div `
         }
     }
 
-    
-
    #module-maths-header-container {
     margin: 0 auto;
     width: 100%;
@@ -96,7 +94,6 @@ const HeaderStyle = styled.div `
         margin : auto;
     }
 }
-
 
 
 }
