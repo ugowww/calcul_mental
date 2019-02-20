@@ -79,7 +79,7 @@ class index extends Component {
       >
          {(this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ? 
         isMobileOnly ?    <Menu.Item key="retry"><Icon key="retry"  type="undo" style={{marginRight:0}}/></Menu.Item> :
-        <Menu.Item key="retry" style={{marginRight:0,borderRight: '2px solid #4257b2',}}>Recommencer la série</Menu.Item> 
+        <Menu.Item key="retry" style={{marginRight:0,borderRight: '2px solid #4257b2'}}>Recommencer la série</Menu.Item> 
         : null}
    
         {isShowHome ?   <Menu.Item key="home">

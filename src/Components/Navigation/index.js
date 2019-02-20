@@ -33,22 +33,22 @@ class index extends Component {
            { this.props.level===4 ? null :
             !this.props.mode ? 
            <div className="module-maths-next">
-           <Button  type="primary"onClick={(e)=> this._onNext(e)} disabled={this.props.try<2 || !this.props.select} shape="circle" icon="right" />
+           <Button className="btnnext" type="primary"onClick={(e)=> this._onNext(e)} disabled={this.props.try<2 || !this.props.select} shape="circle" icon="right" />
            </div> :
            <div className="module-maths-next">
-           <Button type="primary" onClick={(e)=> this._onNext(e)}  shape="circle" icon="right" />
+           <Button className="btnnext" type="primary" onClick={(e)=> this._onNext(e)}  shape="circle" icon="right" />
            </div>
            } 
            
           {(this.props.try===2 && this.props.level===4) || this.props.mode ? <div className="module-maths-validate"></div> :
            <div className="module-maths-validate">
-           <Button className="btnvalider" type="primary"  size={"small"} onClick={(e) => this._onClick(e)} disabled={this.props.try===2|| !this.props.select }>VALIDER</Button>
+           <Button type="primary"  size={"small"} onClick={(e) => this._onClick(e)} disabled={this.props.try===2|| !this.props.select }>VALIDER</Button>
            </div>
             }
 
             { (this.props.try===2 && this.props.level===4) || (this.props.mode && this.props.level>0)  ?  
             <div className="module-maths-prev">
-            <Button type="primary" onClick={(e)=> this._onPrev()}  shape="circle" icon="left" /> 
+            <Button className="btnprev" type="primary" onClick={(e)=> this._onPrev()}  shape="circle" icon="left" /> 
            </div> : null
           }
            </NavigationStyle>

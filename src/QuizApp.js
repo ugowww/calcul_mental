@@ -7,9 +7,8 @@ import Loader from './Components/Loader';
 import { Layout } from 'antd';
 import { connect } from 'react-redux';
 import House from './Components/Home/index'
-import {MobileOnlyView,isBrowser,isTablet} from "react-device-detect";
-import logo from './Assets/nathan155.jpg';
 import hyperbole from './Assets/hyperbole_logo.jpg';
+import {MobileOnlyView,isBrowser,isTablet} from "react-device-detect";
 
 const {Sider,Content} = Layout;
 const styles = {
@@ -36,6 +35,7 @@ class QuizApp extends Component {
   render() {
    
     return (
+      
         <div>
         
       <Loader isLoading={this.props.isLoading}></Loader>
@@ -49,15 +49,15 @@ class QuizApp extends Component {
         <MenuApp id={''}></MenuApp>
          </Sider>
          <Content style={{width:'100vw'}}>
+         
          <Header title={this.props.title} soustheme={this.props.soustheme} theme={this.props.theme} serie={this.props.serie}></Header>
          {!this.props.isBegin ?
       <Quiz level={this.props.level} exercice={this.props.exercice}></Quiz>
-         :  (isTablet || isBrowser) ? <House section={"numerique"}></House> : <div> <div style={styles}>
+         :  (isTablet || isBrowser) ? <House section={"numerique"}></House> :  <div style={styles}>
            <p>Sélectionnez votre série à partir du menu.</p>
          </div>
-         <div><img className="Logomobile" src={logo} alt="Logo"></img></div>
-        <div><img className="hyperbole" src={hyperbole} alt="hyperbole"></img></div></div>
          }
+
         </Content></div>
          
     )
@@ -65,9 +65,10 @@ class QuizApp extends Component {
 }
 
 const mapStateToProps = state => {
-  
+ 
      if(state.appReducer)
      {return {
+       
         title:  state.appReducer.TITLE,
         theme:  state.appReducer.THEME,
         soustheme:  state.appReducer.SOUSTHEME,
@@ -79,7 +80,7 @@ const mapStateToProps = state => {
        
     }} else return {}
   }
-  
   export default connect(
     mapStateToProps
   )(QuizApp)
+  
