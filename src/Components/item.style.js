@@ -6,6 +6,7 @@ max-height: 65px;
 
 
 .quiz-answer {
+    cursor:pointer;
     position: relative;
     display: flex;
     flex-flow: row nowrap;
@@ -18,6 +19,7 @@ max-height: 65px;
     background: linear-gradient(#fafafc, white);
     box-shadow: 0px 2px 2px 1px rgba(0, 10, 20, 0.07);
     max-height: 65px;
+
     
     &.validate .feedback {
     visibility: visible;

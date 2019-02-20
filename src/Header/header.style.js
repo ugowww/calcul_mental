@@ -42,6 +42,8 @@ const HeaderStyle = styled.div `
         }
     }
 
+    
+
    #module-maths-header-container {
     margin: 0 auto;
     width: 100%;

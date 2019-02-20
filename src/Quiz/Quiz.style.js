@@ -40,7 +40,7 @@ const QuizStyle = styled.div `
 
     .module-maths-maths-image.mobile {
         width: 100%;
-        height: 100px;
+        height: 20px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -50,12 +50,12 @@ const QuizStyle = styled.div `
 
     .module-maths-maths-image{
         width: 100%;
-        height: 220px;
+        height: 200px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
         max-width: 500px;
-       margin: 0 auto;
+        margin: 0 auto;
     
 
     &.no-image {

@@ -79,7 +79,7 @@ const DataMenu = [{
         option: "3",
         soustheme: [{
                 option: "3_1",
-                title: 'Repérage, comparaison',
+                title: 'Nombres décimaux',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
@@ -107,7 +107,7 @@ const DataMenu = [{
         color : "#d74726",
         soustheme: [{
                 option: "4_1",
-                title: 'Comparaison, fractions irréductibles',
+                title: 'Nombres ratonnels',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
@@ -257,7 +257,7 @@ const DataMenu = [{
         color : "#147cc4",
         soustheme: [{
                 option: "9_1",
-                title: 'Solution d’une équation',
+                title: 'Test : solution ou non d’une équation',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
@@ -379,7 +379,7 @@ const DataMenu = [{
             },
             {
                 option: "12_7",
-                title: 'Cercles',
+                title: 'Cercles et triangles',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
@@ -438,12 +438,12 @@ const DataMenu = [{
             },
             {
                 option: "14_2",
-                title: 'Équations d’une droite',
+                title: 'Équation cartésienne, équation réduite',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
                 option: "14_3",
-                title: 'Équation cartésienne, équation réduite',
+                title: 'Équations d’une droite',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
             {
@@ -491,11 +491,6 @@ const DataMenu = [{
             {
                 option: "15_6",
                 title: 'Fonction racine carrée',
-                serie: ["Série 1", "Série 2", "Série 3"]
-            },
-            {
-                option: "15_7",
-                title: 'Sens de variations des fonctions de référence ',
                 serie: ["Série 1", "Série 2", "Série 3"]
             }
         ]
@@ -552,6 +547,11 @@ const DataMenu = [{
                 title: 'Sens de variations d’une fonction affine',
                 serie: ["Série 1", "Série 2", "Série 3"]
             },
+            {
+                option: "17_5",
+                title: 'Sens de variations des fonctions de référence ',
+                serie: ["Série 1", "Série 2", "Série 3"]
+            }
         ]
     },
     {
@@ -583,7 +583,7 @@ const DataMenu = [{
     },
     {
         section : 2,
-        theme: 'Statistique descriptive',
+        theme: 'Statistiques descriptives',
         option: "19",
         color : "#7027a5",
         soustheme: [{

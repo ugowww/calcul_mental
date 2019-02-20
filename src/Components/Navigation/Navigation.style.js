@@ -9,11 +9,6 @@ const NavigationStyle = styled.div `
     left: 11px;
     color: black;
     cursor: pointer;
- 
-    .btnprev{
-        width:50px;
-        height:50px
-    }
     
     .back-link {
     position: absolute;
@@ -23,7 +18,9 @@ const NavigationStyle = styled.div `
     top : -28px;
     left : 28px;
     width: 56px;
-    height: 56px;     
+    height: 56px;
+    
+   
 
    .arrow-next {
     position: relative;
@@ -50,6 +47,12 @@ const NavigationStyle = styled.div `
     right : 0;
 }
 
+.btnvalider {
+    margin-top : 30px;
+    height : 40px;
+    width : 100px;
+    line-height : 40px;
+}
 
 .module-maths-next {
     position: absolute;
@@ -58,9 +61,9 @@ const NavigationStyle = styled.div `
     color: black;
     cursor: pointer;
     z-index : 99;
-    width:50px;
-    height:50px;
+
     
+
     .back-link {
     position: absolute;
     bottom: 0px;
@@ -86,11 +89,6 @@ const NavigationStyle = styled.div `
     height: 56px;
     
 }
-}
-.btnnext
-{
-    width:50px;
-    height:50px;
 }
 
 .back-link.over {
