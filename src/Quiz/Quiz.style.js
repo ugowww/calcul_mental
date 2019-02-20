@@ -35,7 +35,7 @@ const QuizStyle = styled.div `
 
     .module-maths-maths-consigne {
     margin-top: 5px;
-    padding-left:${props => props.paddingLeft};
+    margin-left:${props => props.paddingLeft};
     }
 
     .module-maths-maths-image.mobile {

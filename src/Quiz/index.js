@@ -149,7 +149,7 @@ class index extends Component {
   }
 
   render() {
-    const {paddingLeft} = (this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ?    { paddingLeft: '0px'} : isMobileOnly ? { paddingLeft: '40px'}:{ paddingLeft: '50px'}
+    const {paddingLeft} = (this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ?    { paddingLeft: '15px'} : isMobileOnly ? { paddingLeft: '40px'}:{ paddingLeft: '50px'}
     const {windowHeight} = isMobileOnly ? {windowHeight:window.innerHeight-50} :{windowHeight:600}
     const {windowMinHeight} = isMobileOnly ? {windowMinHeight:window.innerHeight-100} :{windowMinHeight:600}
    
@@ -187,7 +187,7 @@ class index extends Component {
       }}
         }>
       
-      <div  className="module-maths-maths-consigne">{ this.props.exercice && this.props.exercice[this.props.LEVEL].consigne? this.renderFormula(this.props.exercice[level].consigne,0,null,null): null}</div>
+      <div className="module-maths-maths-consigne">{ this.props.exercice && this.props.exercice[this.props.LEVEL].consigne? this.renderFormula(this.props.exercice[level].consigne,0,null,null): null}</div>
     
       {isMobileOnly  && this.props.exercice && this.props.exercice[this.props.LEVEL].image ? <div onClick={this.showModal} className="module-maths-maths-image no-image mobile" style={{backgroundImage: 'none'}} ref={imageLoadedElem => this.ironImageHd = imageLoadedElem}>{this.renderImage()}</div> : <div className="module-maths-maths-image no-image" style={{backgroundImage: 'none'}} ref={imageLoadedElem => this.ironImageHd = imageLoadedElem}>{this.renderImage()}</div>}
       {this.renderItem(level)}

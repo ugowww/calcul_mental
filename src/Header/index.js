@@ -71,10 +71,8 @@ class index extends Component {
            
       }}
         }>
-                <p className="module-maths-serie">{this.renderTest(soustheme)} {serie}</p>  
-            </MathJax.Provider></div>
-                <p className="module-maths-serie">{this.renderTest(soustheme)}<span className="demo-divider"> | </span>{serie}</p>  
-            </MathJax.Provider>{ isBrowser && !isShowHome && isBegin ? <span className="logoheadercontainer"><img className="logoheader" alt="logoheader" src={Logo}></img></span> : null }</div>
+                <p className="module-maths-serie">{this.renderTest(soustheme)}<span className="demo-divider"> </span>{serie}</p>  
+            </MathJax.Provider> { isBrowser && !isShowHome && isBegin ? <span className="logoheadercontainer"><img className="logoheader" alt="logoheader" src={Logo}></img></span> : null }</div>
             <div id="module-maths-header-menu-container">
           <Menu
         style ={{lineHeight:lineHeight}}

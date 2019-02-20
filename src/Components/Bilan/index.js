@@ -33,9 +33,9 @@ class index extends Component {
                 <div id="container-bilan">
                 <img alt="" src={flag} />
                 {this.state.score ===0 ?
-                    <div className="message-bilan">Vous n'avez réussi aucune question</div>
-                    :  this.state.score ===1 ? <div className="message-bilan">Vous avez réussi 1 question sur <span>{this.props.MODE ? 5 : Number(this.props.LEVEL)+1}</span></div> :
-                    <div className="message-bilan">Vous avez réussi <span>{this.state.score}</span> questions sur <span>{this.props.MODE ? 5 : Number(this.props.LEVEL)+1}</span></div>
+                    <div className="message-bilan">Bilan<br></br> Vous n'avez réussi aucune question</div>
+                    :  this.state.score ===1 ? <div className="message-bilan">Bilan<br></br>Vous avez réussi 1 question sur <span>{this.props.MODE ? 5 : Number(this.props.LEVEL)+1}</span></div> :
+                    <div className="message-bilan">Bilan<br></br> Vous avez réussi <span>{this.state.score}</span> questions sur <span>{this.props.MODE ? 5 : Number(this.props.LEVEL)+1}</span></div>
                     }
                 </div>
                 
