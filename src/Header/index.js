@@ -4,7 +4,8 @@ import {Menu,Icon} from 'antd';
 import MathJax  from 'react-mathjax'
 import {connect} from 'react-redux';
 import {GotoHome,Retry} from '../actions';
-import {isMobileOnly,isTablet} from "react-device-detect";
+import {isMobileOnly,isTablet,isBrowser} from "react-device-detect";
+import Logo from '../Assets/nathan155.jpg';
 
 class index extends Component {
 
@@ -47,13 +48,15 @@ class index extends Component {
     const {lineHeight} = isMobileOnly ? {lineHeight: "38px"} : {lineHeight: "58px"}
     const {headerRight} =  isMobileOnly ? {headerRight: "0px"} : {headerRight: "10px"}
     const {title,theme,serie,soustheme,isBegin,isShowHome} = this.props
+    
    
     return (
 
         <HeaderStyle headerRight={headerRight} headerHeight={headerHeight} textSizeTheme={textSizeTheme} textSizeSerie={textSizeSerie}>
         <div id="module-maths-header">
             <div onClick={(e)=> this.props.gotoHome()} className="module-maths-logo-container">
-                <div className="module-maths-title">{title}</div>
+            { isBrowser ? <div><div className="hyperboleheader">Hyperbole</div> 
+                <div className="module-maths-title">{title}</div></div> : null }
             </div>
             <div id="module-maths-header-container">
                 <p className="module-maths-theme">{theme}</p>
@@ -69,7 +72,7 @@ class index extends Component {
       }}
         }>
                 <p className="module-maths-serie">{this.renderTest(soustheme)}<span className="demo-divider"> | </span>{serie}</p>  
-            </MathJax.Provider></div>
+            </MathJax.Provider>{ isBrowser && !isShowHome && isBegin ? <span className="logoheadercontainer"><img className="logoheader" alt="logoheader" src={Logo}></img></span> : null }</div>
             <div id="module-maths-header-menu-container">
           <Menu
         style ={{lineHeight:lineHeight}}

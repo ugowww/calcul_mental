@@ -13,11 +13,36 @@ const HeaderStyle = styled.div `
     box-shadow: 0px 5px 8px rgba(0, 10, 20, 0.06);
 
 
+    .hyperboleheader{
+        display: inline-block;
+        font-size: 25px;
+        padding-top: 17px;
+        padding-bottom:17px;
+        padding-left: 20px;
+        position :absolute;
+        color : #ffffff;
+        margin-left : 0px;
+    }
+
+    .logoheader{
+        width: 100px;
+    }
+
+    .logoheadercontainer{
+        width : 110px;
+        right : 10px;
+        position : absolute;
+        z-index: 1000;
+        top : 14px; 
+    }
+
     .module-maths-logo-container{
         z-index : 999;
         cursor : pointer;
         position: absolute;
-         width: 190px;
+         width:400px;
+         display : flex;
+         justify-content : space-between;
     }
 
 
@@ -29,6 +54,7 @@ const HeaderStyle = styled.div `
         padding-left: 20px;
         position :absolute;
         color : #ffffff;
+        margin-left : 130px;
     }
 
     #module-maths-header-menu-container {
@@ -62,10 +88,12 @@ const HeaderStyle = styled.div `
     font-weight: 700;
     font-size: ${props => props.textSizeTheme};
     color: #3ccfcf;
+    margin : auto;
 }
 
     .module-maths-serie {
         font-size: ${props => props.textSizeSerie};
+        margin : auto;
     }
 }
 
