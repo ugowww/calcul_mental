@@ -4,7 +4,7 @@ import {Menu,Icon} from 'antd';
 import MathJax  from 'react-mathjax'
 import {connect} from 'react-redux';
 import {GotoHome,Retry} from '../actions';
-import {isMobileOnly,isTablet} from "react-device-detect";
+import {isMobileOnly,isTablet,isBrowser} from "react-device-detect";
 
 class index extends Component {
 
@@ -68,7 +68,7 @@ class index extends Component {
            
       }}
         }>
-                <p className="module-maths-serie">{this.renderTest(soustheme)}<span className="demo-divider"> | </span>{serie}</p>  
+                <p className="module-maths-serie">{this.renderTest(soustheme)} {serie}</p>  
             </MathJax.Provider></div>
             <div id="module-maths-header-menu-container">
           <Menu
@@ -79,7 +79,7 @@ class index extends Component {
       >
          {(this.props.TRY===2 && this.props.LEVEL===4) || this.props.MODE ? 
         isMobileOnly ?    <Menu.Item key="retry"><Icon key="retry"  type="undo" style={{marginRight:0}}/></Menu.Item> :
-        <Menu.Item key="retry" style={{marginRight:0,borderRight: '2px solid #4257b2',}}>Recommencer la série</Menu.Item> 
+        <Menu.Item key="retry" style={{marginRight:0,borderRight: '2px solid #4257b2'}}>Recommencer la série</Menu.Item> 
         : null}
    
         {isShowHome ?   <Menu.Item key="home">
