@@ -1,0 +1,47 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Nombres décimaux
+Série @ Série 2
+Consigne 1 @ Sur cette droite numérique …
+Proposition 1 @ l’abscisse de $\textrm{A}$ est $5+\frac{8}{10}+\frac{9}{100}$
+Proposition 2 @ l’abscisse de $\textrm{A}$ est $5,8$
+Proposition 3 @ l’abscisse de $\textrm{C}$ est $6,1$
+Proposition 4 @ l’abscisse de $\textrm{B}$ est $5+\frac{6}{10}$
+Reponse 1 @ 1
+
+Image 1 @ image1.png
+
+Consigne 2 @ On place $\textrm{A}(-3,2)$ et $\textrm{B}(4,6)$ sur une droite numérique. L’abscisse du milieu du segment $\textrm{[AB]}$ est …
+Proposition 1 @ $0,7$
+Proposition 2 @ $3,9$
+Proposition 3 @ $-3,9$
+Proposition 4 @ $-0,7$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’abscisse du point $\textrm{B}$ est …
+Proposition 1 @ $-1,9$
+Proposition 2 @ $-2$
+Proposition 3 @ $-1,6$
+Proposition 4 @ $-1,4$
+Reponse 3 @ 1
+
+Image 3 @ image3.png
+
+Consigne 4 @ Sur une droite numérique, le symétrique de $\textrm{A}(-0,9)$ par rapport à $\textrm{B}(1)$ a pour abscisse …
+Proposition 1 @ $2,9$
+Proposition 2 @ $3$
+Proposition 3 @ $2,8$
+Proposition 4 @ $3,1$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Sur la figure, $\textrm{AD}=5,2$ et $\textrm{BD}=3,6$. L’affirmation vraie est …
+Proposition 1 @ l’abscisse de $\textrm{A}$ est $-2,8$
+Proposition 2 @ l’abscisse de $\textrm{A}$ est $-2,4$
+Proposition 3 @ l’abscisse de $\textrm{B}$ est $0$
+Proposition 4 @ l’abscisse de $\textrm{B}$ est $-2,4$
+Reponse 5 @ 1
+
+Image 5 @ image5.png

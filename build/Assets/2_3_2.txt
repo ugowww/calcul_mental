@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Puissance d’un nombre (exposant entier relatif)
+Série @ Série 2
+Consigne 1 @ $10^{-5}$ est égal à …
+Proposition 1 @ $0,000\,01$
+Proposition 2 @ l'opposé de $10^5$
+Proposition 3 @ l'inverse de $10\times5$
+Proposition 4 @ l'opposé de $\frac{1}{10^5}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L'inverse de $(-5)^{-3}$ s'écrit …
+Proposition 1 @ $(-5)^3$
+Proposition 2 @ $5^3$
+Proposition 3 @ $5^{-3}$
+Proposition 4 @ $-5^{-3}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Affirmation 1 : $\frac{14^8}{14^{10}}=14^{-2}$ ; Affirmation 2 : $\frac{2^7}{2^{-3}}=2^{10}$ ; Affirmation 3 : $\frac{5^{-8}}{5^4}=5^{-12}$
+Proposition 1 @ tout est vrai
+Proposition 2 @ l'affirmation 1 est fausse
+Proposition 3 @ l'affirmation 2 est fausse
+Proposition 4 @ l'affirmation 3 est fausse
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Lila : « $(-5)^{-2}$ est positif ». Max : « $7^{-5}$ est négatif ». Alors …
+Proposition 1 @ Lila a raison et Max se trompe
+Proposition 2 @ Lila se trompe et Max a raison
+Proposition 3 @ Lila et Max se trompent
+Proposition 4 @ Lila et Max ont raison
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L'affirmation correcte est …
+Proposition 1 @ $\frac{1}{2^{10}}=2^{-10}$
+Proposition 2 @ $10^{-6}=0,000\,000\,1$
+Proposition 3 @ $3^{-2}=-9$
+Proposition 4 @ $2^{-3}=\frac{1}{(-8)}$
+Reponse 5 @ 1
+
+Image 5 @

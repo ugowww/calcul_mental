@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Multiplication - division
+Série @ Série 3
+Consigne 1 @ $-12$ divisé par $-6$ est égal à …
+Proposition 1 @ $12$ divisé par $6$
+Proposition 2 @ $-2$
+Proposition 3 @ $12$ divisé par $-6$
+Proposition 4 @ $-12$ divisé par $6$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Zoé : « $(-248)\div4$ est négatif ». Nino : « $(-133)\div(-4)$ est positif ». Alors …
+Proposition 1 @ Zoé et Nino ont raison
+Proposition 2 @ Zoé et Nino se trompent
+Proposition 3 @ Zoé a raison, Nino se trompe
+Proposition 4 @ Nino a raison, Zoé se trompe
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $(6+(-4))\div2$ est égal à …
+Proposition 1 @ $1$
+Proposition 2 @ $6+(-4)\div2$
+Proposition 3 @ $6\div2+(-4)$
+Proposition 4 @ $6+(-2)$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ La demi-somme de $(-10)$ et de $(-16)$ est égale à …
+Proposition 1 @ $-13$
+Proposition 2 @ $-26$
+Proposition 3 @ $13$
+Proposition 4 @ $-18$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L'égalité vraie est …
+Proposition 1 @ $(-24)\div(-4)=(-60)\div(-10)$
+Proposition 2 @ $(-15)\div3=50\div10$
+Proposition 3 @ $(-64)\div(-1)=8\times(-8)$
+Proposition 4 @ $(-28)\div7=(-4)\div(-1)$
+Reponse 5 @ 1
+
+Image 5 @

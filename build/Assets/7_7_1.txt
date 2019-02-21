@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Suppression de parenthèses et réduction
+Série @ Série 1
+Consigne 1 @ $\textrm{A}=3x+4+(6+2x)$. L’expression réduite de $\textrm{A}$ est …
+Proposition 1 @ $\textrm{A}=5x+10$
+Proposition 2 @ $\textrm{A}=11x+4$
+Proposition 3 @ $\textrm{A}=11x+24$
+Proposition 4 @ $\textrm{A}=15x$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=-7x+2+(5x-2)$. En ôtant les parenthèses et en réduisant, on obtient …
+Proposition 1 @ $\textrm{B}=-2x$
+Proposition 2 @ $\textrm{B}=-2$
+Proposition 3 @ $\textrm{B}=-2x+4$
+Proposition 4 @ $\textrm{B}=-12x$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{C}=-(3x+11)$. L’écriture de $\textrm{C}$ sans parenthèses est …
+Proposition 1 @ $\textrm{C}=-3x-11$
+Proposition 2 @ $\textrm{C}=-3x+11$
+Proposition 3 @ $\textrm{C}=-14x$
+Proposition 4 @ $\textrm{C}=8x$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $\textrm{D}=7-(x+5)$. La forme réduite de $\textrm{D}$ est …
+Proposition 1 @ $\textrm{D}=-x+2$
+Proposition 2 @ $\textrm{D}=x+2$
+Proposition 3 @ $\textrm{D}=-x+12$
+Proposition 4 @ $\textrm{D}=7x+35$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité vraie pour tout nombre réel $x$ est …
+Proposition 1 @ $4x+8-(6-2x)=6x+2$
+Proposition 2 @ $4x+8-(6-2x)=2x+2$
+Proposition 3 @ $4x+8-(6-2x)=8$
+Proposition 4 @ $4x+8-(6-2x)=-12x-48$
+Reponse 5 @ 1
+
+Image 5 @

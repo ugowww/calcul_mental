@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Ordre de grandeur
+Série @ Série 3
+Consigne 1 @ $a=105\times10^6$ ; $b=2 250\times10^5$ et $c=1,5\times10^8$. Les nombres $a$, $b$ et $c$ vérifient …
+Proposition 1 @ $a < c < b$
+Proposition 2 @ $b < c < a$
+Proposition 3 @ $c < a < b$
+Proposition 4 @ $c < b < a$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le plus petit des nombres est …
+Proposition 1 @ $1,428\times10^7$
+Proposition 2 @ $1 428\times10^5$
+Proposition 3 @ $142,8\times10^6$
+Proposition 4 @ $0,142 8\times10^{10}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La planète la plus lourde est …
+Proposition 1 @ Terre : $5 973\times10^{21} \textrm{kg}$
+Proposition 2 @ Mercure : $33,02\times10^{22} \textrm{kg}$
+Proposition 3 @ Vénus : $48 685\times10^{20} \textrm{kg}$
+Proposition 4 @ Mars : $6,418 5\times10^{23} \textrm{kg}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ L’atome qui a le rayon le plus petit est …
+Proposition 1 @ Aluminium : $1,18\times10^{-10} \textrm{m}$
+Proposition 2 @ Fer : $0,156 \textrm{nm}$
+Proposition 3 @ Lithium : $1,67\times10^{-10} \textrm{m}$
+Proposition 4 @ Barium : $253 \textrm{pm}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Une particule de fumée de tabac a pour dimension $0,27 \mu\textrm{m}$. L’objet qui a une taille inférieure est …
+Proposition 1 @ Virus : $1 750\times10^{−10} \textrm{m}$
+Proposition 2 @ Acarien : $0,012 5 \textrm{mm}$
+Proposition 3 @ Bactérie du tétanos : $4 \mu\textrm{m}$
+Proposition 4 @ Grain de sable : $0,000 232 \textrm{m}$
+Reponse 5 @ 1
+
+Image 5 @

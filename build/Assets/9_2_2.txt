@@ -1,0 +1,48 @@
+﻿Thème @ Équations
+Sous-Thème @ Résolution d’une équation à une inconnue (1)
+Série @ Série 2
+Consigne 1 @ L’équation $3x+2=8x−9$ est équivalente à …
+Proposition 1 @ $5x=11$
+Proposition 2 @ $5x=-11$
+Proposition 3 @ $-5x=11$
+Proposition 4 @ $11x=11$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La solution de l’équation $-3x-4=2x+6$ est …
+Proposition 1 @ $-2$
+Proposition 2 @ $2$
+Proposition 3 @ $10$
+Proposition 4 @ $-10$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La solution de l’équation $-4x-5=2x-3$ est …
+Proposition 1 @ $-\frac{1}{3}$
+Proposition 2 @ $\frac{1}{3}$
+Proposition 3 @ $\frac{1}{4}$
+Proposition 4 @ $-\frac{1}{4}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ L’ensemble des solutions de l’équation $4x+3−2x=2x+1$ est …
+Proposition 1 @ Il n’y a pas de solution : $\varnothing$
+Proposition 2 @ $\left\{-2\right\}$
+Proposition 3 @ $\left\{0\right\}$
+Proposition 4 @ $\left\{2\right\}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’équation $4x-1=6x-4$ admet le même ensemble des solutions que l’équation …
+Proposition 1 @ $-2x-5=8x+10$
+Proposition 2 @ $-8x-5=12x-8$
+Proposition 3 @ $-2x-5=0$
+Proposition 4 @ $5=2x$
+Reponse 5 @ 1
+
+Image 5 @

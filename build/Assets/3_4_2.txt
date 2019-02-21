@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Ordre de grandeur
+Série @ Série 2
+Consigne 1 @ $A=0,000 186$. Un encadrement du nombre entier $A$ par deux puissances de $10$ est …
+Proposition 1 @ $10^{-4} < A < 10^{-3}$
+Proposition 2 @ $10^{-5} < A < 10^{-4}$
+Proposition 3 @ $10^{-7} < A < 10^{-6}$
+Proposition 4 @ $10^{-6} < A < 10^{-5}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le diamètre $D$ d’une bactérie est environ $3 \mu\textrm{m}$. Alors, en mètre, …
+Proposition 1 @ $10^{-6} < D < 10^{-5}$
+Proposition 2 @ $10^{-7} < D < 10^{-6}$
+Proposition 3 @ $10^{-10} < D < 10^{-9}$
+Proposition 4 @ $10^{-11} < D < 10^{-10}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La masse $M$ d’un atome d’oxygène vaut $2 656 864\times10^{−20} \textrm{kg}$. Alors, en kilogramme, …
+Proposition 1 @ $10^{-14} < M < 10^{-13}$
+Proposition 2 @ $10^{-20} < M < 10^{-19}$
+Proposition 3 @ $10^{-23} < M < 10^{-22}$
+Proposition 4 @ $10^{-26} < M < 10^{-25}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ La longueur $L$ d’un acarien est $0,65 \textrm{mm}$. Un ordre de grandeur de $L$ est …
+Proposition 1 @ $10^{-3} \textrm{m}$
+Proposition 2 @ $10^{-4} \textrm{m}$
+Proposition 3 @ $10^{-1} \textrm{m}$
+Proposition 4 @ $10^{-2} \textrm{m}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le rayon $R$ d’un atome est $1,5$ femtomètre ($1 \textrm{fm}=10^{−15} \textrm{m}$). Un ordre de grandeur de $R$ est …
+Proposition 1 @ $10^{-15} \textrm{m}$
+Proposition 2 @ $10^{-14} \textrm{m}$
+Proposition 3 @ $10^{-13} \textrm{m}$
+Proposition 4 @ $10^{-16} \textrm{m}$
+Reponse 5 @ 1
+
+Image 5 @

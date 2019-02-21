@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Factorisation
+Série @ Série 3
+Consigne 1 @ Pour tout nombre réel $x$, l’expression $121x^2+220x+100$ est égale à …
+Proposition 1 @ $(11x+10)^2$
+Proposition 2 @ $(11x+10)(11x-10)$
+Proposition 3 @ $(12x+10)^2$
+Proposition 4 @ $(11x-10)^2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=0,04x^2-0,4x+1$. L’expression factorisée de $\textrm{A}$ est …
+Proposition 1 @ $(0,2x-1)^2$
+Proposition 2 @ $(0,2x+1)(0,2x-1)$
+Proposition 3 @ $(0,02x-0,5)^2$
+Proposition 4 @ $(0,02x-1)^2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Pour tout nombre réel $x$, $144-16x^2$ est égal à …
+Proposition 1 @ $(12-4x)(12+4x)$
+Proposition 2 @ $(4x+12)(4x-12)$
+Proposition 3 @ $(12-8x)(12+8x)$
+Proposition 4 @ $(12-4x)^2$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour tout nombre réel $x$, l’affirmation vraie est …
+Proposition 1 @ $0,25-7x+49x^2=(0,5-7x)^2$
+Proposition 2 @ $0,25-x^2=(0,5-x)2$
+Proposition 3 @ $0,25+3x+9x^2=(0,5-3x)^2$
+Proposition 4 @ $0,25x^2-x+1=(0,5x+1)^2$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour tout nombre réel $x$, $1-\frac{4}{9}x^2$ est égal à …
+Proposition 1 @ $(1-\frac{2}{3}x)(1+\frac{2}{3}x)$
+Proposition 2 @ $(1+\frac{4}{9}x)(1-\frac{4}{9}x)$
+Proposition 3 @ $(1-\frac{2}{3}x)^2$
+Proposition 4 @ $(1-\frac{4}{9}x)^2$
+Reponse 5 @ 1
+
+Image 5 @

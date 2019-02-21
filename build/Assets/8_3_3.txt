@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (1)
+Série @ Série 3
+Consigne 1 @ Le carré du nombre $42$ est égal à …
+Proposition 1 @ $1\,764$
+Proposition 2 @ $1\,604$
+Proposition 3 @ $1\,684$
+Proposition 4 @ $84$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le produit $199\times201$ est égal à …
+Proposition 1 @ $39\,999$
+Proposition 2 @ $40\,001$
+Proposition 3 @ $39\,979$
+Proposition 4 @ $39\,989$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le nombre $101^2$ est égal à …
+Proposition 1 @ $10\,201$
+Proposition 2 @ $1\,201$
+Proposition 3 @ $202$
+Proposition 4 @ $10\,001$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le produit $10,1\times9,9$ est égal à …
+Proposition 1 @ $99,99$
+Proposition 2 @ $99,89$
+Proposition 3 @ $99,09$
+Proposition 4 @ $90,09$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité correcte est …
+Proposition 1 @ $10,5^2=110,25$
+Proposition 2 @ $5,2^2=25,04$
+Proposition 3 @ $8,5\times9,5=81,25$
+Proposition 4 @ $9,9^2=81,81$
+Reponse 5 @ 1
+
+Image 5 @

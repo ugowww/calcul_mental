@@ -1,0 +1,48 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Relations entre variables
+Série @ Série 1
+
+Consigne 1 @ $a$, $b$ et $c$ sont trois nombres réels tels que $a+b=c$. Alors, on peut écrire …
+Proposition 1 @ $b=c-a$
+Proposition 2 @ $a+c=b$
+Proposition 3 @ $a=\frac{c}{b}$
+Proposition 4 @ $a=c+b$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $x$, $y$ et $c$ sont trois nombres réels tels que $c=x\times y$. L’expression de $y$ en fonction de $x$ est …
+Proposition 1 @ $y=\frac{c}{x}$
+Proposition 2 @ $y=c\times x$
+Proposition 3 @ $y=c-x$
+Proposition 4 @ $x=\frac{y}{c}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Dans un circuit, la tension $\textrm{U}$, l’intensité $\textrm{I}$ et la résistance $\textrm{R}$ sont liées par la formule $\textrm{U}=\textrm{R}\times \textrm{I}$. Alors …
+Proposition 1 @ $\textrm{I}=\frac{\textrm{U}}{\textrm{R}}$
+Proposition 2 @ $\textrm{R}=\textrm{U}-\textrm{I}$
+Proposition 3 @ $\textrm{I}=\textrm{R}\times\textrm{U}$
+Proposition 4 @ $\textrm{I}=\frac{\textrm{R}}{\textrm{U}}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le périmètre $\textrm{P}$ d’un rectangle de longueur $\textrm{L}$ et de largeur $l$ vérifie $\textrm{P}=2(\textrm{L}+1)$. Par conséquent …
+Proposition 1 @ $\textrm{L}=0,5\textrm{P}-1$
+Proposition 2 @ $2\textrm{L}=\textrm{P}-1$
+Proposition 3 @ $\textrm{L}=\textrm{P}-2l$
+Proposition 4 @ $2\textrm{P}=\textrm{L}+l$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Un véhicule parcourt une distance $d$ en un temps $t$. Sa vitesse moyenne est $v=\frac{d}{t}$. On peut écrire …
+Proposition 1 @ $t=\frac{d}{v}$
+Proposition 2 @ $d=\frac{v}{t}$
+Proposition 3 @ $t=d\times v$
+Proposition 4 @ $t=\frac{v}{d}$
+Reponse 5 @ 1
+
+Image 5 @

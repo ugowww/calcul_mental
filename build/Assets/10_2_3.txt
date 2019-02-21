@@ -1,0 +1,48 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Inégalités 2
+Série @ Série 3
+Consigne 1 @ $a$ et $b$ désignent des nombres réels positifs ; $b$ est différent de 0. Si $\frac{a}{b}\leq1$, alors …
+Proposition 1 @ $a$ est inférieur ou égal à $b$
+Proposition 2 @ on ne peut pas comparer $a$ et $b$
+Proposition 3 @ $a$ est supérieur ou égal à $b$
+Proposition 4 @ $a$ est inférieur ou égal à $-b$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $a$ et $b$ désignent des nombres réels positifs ; $b$ est différent de 0. Si $\frac{a}{b}\geq1$, alors …
+Proposition 1 @ $a$ est supérieur ou égal à $b$
+Proposition 2 @ on ne peut pas comparer $a$ et $b$
+Proposition 3 @ $a$ est inférieur ou égal à $b$
+Proposition 4 @ $a$ est supérieur ou égal à $1$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Parmi ces quatre affirmations, une seule est vraie. Il s’agit de …
+Proposition 1 @ $0,7^2$ est inférieur à $0,7$
+Proposition 2 @ $1,5^2$ est inférieur à $1,5$
+Proposition 3 @ $1,01^2$ est inférieur à $1,01$
+Proposition 4 @ $0,25^2$ est supérieur à $0,25$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $x$ désigne un nombre réel supérieur ou égal à $1$.
+Si $a=x^2$ et $b=x$, alors …
+Proposition 1 @ $a$ est supérieur ou égal à $b$
+Proposition 2 @ on ne peut pas comparer $a$ et $b$
+Proposition 3 @ $a$ est inférieur ou égal à $b$
+Proposition 4 @ $a$ est égal à $2b$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Parmi ces quatre affirmations, une seule est vraie. Il s’agit de …
+Proposition 1 @ $\frac{8}{11}$ est supérieur à $\frac{3}{5}$
+Proposition 2 @ $\frac{1}{6}$ est supérieur à $\frac{5}{3}$
+Proposition 3 @ $\frac{14}{3}$ est inférieur à $\frac{23}{5}$
+Proposition 4 @ $\frac{5}{6}$ est supérieur à $\frac{6}{7}$
+Reponse 5 @ 1
+
+Image 5 @

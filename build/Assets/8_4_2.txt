@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (2)
+Série @ Série 2
+Consigne 1 @ Le nombre $(\sqrt{5}+1)(\sqrt{5}-1)$ est égal à …
+Proposition 1 @ $4$
+Proposition 2 @ $24$
+Proposition 3 @ $6-2\sqrt{5}$
+Proposition 4 @ $26-2\sqrt{5}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre $(1-\sqrt{3})(1+\sqrt{3})$ est égal à …
+Proposition 1 @ $-2$
+Proposition 2 @ $4$
+Proposition 3 @ $4-2\sqrt{3}$
+Proposition 4 @ $-2-\sqrt{3}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit du nombre $\sqrt{19}+1$ par le nombre $\sqrt{19}-1$ est égal à …
+Proposition 1 @ $18$
+Proposition 2 @ $20$
+Proposition 3 @ $20-2\sqrt{19}$
+Proposition 4 @ $18+2\sqrt{19}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le produit du nombre $2-\sqrt{5}$ par le nombre $2+\sqrt{5}$ est égal à …
+Proposition 1 @ $-1$
+Proposition 2 @ $1$
+Proposition 3 @ $9-4\sqrt{5}$
+Proposition 4 @ $21$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité correcte est …
+Proposition 1 @ $(3-\sqrt{3})(3+\sqrt{3})=6$
+Proposition 2 @ $(\sqrt{2}+5)(\sqrt{2}-5)=-21$
+Proposition 3 @ $(1-\sqrt{6})(1+\sqrt{6})=5$
+Proposition 4 @ $(\sqrt{2}+2)(\sqrt{2}-2)=2\sqrt{2}$
+Reponse 5 @ 1
+
+Image 5 @

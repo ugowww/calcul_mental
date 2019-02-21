@@ -1,0 +1,48 @@
+﻿Thème @ Nombres décimaux
+Sous-Thème @ Écriture sous la forme $a\times10^n$
+Série @ Série 2
+Consigne 1 @ Un cheveu pousse à la vitesse d’environ $0,016 \textrm{mm}\cdot\textrm{h}^{-1}$, soit, en notation scientifique, …
+Proposition 1 @ $1,6\times10^{-2} \textrm{mm}\cdot\textrm{h}^{-1}$
+Proposition 2 @ $1,6\times10^2 \textrm{mm}\cdot\textrm{h}^{-1}$
+Proposition 3 @ $0,16\times10^{-1} \textrm{mm}\cdot\textrm{h}^{-1}$
+Proposition 4 @ $16\times10^{-3} \textrm{mm}\cdot\textrm{h}^{-1}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La distance qui sépare Mars du Soleil est $227 940 000 \textrm{km}$, c’est-à-dire, en notation scientifique, …
+Proposition 1 @ $2,279 4\times10^8 \textrm{km}$
+Proposition 2 @ $2 279,4\times10^5 \textrm{km}$
+Proposition 3 @ $2,279 4\times10^{-8} \textrm{km}$
+Proposition 4 @ $22 794\times10^4 \textrm{km}$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le diamètre d’un atome d’argent est $0,000 000 000 25 \textrm{m}$, c’est-à-dire, en notation scientifique, …
+Proposition 1 @ $2,5\times10^{-10} \textrm{m}$
+Proposition 2 @ $2,5\times10^{10} \textrm{m}$
+Proposition 3 @ $0,25\times10^{-9} \textrm{m}$
+Proposition 4 @ $25\times10^{-11} \textrm{m}$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ La taille de l’œil d’une mouche est $0,000 012 \textrm{m}$, c’est-à-dire, en notation scientifique, …
+Proposition 1 @ $1,2\times10^{-5} \textrm{m}$
+Proposition 2 @ $1,2\times10^5 \textrm{m}$
+Proposition 3 @ $0,12\times10^{-4} \textrm{m}$
+Proposition 4 @ $12\times10^{-6} \textrm{m}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ La masse de la Lune est environ $73 600 000 000 000 000 000 000 \textrm{kg}$, soit, en notation scientifique, …
+Proposition 1 @ $7,36\times10^{22} \textrm{kg}$
+Proposition 2 @ $7,36\times10^{-22} \textrm{kg}$
+Proposition 3 @ $73,6\times10^{21} \textrm{kg}$
+Proposition 4 @ $736\times10^{20} \textrm{kg}$
+Reponse 5 @ 1
+
+Image 5 @

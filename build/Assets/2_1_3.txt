@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Comparaison, addition - soustraction
+Série @ Série 3
+Consigne 1 @ $(-4)+(-23)-(-15)$ est égal à …
+Proposition 1 @ $-12$
+Proposition 2 @ $12$
+Proposition 3 @ $-39$
+Proposition 4 @ $-2$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=18-(-6)$ et $\textrm{B}=(-10)-(-7)$. Alors $\textrm{A}+\textrm{B}$ est égal à …
+Proposition 1 @ $21$
+Proposition 2 @ $7$
+Proposition 3 @ $-7$
+Proposition 4 @ $-5$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $\textrm{A}=(-12)-14$ et $\textrm{B}=(-20)+15$. Alors $\textrm{A}-\textrm{B}$ est égal à …
+Proposition 1 @ $-21$
+Proposition 2 @ $-61$
+Proposition 3 @ $-31$
+Proposition 4 @ $37$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $7+(-23)-(-11)+4$ est égal à …
+Proposition 1 @ $-1$
+Proposition 2 @ $-23$
+Proposition 3 @ $23$
+Proposition 4 @ $-9$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{A}=23-(-15)+(-14)–7+8$. Une autre écriture de $\textrm{A}$ est …
+Proposition 1 @ $23+15+8–14-7$
+Proposition 2 @ $23–15–14-7+8$
+Proposition 3 @ $23+15+14–7-8$
+Proposition 4 @ $23+15+14–7+8$
+Reponse 5 @ 1
+
+Image 5 @

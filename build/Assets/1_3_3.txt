@@ -1,0 +1,48 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Puissance d’un nombre (exposant entier positif)
+Série @ Série 3
+Consigne 1 @ L’égalité incorrecte est …
+Proposition 1 @ $30^2=600$
+Proposition 2 @ $15^2=225$
+Proposition 3 @ $20^2=400$
+Proposition 4 @ $25^2=625$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $3^4$ est égal à …
+Proposition 1 @ $81$
+Proposition 2 @ $12$
+Proposition 3 @ $27$
+Proposition 4 @ $36$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $3^2+2^3=$ …
+Proposition 1 @ $17$
+Proposition 2 @ $14$
+Proposition 3 @ $15$
+Proposition 4 @ $12$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $3^2×2^3=$ …
+Proposition 1 @ $72$
+Proposition 2 @ $48$
+Proposition 3 @ $36$
+Proposition 4 @ $54$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le nombre manquant dans l’égalité $10^3+10^2+\cdots=1244$ est …
+Proposition 1 @ $12^2$
+Proposition 2 @ $11^2$
+Proposition 3 @ $8^2$
+Proposition 4 @ $13^2$
+Reponse 5 @ 1
+
+Image 5 @

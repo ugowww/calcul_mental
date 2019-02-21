@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Calcul numérique (2)
+Série @ Série 1
+Consigne 1 @ Le nombre $(1+\sqrt{2})^2$ est égal à …
+Proposition 1 @ $3+2\sqrt{2}$
+Proposition 2 @ $3$
+Proposition 3 @ $2+2\sqrt{2}$
+Proposition 4 @ $3+\sqrt{2}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le carré du nombre $\sqrt{3}+1$ est égal à …
+Proposition 1 @ $4+2\sqrt{3}$
+Proposition 2 @ $10+2\sqrt{3}$
+Proposition 3 @ $4$
+Proposition 4 @ $10$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le nombre $(1-\sqrt{5})^2$ est égal à …
+Proposition 1 @ $6-2\sqrt{5}$
+Proposition 2 @ $-4$
+Proposition 3 @ $26-2\sqrt{5}$
+Proposition 4 @ $-4+2\sqrt{5}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Le carré du nombre $\sqrt{10}-1$ est égal à …
+Proposition 1 @ $11-2\sqrt{10}$
+Proposition 2 @ $9$
+Proposition 3 @ $99$
+Proposition 4 @ $9-2\sqrt{10}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ L’égalité correcte est …
+Proposition 1 @ $(\sqrt{6}-2)^2=10-4\sqrt{6}$
+Proposition 2 @ $(3+\sqrt{2})^2=11$
+Proposition 3 @ $(\sqrt{5}-1)^2=4$
+Proposition 4 @ $(\sqrt{3}+3)^2=12+3\sqrt{3}$
+Reponse 5 @ 1
+
+Image 5 @

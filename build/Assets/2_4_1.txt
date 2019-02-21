@@ -1,0 +1,47 @@
+Thème @ Nombres entiers relatifs
+Sous-Thème @ Priorités opératoires
+Série @ Série 1
+Consigne 1 @ $\textrm{A}=5\times4–3\times6$. $\textrm{A}$ est égal à …
+Proposition 1 @ $20-18$
+Proposition 2 @ $5\times(4–3)\times6$
+Proposition 3 @ $5\times1-6$
+Proposition 4 @ $5\times1\times6$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{A}=10–4\times9+14$. $\textrm{B}=12\times3–5\times6$. Alors …
+Proposition 1 @ $\textrm{A}=-12$ et $\textrm{B}=6$
+Proposition 2 @ $\textrm{A}=-12$ et $\textrm{B}=-144$
+Proposition 3 @ $\textrm{A}=60$ et $\textrm{B}=6$
+Proposition 4 @ $\textrm{A}=60$ et $\textrm{B}=-144$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ La seule égalité vraie est …
+Proposition 1 @ $(15–8)\times4+12=40$
+Proposition 2 @ $(14–3)\times5+8=7$
+Proposition 3 @ $(11–7)\times3–1=8$
+Proposition 4 @ $(10–4)\times5–15=-25$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ L'affirmation correcte est …
+Proposition 1 @ $((-10)+8)\times5+3=-7$
+Proposition 2 @ $(-10)+8\times5+3=-7$
+Proposition 3 @ $(-10)+8\times(5+3)=-7$
+Proposition 4 @ $((-10)+8\times5)+3=-7$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Dina : « $(-2)\times5+(-1)-(-6)=-2$ ». Léo : « $(-2)\times(5+(-1))-(-6)=-2$ ». Alors …
+Proposition 1 @ Léo a raison et Dina se trompe
+Proposition 2 @ Dina a raison et Léo se trompe
+Proposition 3 @ Dina et Léo ont raison
+Proposition 4 @ Dina et Léo se trompent
+Reponse 5 @ 1
+
+Image 5 @

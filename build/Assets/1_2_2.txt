@@ -1,0 +1,48 @@
+﻿Thème @ Nombres entiers naturels
+Sous-Thème @ Calculs avec les nombres 25, 50, 75 …
+Série @ Série 2
+Consigne 1 @ $25×4$ est égal à …
+Proposition 1 @ $100$
+Proposition 2 @ $90$
+Proposition 3 @ $110$
+Proposition 4 @ $85$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Le nombre manquant dans l’égalité $\cdots×75=300$ est …
+Proposition 1 @ $4$
+Proposition 2 @ $3$
+Proposition 3 @ $5$
+Proposition 4 @ $4,5$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Le produit $125×8$ est égal à …
+Proposition 1 @ $1000$
+Proposition 2 @ $900$
+Proposition 3 @ $950$
+Proposition 4 @ $920$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ L’égalité incorrecte est …
+Proposition 1 @ $75×2=125$
+Proposition 2 @ $25×6=150$
+Proposition 3 @ $75×2=150$
+Proposition 4 @ $25×5=125$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Le produit $50×6$ est égal à …
+Proposition 1 @ $25×12$
+Proposition 2 @ $25×14$
+Proposition 3 @ $75×2$
+Proposition 4 @ $75×6$
+Reponse 5 @ 1
+
+Image 5 @

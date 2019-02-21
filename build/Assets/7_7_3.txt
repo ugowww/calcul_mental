@@ -1,0 +1,49 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Suppression de parenthèses et réduction
+Série @ Série 3
+
+Consigne 1 @ $\textrm{A}=6+2(3x+5)$. On peut écrire $\textrm{A}$ sans parenthèses sous la forme …
+Proposition 1 @ $\textrm{A}=6x+16$
+Proposition 2 @ $\textrm{A}=6x+11$
+Proposition 3 @ $\textrm{A}=24x+40$
+Proposition 4 @ $\textrm{A}=24x+5$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ $\textrm{B}=2(1-3x)+8x+7$. L’expression réduite de $\textrm{B}$ est …
+Proposition 1 @ $\textrm{B}=2x+9$
+Proposition 2 @ $\textrm{B}=5x+9$
+Proposition 3 @ $\textrm{B}=-19x+9$
+Proposition 4 @ $\textrm{B}=7$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ L’égalité vraie pour tout nombre réel $x$ est …
+Proposition 1 @ $4-3(x+1)=1-3x$
+Proposition 2 @ $4-3(x+1)=x+1$
+Proposition 3 @ $4-3(x+1)=5-3x$
+Proposition 4 @ $4-3(x+1)=-2x$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $\textrm{C}=-4(6x-3)+10x$. L’expression développée et réduite de $\textrm{C}$ est …
+Proposition 1 @ $\textrm{C}=-14x+12$
+Proposition 2 @ $\textrm{C}=-14x-7$
+Proposition 3 @ $\textrm{C}=-12$
+Proposition 4 @ $\textrm{C}=-3$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{D}=7x+2-2(3-3x)$. $\textrm{D}$ peut s’écrire sous la forme simplifiée …
+Proposition 1 @ $\textrm{D}=13x-4$
+Proposition 2 @ $\textrm{D}=7x+2$
+Proposition 3 @ $\textrm{D}=4x-4$
+Proposition 4 @ $\textrm{D}=13x$
+Reponse 5 @ 1
+
+Image 5 @

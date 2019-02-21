@@ -1,0 +1,47 @@
+﻿Thème @ Nombres entiers relatifs
+Sous-Thème @ Comparaison, addition - soustraction
+Série @ Série 2
+Consigne 1 @ $(-23)+18$ est égal à …
+Proposition 1 @ $-5$
+Proposition 2 @ $5$
+Proposition 3 @ $-41$
+Proposition 4 @ $41$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La somme de $(-15)$ et de $(-56)$ est égale à …
+Proposition 1 @ $-71$
+Proposition 2 @ $-41$
+Proposition 3 @ $41$
+Proposition 4 @ $71$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ $18-(-6)$ est égal à …
+Proposition 1 @ $24$
+Proposition 2 @ $12$
+Proposition 3 @ $-24$
+Proposition 4 @ $-12$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Quand on soustrait $(-49)$ à $(-43)$, on obtient …
+Proposition 1 @ $6$
+Proposition 2 @ $-92$
+Proposition 3 @ $92$
+Proposition 4 @ $-6$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ En retranchant $19$ de $(-34)$, on obtient …
+Proposition 1 @ $-53$
+Proposition 2 @ $53$
+Proposition 3 @ $15$
+Proposition 4 @ $-15$
+Reponse 5 @ 1
+
+Image 5 @

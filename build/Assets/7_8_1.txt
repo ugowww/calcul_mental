@@ -1,0 +1,49 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Production d'une expression littérale
+Série @ Série 1
+
+Consigne 1 @ Le double d’un nombre réel $x$ s’écrit …
+Proposition 1 @ $2x$
+Proposition 2 @ $x+2$
+Proposition 3 @ $x^2$
+Proposition 4 @ $2-x$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ L’opposé d’un nombre réel $x$ est le nombre …
+Proposition 1 @ $-x$
+Proposition 2 @ $\frac{1}{x}$
+Proposition 3 @ $1-x$
+Proposition 4 @ $x-1$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ On appelle carré d’un nombre réel $x$ le nombre …
+Proposition 1 @ $x^2$
+Proposition 2 @ $2x$
+Proposition 3 @ $4x$
+Proposition 4 @ $x+x$
+Reponse 3 @ 1
+
+Image 3 @
+
+
+Consigne 4 @ $n$ désigne un nombre entier naturel. L’entier qui précède $n$ est …
+Proposition 1 @ $n-1$
+Proposition 2 @ $n+1$
+Proposition 3 @ $1-n$
+Proposition 4 @ $\frac{n}{2}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Deux nombres entiers consécutifs sont …
+Proposition 1 @ $n$ et $n+1$
+Proposition 2 @ $n$ et $n+2$
+Proposition 3 @ $n$ et $2n$
+Proposition 4 @ $n-1$ et $n+1$
+Reponse 5 @ 1
+
+Image 5 @

@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Inégalités 2
+Série @ Série 2
+Consigne 1 @ Si $a$ et $b$ désignent deux nombres réels tels que $a-b\geq0$, alors …
+Proposition 1 @ $a$ est supérieur ou égal à $b$
+Proposition 2 @ $a$ est inférieur ou égal à $b$
+Proposition 3 @ $a$ est égal à $b$
+Proposition 4 @ $a$ est strictement supérieur à $b$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Si $a$ et $b$ désignent deux nombres réels tels que $a-b\leq0$, alors …
+Proposition 1 @ $a$ est inférieur ou égal à $b$
+Proposition 2 @ $a$ est supérieur ou égal à $b$
+Proposition 3 @ $a$ est différent de $b$
+Proposition 4 @ $a$ est strictement inférieur à $b$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Si $x$ et $y$ désignent deux nombres réels tels que $x-y<0$, alors …
+Proposition 1 @ $x$ est strictement inférieur à $y$
+Proposition 2 @ $x$ est strictement supérieur à $y$
+Proposition 3 @ on ne peut pas comparer $x$ et $y$
+Proposition 4 @ $x$ est supérieur ou égal à $y$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ $x$ désigne un nombre réel positif et $y$ désigne un nombre réel. Si $a=2x+y$ et $b=x+y$, alors …
+Proposition 1 @ $a$ est supérieur ou égal à $b$
+Proposition 2 @ $on ne peut pas comparer $a$ et $b$
+Proposition 3 @ $a$ est inférieur ou égal à $b$
+Proposition 4 @ $a$ est égal à $2b$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $x$ désigne un nombre réel. Si $a=x^2$ et $b=2x-1$, alors …
+Proposition 1 @ $a$ est supérieur ou égal à $b$
+Proposition 2 @ on ne peut pas comparer $a$ et $b$
+Proposition 3 @ $a$ est inférieur ou égal à $b$
+Proposition 4 @ $a$ est égal à $b^2$
+Reponse 5 @ 1
+
+Image 5 @

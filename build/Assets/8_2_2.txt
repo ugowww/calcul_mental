@@ -1,0 +1,47 @@
+Thème @ Identités
+Sous-Thème @ Factorisation
+Série @ Série 2
+Consigne 1 @ En factorisant l’expression $x^2–4$, on obtient …
+Proposition 1 @ $(x+2)(x-2)$
+Proposition 2 @ $(2-x)(2+x)$
+Proposition 3 @ $(x-2)^2$
+Proposition 4 @ $(x+4)(x-4)$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour tout nombre réel $x$, l’affirmation vraie est …
+Proposition 1 @ $x^2-64=(x+8)(x-8)$
+Proposition 2 @ $x^2-1=(x-1)^2$
+Proposition 3 @ $x^2-16=(x-8)(x+8)$
+Proposition 4 @ $x^2-4=(x+2)^2$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Pour tout nombre réel $x$, l’expression $9x2-1$ s’écrit aussi …
+Proposition 1 @ $(3x+1)(3x-1)$
+Proposition 2 @ $(9x+1)(9x-1)$
+Proposition 3 @ $(3x-1)^2$
+Proposition 4 @ $(9x-1)^2$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour tout nombre réel $x$, $25x^2-16$ est égal à …
+Proposition 1 @ $(5x-4)(5x+4)$
+Proposition 2 @ $(25x+4)(25x-4)$
+Proposition 3 @ $(5x-4)^2$
+Proposition 4 @ $(12,5x+8)(12,5x-8)$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ $\textrm{A}=81-100x^2$. L’expression factorisée de $\textrm{A}$ est …
+Proposition 1 @ $(9-10x)(9+10x)$
+Proposition 2 @ $(10x+9)(10x-9)$
+Proposition 3 @ $(9x-10)^2$
+Proposition 4 @ $(9-50x)(9+50x)$
+Reponse 5 @ 1
+
+Image 5 @

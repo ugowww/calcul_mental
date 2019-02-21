@@ -1,0 +1,47 @@
+﻿Thème @ Inéquations
+Sous-Thème @ Inégalités 1
+Série @ Série 3
+Consigne 1 @ Si $a$ et $b$ désignent deux nombres réels tels que $a<2$ et $b<6$, alors …
+Proposition 1 @ $a+b<8$
+Proposition 2 @ $a+b=8$
+Proposition 3 @ $a+b>8$
+Proposition 4 @ On ne peut rien dire sur $a+b$.
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Si $x$ et $y$ désignent deux nombres réels tels que $x>-1$ et $y>7$, alors …
+Proposition 1 @ $x+y>6$
+Proposition 2 @ $x+y=6$
+Proposition 3 @ $x+y<6$
+Proposition 4 @ On ne peut rien dire sur $x+y$.
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Si $a$ et $b$ désignent deux nombres réels tels que $a\leq0$ et $b\leq0$, alors …
+Proposition 1 @ $a+b\leq0$
+Proposition 2 @ $a+b=0$
+Proposition 3 @ $a+b\geq0$ 
+Proposition 4 @ On ne peut rien dire sur $a+b$.
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Si $x$ et $y$ désignent deux nombres réels tels que $x<2$ et $y>6$, alors …
+Proposition 1 @ On ne peut rien dire sur $x+y$.
+Proposition 2 @ $x+y<8$
+Proposition 3 @ $x+y>4$
+Proposition 4 @ $x+y=8$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Si $c$ et $d$ désignent deux nombres réels tels que $c-d\leq2$ et $d\leq3$, alors …
+Proposition 1 @ $c\leq5$
+Proposition 2 @ $c\geq5$
+Proposition 3 @ On ne peut rien dire sur $c$.
+Proposition 4 @ $c+d\geq8$
+Reponse 5 @ 1
+
+Image 5 @

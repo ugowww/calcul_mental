@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Transformation d’écriture
+Série @ Série 3
+Consigne 1 @ Pour $x\neq-1$, $\frac{2}{x+1}+1$ est égal à …
+Proposition 1 @ $\frac{x+3}{x+1}$
+Proposition 2 @ $\frac{3}{x+1}$
+Proposition 3 @ $\frac{2+x}{x+1}$
+Proposition 4 @ $\frac{3x}{x+1}$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ Pour $x\neq-3$, dans l'égalité $1-\frac{1}{x+3}=\frac{\cdots}{x+3}$, le terme manquant est …
+Proposition 1 @ $x+2$
+Proposition 2 @ $1$
+Proposition 3 @ $x-3$
+Proposition 4 @ $x-1$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Pour $x\neq-1$, une écriture de $\frac{2x}{x+1}-1$ est …
+Proposition 1 @ $\frac{x-1}{x+1}$
+Proposition 2 @ $\frac{x}{x+1}$
+Proposition 3 @ $\frac{2x-1}{x+1}$
+Proposition 4 @ $\frac{-2x}{x+1}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour $t\neq-2$, $\frac{t+5}{t+2}$ est égal à …
+Proposition 1 @ $1+\frac{3}{t+2}$
+Proposition 2 @ $1+\frac{5}{t+2}$
+Proposition 3 @ $\frac{t}{t+2}+5$
+Proposition 4 @ $\frac{5}{2}$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour $x\neq-3$, $\frac{x+1}{x+3}+1$ est égal à …
+Proposition 1 @ $\frac{2x+4}{x+3}$
+Proposition 2 @ $\frac{x+2}{x+3}$
+Proposition 3 @ $\frac{x+4}{x+3}$
+Proposition 4 @ $\frac{4}{3}$
+Reponse 5 @ 1
+
+Image 5 @

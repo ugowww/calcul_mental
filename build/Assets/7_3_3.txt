@@ -1,0 +1,47 @@
+﻿Thème @ Expression littérale
+Sous-Thème @ Simplification d’écriture - Réduction
+Série @ Série 3
+Consigne 1 @ $\textrm{A}=\frac{6x+10y}{2}$. On peut écrire …
+Proposition 1 @ $\textrm{A}=3x+5y$
+Proposition 2 @ $\textrm{A}=8xy$
+Proposition 3 @ $\textrm{A}=3x+10y$
+Proposition 4 @ $\textrm{A}=6x+5y$
+Reponse 1 @ 1
+
+Image 1 @
+
+Consigne 2 @ La forme réduite de l’expression $\frac{2u-6v}{2}$ est …
+Proposition 1 @ $u-3v$
+Proposition 2 @ $u-6v$
+Proposition 3 @ $-6uv$
+Proposition 4 @ $2u-3v$
+Reponse 2 @ 1
+
+Image 2 @
+
+Consigne 3 @ Pour $x\neq-3$, la forme réduite de l’expression $\frac{8+2x}{6+2x}$ est …
+Proposition 1 @ $\frac{4+x}{3+x}$
+Proposition 2 @ $\frac{4}{3}$
+Proposition 3 @ $\frac{4}{3}+x$
+Proposition 4 @ $\frac{5}{4}$
+Reponse 3 @ 1
+
+Image 3 @
+
+Consigne 4 @ Pour $x\neq2$, $\frac{4(x+3)}{4(x-2}$ peut s'écrire …
+Proposition 1 @ $\frac{x+3}{x-2}$
+Proposition 2 @ $\frac{x+6}{x-8}$
+Proposition 3 @ $\frac{-3}{2}$
+Proposition 4 @ $4x$
+Reponse 4 @ 1
+
+Image 4 @
+
+Consigne 5 @ Pour $a\neq2$, $\frac{3a-6}{6a-12}$ est égal à …
+Proposition 1 @ $\frac{1}{2}$
+Proposition 2 @ $2$
+Proposition 3 @ $\frac{3}{4}$
+Proposition 4 @ $\frac{a-6}{2a-12}$
+Reponse 5 @ 1
+
+Image 5 @
