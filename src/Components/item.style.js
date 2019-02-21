@@ -18,6 +18,7 @@ max-height: 65px;
     background: linear-gradient(#fafafc, white);
     box-shadow: 0px 2px 2px 1px rgba(0, 10, 20, 0.07);
     max-height: 65px;
+    cursor : pointer;
     
     &.validate .feedback {
     visibility: visible;

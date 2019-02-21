@@ -8,6 +8,8 @@ import { Layout } from 'antd';
 import { connect } from 'react-redux';
 import House from './Components/Home/index'
 import {MobileOnlyView,isBrowser,isTablet} from "react-device-detect";
+import logo from './Assets/nathan155.jpg';
+import hyperbole from './Assets/hyperbole_logo.jpg';
 
 const {Sider,Content} = Layout;
 const styles = {
@@ -56,7 +58,8 @@ class QuizApp extends Component {
            <p>Sélectionnez votre série à partir du menu.</p>
          </div>
          }
-
+        <div><img className="Logomobile" src={logo} alt="Logo"></img></div>
+        <div><img className="hyperbole" src={hyperbole} alt="hyperbole"></img></div>
         </Content></div>
          
     )

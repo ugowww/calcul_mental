@@ -100,7 +100,7 @@ p {
 .mobile .module-maths-logo {
 	color: white;
 	font-size: 20px;
-	position: fixed;
+	position: absolute;
 	background: #001529;
 	z-index: 999;
 	padding: 10px;
@@ -239,4 +239,16 @@ font-family: 'Varela Round', sans-serif!important;
 .ant-btn-primary[disabled]:hover {
 	background-color: rgba(35, 123, 238, 0.5);
 	color : #ffffff;
+}
+.Logomobile{
+    width: 25%;
+	margin-top: 180%;
+	margin-left: 65%;
+	position: absolute;
+}
+.hyperbole{
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 40%;
+
 }
