@@ -242,14 +242,14 @@ font-family: 'Varela Round', sans-serif!important;
 }
 .Logomobile{
     width: 25%;
-	top : 600px;
+	bottom : 30px;
 	right : 20px;
 	position: absolute;
 }
 .hyperbole{
-	width: 70%;
+	width: 300px;
 	left: 50%;
-	margin-left: -145px;
+	margin-left: -150px;
 	position : absolute;
 	top : 100px;
 

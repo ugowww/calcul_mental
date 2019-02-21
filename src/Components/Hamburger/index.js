@@ -10,7 +10,7 @@ export default class index extends Component {
     render() {
     return (
       <HamburgerStyle>
-         <button onClick={e => this.actionDrawer()} type="button" className="drawer-toggle drawer-hamburger">
+        <button onClick={e => this.actionDrawer()} type="button" className="drawer-toggle drawer-hamburger"> 
            <span className="sr-only">toggle navigation</span>
            <span className="drawer-hamburger-icon"></span>
         </button>
