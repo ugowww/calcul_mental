@@ -5,7 +5,7 @@ const NavigationStyle = styled.div `
 .module-maths-prev {
 
     position: absolute;
-    bottom: 11px;
+    bottom: 0px;
     left: 11px;
     color: black;
     cursor: pointer;
@@ -45,7 +45,7 @@ const NavigationStyle = styled.div `
 
 .module-maths-validate {
     position: absolute;
-    bottom: 11px;
+    bottom: 0px;
     left : 0;
     right : 0;
     padding : 5px;
@@ -60,11 +60,11 @@ const NavigationStyle = styled.div `
 
 .module-maths-next {
     position: absolute;
-    bottom: 8px;
+    bottom: 0px;
     right: 11px;
     color: black;
     cursor: pointer;
-    z-index : 99;
+    z-index : 999;
     width:50px;
     height:50px;
     

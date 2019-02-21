@@ -1,7 +1,7 @@
 {
   "main.css": "/Clients/Nathan/Module/static/css/main.6f784b23.chunk.css",
-  "main.js": "/Clients/Nathan/Module/static/js/main.e1f79e2d.chunk.js",
-  "main.js.map": "/Clients/Nathan/Module/static/js/main.e1f79e2d.chunk.js.map",
+  "main.js": "/Clients/Nathan/Module/static/js/main.31946000.chunk.js",
+  "main.js.map": "/Clients/Nathan/Module/static/js/main.31946000.chunk.js.map",
   "static/css/1.85a22663.chunk.css": "/Clients/Nathan/Module/static/css/1.85a22663.chunk.css",
   "static/js/1.5237e363.chunk.js": "/Clients/Nathan/Module/static/js/1.5237e363.chunk.js",
   "static/js/1.5237e363.chunk.js.map": "/Clients/Nathan/Module/static/js/1.5237e363.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/media/flag.svg": "/Clients/Nathan/Module/static/media/flag.9c4155d3.svg",
   "static/css/1.85a22663.chunk.css.map": "/Clients/Nathan/Module/static/css/1.85a22663.chunk.css.map",
   "index.html": "/Clients/Nathan/Module/index.html",
-  "precache-manifest.6e59ba3178bbad74d0d41cafc1e45908.js": "/Clients/Nathan/Module/precache-manifest.6e59ba3178bbad74d0d41cafc1e45908.js",
+  "precache-manifest.fdd4de7bb898e559d2f4ac7f913a68b1.js": "/Clients/Nathan/Module/precache-manifest.fdd4de7bb898e559d2f4ac7f913a68b1.js",
   "service-worker.js": "/Clients/Nathan/Module/service-worker.js"
 }
