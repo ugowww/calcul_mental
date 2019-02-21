@@ -7,11 +7,13 @@ import { connect } from 'react-redux';
 const {SubMenu} = Menu
 
 let rootSubmenuKeys = [];
-
+let newArray = [];
 class index extends Component {
      
     state = {
-        openKeys: []
+        openKeys: [],
+        openKeyssubsub: [],
+        openKeyssub : [],
     }
 
      RenderSubMenu =(e,option) =>{
@@ -27,7 +29,7 @@ class index extends Component {
            
             
           
-            <SubMenu  key={'subMenu_'+item.option+"_"+index} title={<span style={{display:'flex'}}><Icon  type="folder" /><span>{renderHTML(item.title)}</span></span>}>
+            <SubMenu  key={'subsubMenu_'+item.option+"_"+index} title={<span style={{display:'flex'}}><Icon  type="folder" /><span>{renderHTML(item.title)}</span></span>}>
              
              {   item.serie.map((child,index) => {
              
@@ -82,8 +84,29 @@ class index extends Component {
   }
 
     onOpenChange = (openKeys) => {
+     console.log(openKeys);
+
+     // 
+     console.log(openKeys[openKeys.length-1])
+    let lastKEY =openKeys[openKeys.length-1];
+    
+      if(lastKEY.indexOf('subsub')>-1) {
+        console.log('find')
+        openKeys.map=(item) => {
+          if(item.indexOf('subsub')>-1) {
+            console.log("add")
+            newArray.push(item)
+          } else {
+           
+          }
+        }
+      }
+      newArray.push(lastKEY)
+     console.log("newArray",newArray)
      
-     this.setState({ openKeys });
+      this.setState({ openKeys:newArray });
+     
+
       const latestOpenKey = openKeys.find(key => this.state.openKeys.indexOf(key) === -1);
       if (rootSubmenuKeys.indexOf(latestOpenKey) === -1) {
         this.setState({ openKeys });
@@ -91,7 +114,7 @@ class index extends Component {
         this.setState({
           openKeys: latestOpenKey ? [latestOpenKey] : [],
         });
-      }
+      } 
     }
 
   render() {
@@ -103,6 +126,8 @@ class index extends Component {
       </div>
     )
   }
+
+  
 }
 
 const mapDispatchToProps = dispatch => {
