@@ -89,7 +89,7 @@ class index extends Component {
     let lastKEY =openKeys[openKeys.length-1];
     let lastKEY2=openKeys[openKeys.length-2];
     
-      if(lastKEY.indexOf('subsub')> -1){
+      if(lastKEY&&lastKEY.indexOf('subsub')> -1){
       if (openKeys.length>1 && lastKEY2.indexOf('subsub') > -1) {
         openKeys.splice(openKeys.length-2, 1,)
       }
