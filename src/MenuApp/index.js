@@ -84,28 +84,16 @@ class index extends Component {
   }
 
     onOpenChange = (openKeys) => {
-     console.log(openKeys);
 
      // 
-     console.log(openKeys[openKeys.length-1])
     let lastKEY =openKeys[openKeys.length-1];
+    let lastKEY2=openKeys[openKeys.length-2];
     
-      if(lastKEY.indexOf('subsub')>-1) {
-        console.log('find')
-        openKeys.map=(item) => {
-          if(item.indexOf('subsub')>-1) {
-            console.log("add")
-            newArray.push(item)
-          } else {
-           
-          }
-        }
+      if(lastKEY.indexOf('subsub')> -1){
+      if (openKeys.length>1 && lastKEY2.indexOf('subsub') > -1) {
+        openKeys.splice(openKeys.length-2, 1,)
       }
-      newArray.push(lastKEY)
-     console.log("newArray",newArray)
-     
-      this.setState({ openKeys:newArray });
-     
+    }
 
       const latestOpenKey = openKeys.find(key => this.state.openKeys.indexOf(key) === -1);
       if (rootSubmenuKeys.indexOf(latestOpenKey) === -1) {

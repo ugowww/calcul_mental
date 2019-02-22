@@ -15,7 +15,7 @@ const HeaderStyle = styled.div `
 
     .hyperboleheader{
         display: inline-block;
-        font-size: 25px;
+        font-size: 20px;
         padding-top: 17px;
         padding-bottom:17px;
         padding-left: 20px;
@@ -48,13 +48,13 @@ const HeaderStyle = styled.div `
 
     .module-maths-title{
         display: inline-block;
-        font-size: 25px;
+        font-size: 20px;
         padding-top: 17px;
         padding-bottom:17px;
         padding-left: 20px;
         position :absolute;
         color : #ffffff;
-        margin-left : 130px;
+        margin-left : 105px;
     }
 
     #module-maths-header-menu-container {
